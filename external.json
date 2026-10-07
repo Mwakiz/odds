@@ -193,7 +193,7 @@
     { "id": "odds2", "title": "2 Odds Package", "type": "flat", "price_kes": 150 },
     { "id": "odds5", "title": "3 Odds Package", "type": "flat", "price_kes": 350 },
     { "id": "odds10", "title": "5 Odds Package", "type": "flat", "price_kes": 550 },
-    { "id": "vip1000", "title": "VIP Tips Package", "type": "flat", "price_kes": 1000, "isMostPopular": true },
+    { "id": "vip1000", "title": "10+ Odds Package", "type": "flat", "price_kes": 950, "isMostPopular": true },
     { 
       "id": "jackpot", 
       "title": "SportPesa & Betika Jackpots", 
