@@ -221,6 +221,13 @@
       "categories": {
         
         "2 Odds": [ { "country": "england", "teamA": "Arsenal", "teamB": "Chelsea", "prediction": "1", "score": "2-0", "odds": "2.10", "result": "WON" } ],
+
+        "3 Odds": [ 
+            { "country": "spain", "teamA": "Real Madrid", "teamB": "Sevilla", "prediction": "1 & Over 2.5", "score": "3-1", "odds": "2.30", "result": "WON" },
+            { "country": "germany", "teamA": "Bayern Munich", "teamB": "Stuttgart", "prediction": "1", "score": "2-0", "odds": "1.85", "result": "WON" },
+            { "country": "italy", "teamA": "Juventus", "teamB": "Torino", "prediction": "Under 2.5", "score": "1-0", "odds": "1.50", "result": "WON" }
+        ],
+        
         "5 Odds": [ 
             { "country": "spain", "teamA": "Real Madrid", "teamB": "Sevilla", "prediction": "1 & Over 2.5", "score": "3-1", "odds": "2.30", "result": "WON" },
             { "country": "germany", "teamA": "Bayern Munich", "teamB": "Stuttgart", "prediction": "1", "score": "2-0", "odds": "1.85", "result": "WON" },
