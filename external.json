@@ -164,11 +164,11 @@
   "free_tip": {
     "country": "England",
     "league": "Premier League",
-    "time": "Today 17:00 EAT",
-    "teamA": "juma",
-    "teamB": "jones",
-    "pick": "Pick: 1 s",
-    "confidence": "92"
+    "time": "Today 7:00 EAT",
+    "teamA": "Besiktas",
+    "teamB": "Kocaelispor",
+    "pick": "Pick: Over2.5",
+    "confidence": "98"
   },
   "packages": [
     { "id": "odds2", "title": "2+ Odds Package", "type": "flat", "price_kes": 150 },
