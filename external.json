@@ -28,7 +28,7 @@
       "methods": [
         {
           "provider": "MTN Uganda (to Safaricom M-Pesa)",
-          "phone": "254713804279",
+          "phone": "254728832598",
           "steps": [
             "Dial *165# on your mobile line.",
             "Select 1: Send Money.",
@@ -41,7 +41,7 @@
         },
         {
           "provider": "Airtel Uganda",
-          "phone": "254739162763",
+          "phone": "254754066101",
           "steps": [
             "Dial *185#.",
             "Select 1: Send Money.",
@@ -74,7 +74,7 @@
         },
         {
           "provider": "Airtel Tanzania",
-          "phone": "254713804279",
+          "phone": "254754066101",
           "steps": [
             "Dial *150*60#.",
             "Select 1: Send Money.",
