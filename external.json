@@ -228,7 +228,7 @@
       "categories": {
         
         "SILVER PLAN": [ 
-          { "country": "england", "teamA": "Antalyaspor", "teamB": "Kayserispor", "prediction": "OV2.5", "score": "0-4", "odds": "1.75", "result": "WON" },
+          { "country": "england", "teamA": "Antalyaspor", "teamB": "Kayserispor", "prediction": "OVER2.5", "score": "0-4", "odds": "1.75", "result": "WON" },
           { "country": "germany", "teamA": "Hoedd Il", "teamB": "Ranheim", "prediction": "GG", "score": "1-1", "odds": "1.40", "result": "WON" }
         ],
         
