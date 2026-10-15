@@ -212,10 +212,11 @@
      "odds8": [ { "teamA": "Fc Salzburg", "teamB": "Ac Milan", "tip": "2", "odds": "2.10" }, { "teamA": "Brighton", "teamB": "Kauno Zalgiris", "tip": "Over 3.5", "odds": "1.50" } ],
     "odds9": [ { "teamA": "Pfc Cska Sofia", "teamB": "Monaco", "tip": "2", "odds": "1.55" }, { "teamA": "Sk Brann", "teamB": "Lincoln Red Imps", "tip": "OVER2.5", "odds": "1.40" }, { "teamA": "Union Saint-gilloise", "teamB": "Real Sociedad", "tip": "Over 2.5", "odds": "1.65" } ],
     "vip1000": [ { "teamA": "Benfica", "teamB": "Celtic", "tip": "OVER2.5", "odds": "1.35" }, { "teamA": "Marseille", "teamB": "Olympiacos", "tip": "1", "odds": "2.50" }, { "teamA": "Kf Egnatia Rrogozhine", "teamB": "Midtjylland", "tip": "OVER2.5", "odds": "1.85" } ],
+    
     "jackpot-sportpesa-jackpot-1-slip": { "slips": ["1X21X2X1212X1"] },
     "jackpot-sportpesa-jackpot-2-slips": { "slips": ["1X21X2X1212X1", "2X11221XX1121"] },
     "jackpot-mega-jackpot-1-slip": { "slips": ["1X212X1X211X21X21"] },
-    "jackpot-mega-jackpot-2-slips": { "slips": ["1X212X1X211X21X21", "2X11221XX1121221X"] },
+    "jackpot-mega-jackpot-2-slips": { "slips": ["1X212X1X211X21X21", "2X11221XX1121221X"] }
     
     }
   },
