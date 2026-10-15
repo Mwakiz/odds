@@ -185,7 +185,7 @@
     { "id": "vip1000", "title": "VVIP PLAN", "type": "flat", "price_kes": 450, "isMostPopular": true },
     { 
       "id": "jackpot", 
-      "title": "SportPesa Jackpot (13 Games)", 
+      "title": "SportPesa Jackpot (13/13)", 
       "type": "jackpot", 
       "jackpots": [
         { "bookmaker": "SportPesa Jackpot 1 SLIP", "amount_kes": 500 },
@@ -195,7 +195,7 @@
     },
     { 
       "id": "mega-jackpot", 
-      "title": "SportPesa Mega Jackpot (17 Games)", 
+      "title": "SportPesa Mega Jackpot (17/17)", 
       "type": "jackpot", 
       "jackpots": [
         { "bookmaker": "Mega Jackpot 1 SLIP", "amount_kes": 500 },
