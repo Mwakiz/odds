@@ -187,8 +187,8 @@
       "title": "SportPesa Jackpot (13 Games)", 
       "type": "jackpot", 
       "jackpots": [
-        { "bookmaker": "SportPesa Jackpot 1 SLIP", "amount_kes": 450 },
-        { "bookmaker": "SportPesa Jackpot 2 SLIPS", "amount_kes": 700 }
+        { "bookmaker": "SportPesa Jackpot 1 SLIP", "amount_kes": 500 },
+        { "bookmaker": "SportPesa Jackpot 2 SLIPS", "amount_kes": 850 }
         
       ]
     },
@@ -197,8 +197,8 @@
       "title": "SportPesa Mega Jackpot (17 Games)", 
       "type": "jackpot", 
       "jackpots": [
-        { "bookmaker": "Mega Jackpot 1 SLIP", "amount_kes": 450 },
-        { "bookmaker": "Mega Jackpot 2 SLIPS", "amount_kes": 700 }
+        { "bookmaker": "Mega Jackpot 1 SLIP", "amount_kes": 500 },
+        { "bookmaker": "Mega Jackpot 2 SLIPS", "amount_kes": 850 }
        
       ]
     }
