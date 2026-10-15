@@ -172,8 +172,7 @@
 
     
   },
-  "packages": [
-     
+  "packages": [ 
     { "id": "odds2", "title": "SILVER PLAN", "type": "flat", "price_kes": 150 },
     { "id": "odds3", "title": "GOLD PLAN", "type": "flat", "price_kes": 150 },
     { "id": "odds4", "title": "VIP PLAN", "type": "flat", "price_kes": 200 },
@@ -206,7 +205,6 @@
   ],
   
   "tips": {
-    
     "odds2": [ { "teamA": "Freiburg", "teamB": "Jablonec", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "Nec Nijmegen", "teamB": "Pfc Levski Sofia", "tip": "Over 2.5", "odds": "1.80" } ],
     "odds3": [ { "teamA": "Hajduk Split", "teamB": "Ajax", "tip": "2", "odds": "1.70" }, { "teamA": "Lech Poznan", "teamB": "Leverkusen", "tip": "2", "odds": "1.60" } ],
     "odds4": [ { "teamA": "Pogon Siedlce", "teamB": "Puszcza Niepolomice", "tip": "1", "odds": "2.70" }, { "teamA": "Atalanta Bc", "teamB": "Pafos", "tip": "Over 2.5", "odds": "1.55" } ],
@@ -228,12 +226,6 @@
     {
       "date": "Yesterday",
       "categories": {
-        
-        "1 Draw": [ { "country": "spain", "teamA": "Getafe", "teamB": "Alaves", "prediction": "Draw", "score": "1-1", "odds": "3.10", "result": "WON" } ],
-
-        "2 Draws": [ 
-            { "country": "italy", "teamA": "Verona", "teamB": "Empoli", "prediction": "Draw", "score": "0-0", "odds": "3.25", "result": "WON" },
-            { "country": "france", "teamA": "Lens", "teamB": "Lille", "prediction": "Draw", "score": "1-1", "odds": "3.30", "result": "WON" }
         
         "SILVER PLAN": [ 
           { "country": "england", "teamA": "Antalyaspor", "teamB": "Kayserispor", "prediction": "OV2.5", "score": "0-4", "odds": "1.75", "result": "WON" },
