@@ -209,8 +209,8 @@
   ],
   
   "tips": {
-    "draw1": [ { "teamA": "Valencia", "teamB": "Sevilla", "tip": "Draw", "odds": "3.20" } ],
-    "draw2": [ { "teamA": "Everton", "teamB": "Fulham", "tip": "Draw", "odds": "3.40" }, { "teamA": "Lazio", "teamB": "Roma", "tip": "Draw", "odds": "3.10" } ],
+    "draw1": [ { "teamA": "Barranquilla", "teamB": "Tigres", "tip": "Draw", "odds": "3.20" } ],
+    "draw2": [ { "teamA": "Ca Huracan", "teamB": "Gimnasia Y Esgrima La Plata", "tip": "Draw", "odds": "3.20" }, { "teamA": "Barranquilla", "teamB": "Tigres", "tip": "Draw", "odds": "3.10" } ],
     
     "odds2": [ { "teamA": "Freiburg", "teamB": "Jablonec", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "Nec Nijmegen", "teamB": "Pfc Levski Sofia", "tip": "Over 2.5", "odds": "1.80" } ],
     "odds3": [ { "teamA": "Hajduk Split", "teamB": "Ajax", "tip": "2", "odds": "1.70" }, { "teamA": "Lech Poznan", "teamB": "Leverkusen", "tip": "2", "odds": "1.60" } ],
@@ -234,10 +234,10 @@
       "date": "Yesterday",
       "categories": {
 
-         "1 Draw": [ { "country": "spain", "teamA": "Hull City", "teamB": "Everton", "prediction": "Draw", "score": "2-2", "odds": "3.50", "result": "WON" } ],
+         "1 Draw": [ { "country": "spain", "teamA": "Hunior", "teamB": "Pereira", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": "Fredrikstad", "teamB": "Tromso", "prediction": "Draw", "score": "1-1", "odds": "4.25", "result": "WON" },
-            { "country": "france", "teamA": "Chanthaburi", "teamB": "Nongbua Pitch", "prediction": "Draw", "score": "0-0", "odds": "3.59", "result": "WON" }
+            { "country": "italy", "teamA": "Hodd", "teamB": "Ranheim", "prediction": "Draw", "score": "1-1", "odds": "3.25", "result": "WON" },
+            { "country": "france", "teamA": "AFC Leopards", "teamB": "Bandari FC", "prediction": "Draw", "score": "0-0", "odds": "3.59", "result": "WON" }
         ],
         
         "SILVER PLAN": [ 
