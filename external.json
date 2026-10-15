@@ -173,7 +173,7 @@
   "packages": [
     { "id": "odds2", "title": "SILVER PLAN", "type": "flat", "price_kes": 150 },
     { "id": "odds3", "title": "GOLD PLAN", "type": "flat", "price_kes": 150 },
-    { "id": "odds3", "title": "VIP PLAN", "type": "flat", "price_kes": 200 },
+    { "id": "odds4", "title": "VIP PLAN", "type": "flat", "price_kes": 200 },
     { "id": "odds5", "title": "LONGBET PLAN", "type": "flat", "price_kes": 350 },
     { "id": "odds6", "title": "COMBO PLAN", "type": "flat", "price_kes": 150 },
     { "id": "odds7", "title": "DRAWS PLAN", "type": "flat", "price_kes": 200 },
@@ -203,9 +203,11 @@
       ]
     }
   ],
+  
   "tips": {
-    "odds2": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & Over 2.5", "odds": "2.10" } ],
+    "odds2": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & Over 2.5", "odds": "2.10" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" ],
     "odds3": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
+    "odds4": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
     "odds5": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
     "odds6": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
      "odds7": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
@@ -221,6 +223,7 @@
     "jackpot-mega-jackpot-3-slips": { "slips": ["1X212X1X211X21X21", "2X11221XX1121221X", "111X221X2X1X2XX12"] },
     "jackpot-mega-jackpot-4-slips": { "slips": ["1X212X1X211X21X21", "2X11221XX1121221X", "111X221X2X1X2XX12", "XX21X122112X11X22"] }
   },
+  
   "history": [
     {
       "date": "Yesterday",
