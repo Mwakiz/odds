@@ -178,7 +178,7 @@
     { "id": "odds4", "title": "VIP PLAN", "type": "flat", "price_kes": 200 },
     { "id": "odds5", "title": "LONGBET PLAN", "type": "flat", "price_kes": 350 },
     { "id": "odds6", "title": "COMBO PLAN", "type": "flat", "price_kes": 150 },
-    { "id": "odds7", "title": "DRAWS PLAN", "type": "flat", "price_kes": 200 },
+    { "id": "odds7", "title": "GOLDEN PLAN", "type": "flat", "price_kes": 200 },
     { "id": "odds8", "title": "TOP PLAN", "type": "flat", "price_kes": 250 },
      { "id": "odds9", "title": "PLATINUM PLAN", "type": "flat", "price_kes": 300 },
     { "id": "vip1000", "title": "VVIP PLAN", "type": "flat", "price_kes": 450, "isMostPopular": true },
@@ -254,7 +254,7 @@
             { "country": "spain", "teamA": "Lask", "teamB": "Liverpool", "prediction": "2", "score": "3-6", "odds": "1.4+", "result": "WON" }
         ],
 
-        "DRAWS PLAN": [ 
+        "GOLDEN PLAN": [ 
             { "country": "france", "teamA": "Ittihad Tanger", "teamB": "Mas Maghrib", "prediction": "GG", "score": "2-1", "odds": "1.80", "result": "WON" },
             { "country": "spain", "teamA": "Barcelona", "teamB": "Girona", "prediction": "Over 2.5", "score": "2-1", "odds": "1.65", "result": "WON" }
         ],
