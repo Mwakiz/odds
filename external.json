@@ -228,7 +228,7 @@
         
         
         "2 Odds": [ 
-          { "country": "england", "teamA": "Buriram United", "teamB": "Beijing Guoan", "prediction": "2", "score": "0-1", "odds": "3.10", "result": "WON" } 
+          { "country": "england", "teamA": "Buriram United", "teamB": "Beijing Guoan", "prediction": "2", "score": "0-1", "odds": "3.10", "result": "WON" },
           { "country": "germany", "teamA": "Harju Jk Laagri", "teamB": "Nomme United", "prediction": "1", "score": "2-0", "odds": "2.10", "result": "WON" }
         ],
         
