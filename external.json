@@ -173,7 +173,7 @@
  "packages": [
     { "id": "draw1", "title": "1 Draw Package", "type": "flat", "price_kes": 150 },
     { "id": "draw2", "title": "2 Draws Package", "type": "flat", "price_kes": 250 }
-  ],
+  ]
 
     
   },
