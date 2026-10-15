@@ -205,12 +205,12 @@
   ],
   
   "tips": {
-    "odds2": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
-    "odds3": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
-    "odds4": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
-    "odds5": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
-    "odds6": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
-     "odds7": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
+    "odds2": [ { "teamA": "Freiburg", "teamB": "Jablonec", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "Nec Nijmegen", "teamB": "Pfc Levski Sofia", "tip": "Over 2.5", "odds": "1.80" } ],
+    "odds3": [ { "teamA": "Hajduk Split", "teamB": "Ajax", "tip": "2", "odds": "1.70" }, { "teamA": "Lech Poznan", "teamB": "Leverkusen", "tip": "2", "odds": "1.60" } ],
+    "odds4": [ { "teamA": "Pogon Siedlce", "teamB": "Puszcza Niepolomice", "tip": "1", "odds": "2.70" }, { "teamA": "Atalanta Bc", "teamB": "Pafos", "tip": "Over 2.5", "odds": "1.55" } ],
+    "odds5": [ { "teamA": "Riga", "teamB": "Kairat", "tip": "OV1.5", "odds": "1.35" }, { "teamA": "Fc Lugano", "teamB": "Crvena Zvezda", "tip": "Over 2.5", "odds": "1.70" } ],
+    "odds6": [ { "teamA": "Hoffenheim", "teamB": "Besiktas", "tip": "OVER2.5", "odds": "1.60" }, { "teamA": "Kuopion Palloseura", "teamB": "Trabzonspor", "tip": "2", "odds": "1.55" } ],
+     "odds7": [ { "teamA": "Benfica", "teamB": "Celtic", "tip": "OVER2.5", "odds": "1.35" }, { "teamA": "Marseille", "teamB": "Olympiacos", "tip": "1", "odds": "2.50" } ],
      "odds8": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
     "odds9": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "X2", "odds": "1.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "1", "odds": "2.20" }, { "teamA": "PSG", "teamB": "XXXX", "tip": "GG & Over 2.5", "odds": "2.55" } ],
     "vip1000": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1", "odds": "2.15" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Under 2.5", "odds": "1.65" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "GG", "odds": "1.85" } ],
