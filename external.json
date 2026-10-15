@@ -185,10 +185,9 @@
       "title": "SportPesa Jackpot (13 Games)", 
       "type": "jackpot", 
       "jackpots": [
-        { "bookmaker": "SportPesa Jackpot 1 SLIP", "amount_kes": 200 },
-        { "bookmaker": "SportPesa Jackpot 2 SLIPS", "amount_kes": 300 },
-        { "bookmaker": "SportPesa Jackpot 3 SLIPS", "amount_kes": 400 },
-        { "bookmaker": "SportPesa Jackpot 4 SLIPS", "amount_kes": 500 }
+        { "bookmaker": "SportPesa Jackpot 1 SLIP", "amount_kes": 450 },
+        { "bookmaker": "SportPesa Jackpot 2 SLIPS", "amount_kes": 700 }
+        
       ]
     },
     { 
@@ -196,10 +195,9 @@
       "title": "SportPesa Mega Jackpot (17 Games)", 
       "type": "jackpot", 
       "jackpots": [
-        { "bookmaker": "Mega Jackpot 1 SLIP", "amount_kes": 200 },
-        { "bookmaker": "Mega Jackpot 2 SLIPS", "amount_kes": 300 },
-        { "bookmaker": "Mega Jackpot 3 SLIPS", "amount_kes": 400 },
-        { "bookmaker": "Mega Jackpot 4 SLIPS", "amount_kes": 500 }
+        { "bookmaker": "Mega Jackpot 1 SLIP", "amount_kes": 450 },
+        { "bookmaker": "Mega Jackpot 2 SLIPS", "amount_kes": 700 }
+       
       ]
     }
   ],
@@ -216,12 +214,10 @@
     "vip1000": [ { "teamA": "Benfica", "teamB": "Celtic", "tip": "OVER2.5", "odds": "1.35" }, { "teamA": "Marseille", "teamB": "Olympiacos", "tip": "1", "odds": "2.50" }, { "teamA": "Kf Egnatia Rrogozhine", "teamB": "Midtjylland", "tip": "OVER2.5", "odds": "1.85" } ],
     "jackpot-sportpesa-jackpot-1-slip": { "slips": ["1X21X2X1212X1"] },
     "jackpot-sportpesa-jackpot-2-slips": { "slips": ["1X21X2X1212X1", "2X11221XX1121"] },
-    "jackpot-sportpesa-jackpot-3-slips": { "slips": ["1X21X2X1212X1", "2X11221XX1121", "111X221X2X1X2"] },
-    "jackpot-sportpesa-jackpot-4-slips": { "slips": ["1X21X2X1212X1", "2X11221XX1121", "111X221X2X1X2", "XX21X122112X1"] },
     "jackpot-mega-jackpot-1-slip": { "slips": ["1X212X1X211X21X21"] },
     "jackpot-mega-jackpot-2-slips": { "slips": ["1X212X1X211X21X21", "2X11221XX1121221X"] },
-    "jackpot-mega-jackpot-3-slips": { "slips": ["1X212X1X211X21X21", "2X11221XX1121221X", "111X221X2X1X2XX12"] },
-    "jackpot-mega-jackpot-4-slips": { "slips": ["1X212X1X211X21X21", "2X11221XX1121221X", "111X221X2X1X2XX12", "XX21X122112X11X22"] }
+    
+    }
   },
   
   "history": [
