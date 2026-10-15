@@ -205,7 +205,7 @@
   ],
   
   "tips": {
-    "odds2": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & Over 2.5", "odds": "2.10" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" ],
+    "odds2": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
     "odds3": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
     "odds4": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
     "odds5": [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1 & GG", "odds": "2.80" }, { "teamA": "XXXX", "teamB": "XXXX", "tip": "Over 3.5", "odds": "1.90" } ],
