@@ -162,11 +162,11 @@
     }
   ],
   "free_tip": {
-    "country": "England",
-    "league": "Premier League",
-    "time": "Today 7:00 EAT",
-    "teamA": "Besiktas",
-    "teamB": "Kocaelispor",
+    "country": "International Clubs",
+    "league": "UEFA Conference League",
+    "time": "Today 22:00 EAT",
+    "teamA": "Freiburg",
+    "teamB": "Fk Jablonec",
     "pick": "Pick: Over2.5",
     "confidence": "98"
   },
