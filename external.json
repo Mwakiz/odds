@@ -173,13 +173,19 @@
  "packages": [
     { "id": "draw1", "title": "1 Draw Package", "type": "flat", "price_kes": 150 },
     { "id": "draw2", "title": "2 Draws Package", "type": "flat", "price_kes": 250 }
-  ]
+  ],
 
     
   },
   "packages": [
-    "draw1": [ { "teamA": "Valencia", "teamB": "Sevilla", "tip": "Draw", "odds": "3.20" } ],
-    "draw2": [ { "teamA": "Everton", "teamB": "Fulham", "tip": "Draw", "odds": "3.40" }, { "teamA": "Lazio", "teamB": "Roma", "tip": "Draw", "odds": "3.10" } ]
+    "draw1": [ 
+      
+      { "teamA": "Valencia", "teamB": "Sevilla", "tip": "Draw", "odds": "3.20" } 
+    
+        ],
+    "draw2": [ 
+      
+      { "teamA": "Everton", "teamB": "Fulham", "tip": "Draw", "odds": "3.40" }, { "teamA": "Lazio", "teamB": "Roma", "tip": "Draw", "odds": "3.10" } ]
     
     { "id": "odds2", "title": "SILVER PLAN", "type": "flat", "price_kes": 150 },
     { "id": "odds3", "title": "GOLD PLAN", "type": "flat", "price_kes": 150 },
