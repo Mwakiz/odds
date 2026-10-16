@@ -234,10 +234,10 @@
       "date": "Yesterday",
       "categories": {
 
-         "1 Draw": [ { "country": "spain", "teamA": "Hunior", "teamB": "Pereira", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" } ],
+         "1 Draw": [ { "country": "spain", "teamA": "Barranquilla", "teamB": "Tigres", "prediction": "Draw", "score": "2-2", "odds": "3.50", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": "Hodd", "teamB": "Ranheim", "prediction": "Draw", "score": "1-1", "odds": "3.25", "result": "WON" },
-            { "country": "france", "teamA": "AFC Leopards", "teamB": "Bandari", "prediction": "Draw", "score": "0-0", "odds": "3.59", "result": "WON" }
+            { "country": "italy", "teamA": "Kf Egnatia Rrogozhine", "teamB": "Fc Midtjylland", "prediction": "Draw", "score": "1-1", "odds": "3.25", "result": "WON" },
+            { "country": "france", "teamA": "Nec Nijmegen", "teamB": "Pfc Levski Sofia", "prediction": "Draw", "score": "1-1", "odds": "3.59", "result": "WON" }
         ],
         
         "SILVER PLAN": [ 
