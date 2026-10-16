@@ -209,7 +209,7 @@
   ],
   
   "tips": {
-    "draw1": [ { "teamA": "Barranquilla", "teamB": "Tigres", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "Adama City", "teamB": "Sheger Ketema", "tip": "Draw", "odds": "3.20" } ],
     "draw2": [ { "teamA": "Ca Huracan", "teamB": "Gimnasia Y Esgrima La Plata", "tip": "Draw", "odds": "3.20" }, { "teamA": "Barranquilla", "teamB": "Tigres", "tip": "Draw", "odds": "3.10" } ],
     
     "odds2": [ { "teamA": "Fc Eindhoven", "teamB": "Vitesse Arnhem", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "Ask Voitsberg", "teamB": "First Vienna Fc", "tip": "2", "odds": "2.40" }, { "teamA": "Deportivo A Coruna", "teamB": "Levante", "tip": "OVER2.5", "odds": "2.10" } ],
