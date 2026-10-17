@@ -212,7 +212,7 @@
     "draw1": [ { "teamA": "Alcorcon", "teamB": "Huesca", "tip": "Draw", "odds": "3.20" } ],
     "draw2": [ { "teamA": "Coruna", "teamB": "El Zayiat", "tip": "Draw", "odds": "2.80" }, { "teamA": "Karbalaa", "teamB": "Al-gharraf Sc", "tip": "Draw", "odds": "3.10" } ],
     
-    "odds2": [ { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "2", "odds": "2.40" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "OVER2.5", "odds": "2.10" } ],
+    "odds2": [ { "teamA": "Everton", "teamB": "Chelsea", "tip": "2", "odds": "2.25" }, { "teamA": "Man City", "teamB": "Ipswich", "tip": "OVER2.5", "odds": "1.40" } ],
     "odds3": [ { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "OVER2.5", "odds": "1.40" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "OVER2.5", "odds": "1.35" } ],
     "odds4": [ { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "GG", "odds": "1.75" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "2", "odds": "2.30" } ],
     "odds5": [ { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "OV2.5", "odds": "1.55" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "1", "odds": "1.80" } ],
