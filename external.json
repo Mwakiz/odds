@@ -224,8 +224,8 @@
     
     "jackpot-sportpesa-jackpot-1-slip": { "slips": ["Jp#12221X12X2212"] },
     "jackpot-sportpesa-jackpot-2-slips": { "slips": ["1X21X2X1212X1", "Jp#12221X12X2212"] },
-    "jackpot-mega-jackpot-1-slip": { "slips": ["1X212X1X211X21X21"] },
-    "jackpot-mega-jackpot-2-slips": { "slips": ["1X212X1X211X21X21", "2X11221XX1121221X"] }
+    "jackpot-mega-jackpot-1-slip": { "slips": ["1211122121X122221"] },
+    "jackpot-mega-jackpot-2-slips": { "slips": ["1211122121X122221", "222112212X121212X"] }
     
   },
   
