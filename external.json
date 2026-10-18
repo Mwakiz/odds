@@ -218,9 +218,9 @@
     "odds5": [ { "teamA": "Hapoel Be`er Sheva Fc", "teamB": "Hapoel Jerusalem Fc", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "Paok", "teamB": "Iraklis", "tip": "OVER2.5", "odds": "1.70" },{ "teamA": "Sandefjord Fotball", "teamB": "Lillestrom Sk", "tip": "OVER2.5", "odds": "1.65" } ],
     "odds6": [ { "teamA": "Ac Milan", "teamB": "Atalanta Bc", "tip": "1", "odds": "1.90" }, { "teamA": "Leverkusen", "teamB": "Freiburg", "tip": "OVER2.5", "odds": "1.50" }, { "teamA": "Brest", "teamB": "Nice", "tip": "GG", "odds": "1.65" } ],
      "odds7": [ { "teamA": "Fc Salzburg", "teamB": "Scr Altach", "tip": "OVER2.5", "odds": "1.60" }, { "teamA": "Kuressaare", "teamB": "Levadia Tallinn", "tip": "OVER2.5", "odds": "1.45" }, { "teamA": "Strasbourg", "teamB": "Psg", "tip": "2", "odds": "1.45" } ],
-     "odds8": [ { "teamA": "Man City", "teamB": "Ipswich", "tip": "1", "odds": "1.25" }, { "teamA": "Betis", "teamB": "Barcelona", "tip": "1", "odds": "1.56" }, { "teamA": "Strasbourg", "teamB": "Psg", "tip": "2", "odds": "1.46" }, { "teamA": "Fenerbahce", "teamB": "Alanyaspor", "tip": "OVER2.5", "odds": "1.46" } ],
-    "odds9": [ { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "2", "odds": "2.55" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "GG", "odds": "1.55" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "Over 1.25", "odds": "1.65" } ],
-    "vip1000": [ { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "OVER2.5", "odds": "1.85" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "OVER2.5", "odds": "1.70" }, { "teamA": "XXXXX", "teamB": "XXXXX", "tip": "OVER1.5", "odds": "1.25" } ],
+     "odds8": [ { "teamA": "Brighton", "teamB": "Crystal Palace", "tip": "1", "odds": "1.55" }, { "teamA": "Lyon", "teamB": "Nice", "tip": "1", "odds": "2.10" }, { "teamA": "Bournemouth", "teamB": "Sunderland", "tip": "1", "odds": "2.46" } ],
+    "odds9": [ { "teamA": "Borussia (Mg)", "teamB": "Hoffenheim", "tip": "OVER2.5", "odds": "1.45" }, { "teamA": "Molde Fk", "teamB": "Ik Start", "tip": "OVER2.5", "odds": "1.40" }, { "teamA": "Aasane Fotball", "teamB": "Stabaek If", "tip": "2", "odds": "1.40" } ],
+    "vip1000": [ { "teamA": "Bournemouth", "teamB": "Sunderland", "tip": "GG", "odds": "1.85" }, { "teamA": "Brighton", "teamB": "Crystal Palace", "tip": "GG", "odds": "1.80" }, { "teamA": "Acf Fiorentina", "teamB": "Como", "tip": "OVER1.5", "odds": "1.25" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": { "slips": ["Jp#12221X12X2212"] },
     "jackpot-sportpesa-jackpot-2-slips": { "slips": ["1X21X2X1212X1", "Jp#12221X12X2212"] },
