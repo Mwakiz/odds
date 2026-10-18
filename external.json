@@ -209,8 +209,8 @@
   ],
   
   "tips": {
-    "draw1": [ { "teamA": "Ca Platense", "teamB": "Atletico Lanus", "tip": "Draw", "odds": "3.20" } ],
-    "draw2": [ { "teamA": "Pretoria University Fc", "teamB": "Hungry Lion", "tip": "Draw", "odds": "2.80" }, { "teamA": "Chippa United Fc", "teamB": "Kruger United", "tip": "Draw", "odds": "3.10" } ],
+    "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
+    "draw2": [ { "teamA": "Gasogi United", "teamB": "Bugesera Fc", "tip": "Draw", "odds": "3.10" }, { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.10" } ],
     
     "odds2": [ { "teamA": "Fc Copenhagen", "teamB": "Agf Aarhus", "tip": "OVER2.5", "odds": "1.70" }, { "teamA": "Panathinaikos", "teamB": "Asteras Tripolis", "tip": "OVER2.5", "odds": "1.65" } ],
     "odds3": [ { "teamA": "Meppen", "teamB": "Havelse", "tip": "OVER2.5", "odds": "1.50" }, { "teamA": "Nottm Forest", "teamB": "Arsenal", "tip": "2", "odds": "1.65" } ],
