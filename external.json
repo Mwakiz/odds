@@ -208,11 +208,11 @@
     "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
     "draw2": [ { "teamA": "Gasogi United", "teamB": "Bugesera Fc", "tip": "Draw", "odds": "3.10" }, { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.10" } ],
     
-    "odds2": [ { "teamA": "Fc Copenhagen", "teamB": "Agf Aarhus", "tip": "OVER2.5", "odds": "1.70" }, { "teamA": "Panathinaikos", "teamB": "Asteras Tripolis", "tip": "OVER2.5", "odds": "1.65" } ],
-    "odds3": [ { "teamA": "Meppen", "teamB": "Havelse", "tip": "OVER2.5", "odds": "1.50" }, { "teamA": "Nottm Forest", "teamB": "Arsenal", "tip": "2", "odds": "1.65" } ],
-    "odds4": [ { "teamA": "Kisvarda", "teamB": "Ferencvaros", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "Hvidovre If", "teamB": "Hillerod Fodbold", "tip": "OVER2.5", "odds": "1.60" } ],
-    "odds5": [ { "teamA": "Hapoel Be`er Sheva Fc", "teamB": "Hapoel Jerusalem Fc", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "Paok", "teamB": "Iraklis", "tip": "OVER2.5", "odds": "1.70" },{ "teamA": "Sandefjord Fotball", "teamB": "Lillestrom Sk", "tip": "OVER2.5", "odds": "1.65" } ],
-    "vip1000": [ { "teamA": "Bournemouth", "teamB": "Sunderland", "tip": "GG", "odds": "1.85" }, { "teamA": "Brighton", "teamB": "Crystal Palace", "tip": "GG", "odds": "1.80" }, { "teamA": "Acf Fiorentina", "teamB": "Como", "tip": "OVER1.5", "odds": "1.25" } ],
+    "odds2": [ { "teamA": "Trabzonspor", "teamB": "Besiktas", "tip": "1", "odds": "2.60" }, { "teamA": "Tottenham", "teamB": "Coventry City", "tip": "1", "odds": "1.65" } ],
+    "odds3": [ { "teamA": "Parma", "teamB": "Torino Fc", "tip": "OVER2.5", "odds": "2.60" }, { "teamA": "Trabzonspor", "teamB": "Besiktas", "tip": "OVER2.5", "odds": "1.65" } ],
+    "odds4": [ { "teamA": "Esteghlal", "teamB": "Gol Gohar Sirjan Fc", "tip": "1", "odds": "1.90" }, { "teamA": "Viborg Ff", "teamB": "Fc Midtjylland", "tip": "GG", "odds": "1.55" } ],
+    "odds5": [ { "teamA": "Viborg Ff", "teamB": "Fc Midtjylland", "tip": "2", "odds": "2.55" }, { "teamA": "Kuwait", "teamB": "Al Salibikhaet", "tip": "OVER2.5", "odds": "1.50" },{ "teamA": "Sc Fc Voluntari", "teamB": "Fotbal Club Fcsb", "tip": "2", "odds": "1.65" } ],
+    "vip1000": [ { "teamA": "Wisla Plock", "teamB": "Rks Radomiak Radom", "tip": "OVER2.5", "odds": "1.70" }, { "teamA": "Trabzonspor", "teamB": "Besiktas", "tip": "GG", "odds": "1.50" }, { "teamA": "Beitar Jerusalem Fc", "teamB": "Maccabi Tel Aviv Fc", "tip": "2", "odds": "2.25" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": { "slips": ["Jp#12221X12X2212"] },
     "jackpot-sportpesa-jackpot-2-slips": { "slips": ["1X21X2X1212X1", "Jp#12221X12X2212"] },
