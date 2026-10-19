@@ -226,37 +226,40 @@
       "date": "Yesterday",
       "categories": {
 
-         "1 Draw": [ { "country": "spain", "teamA": "Blooming", "teamB": "Inde Petrolero", "prediction": "Draw", "score": "0-0", "odds": "3.50", "result": "WON" } ],
+         "1 Draw": [ { "country": "spain", "teamA": "Leeds", "teamB": "Man Utd", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": "Chivas", "teamB": "Tigres", "prediction": "Draw", "score": "1-1", "odds": "3.25", "result": "WON" },
-            { "country": "france", "teamA": "Valencia", "teamB": "Athl Bilbao", "prediction": "Draw", "score": "0-0", "odds": "3.59", "result": "WON" }
+            { "country": "italy", "teamA": "Ik Sirius", "teamB": "If Elfsborg", "prediction": "Draw", "score": "2-2", "odds": "4.12", "result": "WON" },
+            { "country": "france", "teamA": "Fc Copenhagen", "teamB": "Agf Aarhus", "prediction": "Draw", "score": "1-1", "odds": "4.59", "result": "WON" }
         ],
         
         "Silver Plan": [ 
-          { "country": "england", "teamA": "Everton", "teamB": "Chelsea", "prediction": "2", "score": "0-2", "odds": "2.30", "result": "WON" },
-          { "country": "germany", "teamA": "Man City", "teamB": "Ipswich", "prediction": "OVER2.5", "score": "3-2", "odds": "1.40", "result": "WON" }
+          { "country": "england", "teamA": "Bournemouth", "teamB": "Sunderland", "prediction": "1", "score": "2-0", "odds": "2.30", "result": "WON" },
+          { "country": "germany", "teamA": "Borussia (Mg)", "teamB": "Hoffenheim", "prediction": "GG", "score": "1-2", "odds": "1.55", "result": "WON" }
         ],
         
 
         "Gold Plan": [ 
-            { "country": "spain", "teamA": "Espanyol", "teamB": "Atletico Madrid", "prediction": "2", "score": "0-1", "odds": "1.85", "result": "WON" },
-            { "country": "germany", "teamA": "Union Berlin", "teamB": "Dortmund", "prediction": "UNDER2.5", "score": "0-0", "odds": "1.70", "result": "WON" }
+            { "country": "spain", "teamA": "Lyon", "teamB": "Nice", "prediction": "1", "score": "2-1", "odds": "2.20", "result": "WON" },
+            { "country": "germany", "teamA": "Brighton", "teamB": "Crystal Palac", "prediction": "1", "score": "5-0", "odds": "1.55", "result": "WON" }
         ],
         
         
         "Platinum Plan": [ 
-            { "country": "spain", "teamA": "Newcastle", "teamB": "Aston Villa", "prediction": "2", "score": "0-1", "odds": "3.60", "result": "WON" },
-            { "country": "italy", "teamA": "Bologna", "teamB": "Inter Milan", "prediction": "2", "score": "1-2", "odds": "1.65", "result": "WON" }
+            { "country": "spain", "teamA": "Ac Milan", "teamB": "Atalanta Bc", "prediction": "1", "score": "3-2", "odds": "1.85", "result": "WON" },
+            { "country": "spain", "teamA": "Fc Salzburg", "teamB": "Scr Altach", "prediction": "OVER2.5", "score": "3-0", "odds": "1.55", "result": "WON" },
+            { "country": "italy", "teamA": "Leverkusen", "teamB": "Freiburg", "prediction": "OVER2.5", "score": "2-1", "odds": "1.50", "result": "WON" }
         ],
         
         "LONGBET PLAN": [ 
-            { "country": "france", "teamA": "Venezia", "teamB": "Napoli", "prediction": "1", "score": "0-0", "odds": "3.80", "result": "WON" },
-            { "country": "spain", "teamA": "Betis", "teamB": "Barcelona", "prediction": "2", "score": "2-5", "odds": "1.30", "result": "WON" }
+           { "country": "france", "teamA": "Nottm Forest", "teamB": "Arsenal", "prediction": "2", "score": "0-1", "odds": "1.60", "result": "WON" },
+           { "country": "france", "teamA": "Fc Copenhagen", "teamB": "Agf Aarhus", "prediction": "GG", "score": "1-1", "odds": "1.68", "result": "WON" },
+           { "country": "spain", "teamA": "Panathinaikos", "teamB": "Asteras Tripolis", "prediction": "OVER2.5", "score": "5-1", "odds": "1.65", "result": "WON" }
         ],
         
         "VIP Tips": [ 
-            { "country": "italy", "teamA": "Finn Harps Fc", "teamB": "Bray Wanderers Afc", "prediction": "1", "score": "2-0", "odds": "3.10", "result": "WON" },
-            { "country": "germany", "teamA": "Helmond Sport", "teamB": "Nac Breda", "prediction": "2", "score": "0-2", "odds": "1.55", "result": "WON" }
+            { "country": "italy", "teamA": "Ik Sirius", "teamB": "If Elfsborg", "prediction": "OVER2.5", "score": "2-2", "odds": "1.58", "result": "WON" },
+            { "country": "italy", "teamA": "Leeds", "teamB": "Man Utd", "prediction": "GG", "score": "1-1", "odds": "1.78", "result": "WON" },
+            { "country": "germany", "teamA": "Angers", "teamB": "Marseille", "prediction": "GG", "score": "2-5", "odds": "1.65", "result": "WON" }
         ]
       }
     },
