@@ -206,7 +206,7 @@
   
   "tips": {
     "draw1": [ { "teamA": "Ethio Electric", "teamB": "Sheger Ketema", "tip": "Draw", "odds": "3.20" } ],
-    "draw2": [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" }, { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" } ],
+    "draw2": [ { "teamA": "Zed Fc", "teamB": " Future Fc", "tip": "Draw", "odds": "3.10" }, { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" } ],
     
     "odds2": [ { "teamA": "Liverpool", "teamB": "Villarreal", "tip": "1", "odds": "1.55" }, { "teamA": "Sabah Masazir", "teamB": "Dortmund", "tip": "OVER2.5", "odds": "1.55" } ],
     "odds3": [ { "teamA": "Psg", "teamB": "Barcelona", "tip": "2", "odds": "2.60" }, { "teamA": "Fenerbahce", "teamB": "Slavia Prague", "tip": "GG", "odds": "1.65" } ],
