@@ -210,7 +210,7 @@
     
     "odds2": [ { "teamA": "Liverpool", "teamB": "Villarreal", "tip": "1", "odds": "1.55" }, { "teamA": "Sabah Masazir", "teamB": "Dortmund", "tip": "OVER2.5", "odds": "1.55" } ],
     "odds3": [ { "teamA": "Psg", "teamB": "Barcelona", "tip": "2", "odds": "2.60" }, { "teamA": "Fenerbahce", "teamB": "Slavia Prague", "tip": "GG", "odds": "1.65" } ],
-    "odds4": [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "1", "odds": "1.90" }, { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "GG", "odds": "1.55" } ],
+    "odds4": [ { "teamA": "Fenerbahce", "teamB": "Slavia Prague", "tip": "OVER2.5", "odds": "1.55" }, { "teamA": "Stuttgart", "teamB": "Atletico Madrid", "tip": "2", "odds": "2.55" } ],
     "odds5": [ { "teamA": "Napoli", "teamB": "Bodoe/glimt", "tip": "1", "odds": "1.85" }, { "teamA": "Ebbsfleet", "teamB": "Horsham", "tip": "OVER2.5", "odds": "1.70" },{ "teamA": "Barnet", "teamB": "Swindon Town", "tip": "over2.5", "odds": "1.55" } ],
     "vip1000": [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "OVER2.5", "odds": "1.70" }, { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "GG", "odds": "1.50" }, { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "2", "odds": "2.25" } ],
     
