@@ -216,8 +216,8 @@
       { "teamA": "Bayern Munich", "teamB": "Arsenal", "tip": "1", "odds": "2.30" } ],
     
     "odds3": 
-    [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "2", "odds": "2.60" }, 
-      { "teamA": "XXXX", "teamB": "XXXX", "tip": "GG", "odds": "1.65" } ],
+    [ { "teamA": "Levante", "teamB": "Athletic Club", "tip": "2", "odds": "2.50" }, 
+      { "teamA": "Aston Villa", "teamB": "Viking Fk", "tip": "HT1 - OVER1.5", "odds": "1.95" } ],
     
     "odds4": 
     [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "OVER2.5", "odds": "1.55" }, 
