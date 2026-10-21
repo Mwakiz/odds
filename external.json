@@ -205,12 +205,15 @@
   ],
   
   "tips": {
-    "draw1": [ { "teamA": "Ethio Electric", "teamB": "Sheger Ketema", "tip": "Draw", "odds": "3.20" } ],
-    "draw2": [ { "teamA": "Zed Fc", "teamB": " Future Fc", "tip": "Draw", "odds": "3.10" }, { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" } ],
+    "draw1": [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.20" } ],
+    
+    "draw2": 
+    [ { "teamA": "COMING UP", "teamB": " COMING UP", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" } ],
     
     "odds2": 
-    [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "1", "odds": "1.55" }, 
-      { "teamA": "XXXXr", "teamB": "XXXX", "tip": "OVER2.5", "odds": "1.55" } ],
+    [ { "teamA": "Como", "teamB": "Man Utd", "tip": "OVER 2.5", "odds": "1.58" }, 
+      { "teamA": "Bayern Munich", "teamB": "Arsenal", "tip": "1", "odds": "2.30" } ],
     
     "odds3": 
     [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "2", "odds": "2.60" }, 
