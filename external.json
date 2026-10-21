@@ -229,10 +229,11 @@
       { "teamA": "XXXX", "teamB": "XXXX", "tip": "over2.5", "odds": "1.55" } ],
     
     "vip1000": 
-    [ { "teamA": "XXXX", "teamB": "XXXX", "tip": "OVER2.5", "odds": "1.55" }, 
-      { "teamA": "XXXX", "teamB": "XXXX", "tip": "1", "odds": "1.65" }, 
-      { "teamA": "XXXX", "teamB": "XXXXc", "tip": "2", "odds": "1.55" }, 
-      { "teamA": "XXXX", "teamB": "XXXX", "tip": "OVER2.5", "odds": "1.50" } ],
+    [ { "teamA": "Bayern Munich", "teamB": "Arsenal", "tip": "1", "odds": "2.20" }, 
+      { "teamA": "Como", "teamB": "Man Utd", "tip": "1", "odds": "2.30" }, 
+      { "teamA": "Reading", "teamB": "Leyton Orient", "tip": "OVER 2.5", "odds": "1.65" }, 
+      { "teamA": "Al Ahly Sc", "teamB": "El Qanah Fc", "tip": "OVER 2.5", "odds": "1.80" }, 
+      { "teamA": "Lille", "teamB": "Galatasaray", "tip": "OVER2.5", "odds": "1.70" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp#12221X12X2212"] },
