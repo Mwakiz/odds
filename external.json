@@ -230,11 +230,11 @@
       { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "over2.5", "odds": "1.75" } ],
     
     "vip1000": 
-    [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "1", "odds": "2.55" }, 
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "1", "odds": "2.30" }, 
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "OVER 2.5", "odds": "1.65" }, 
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "OVER2.5", "odds": "1.70" } ],
+    [ { "teamA": "Fk Jablonec", "teamB": "Brighton", "tip": "2", "odds": "1.25" }, 
+      { "teamA": "Ofi Crete", "teamB": "Leverkusen", "tip": "2", "odds": "1.30" }, 
+      { "teamA": "Omonia Nicosi", "teamB": "Benfica", "tip": "2", "odds": "1.45" }, 
+      { "teamA": "Juventus", "teamB": "Rennes", "tip": "1", "odds": "1.55" }, 
+      { "teamA": "Lech Poznan", "teamB": "Sunderland", "tip": "2", "odds": "1.80" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp#12221X12X2212"] },
