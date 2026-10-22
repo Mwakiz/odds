@@ -205,11 +205,11 @@
   ],
   
   "tips": {
-    "draw1": [ { "teamA": "Lugazi", "teamB": "Epress", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "Ca Belgrano II", "teamB": "Estudiantes De La Plata II", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "Duque De Caxias Fc Rj", "teamB": "Artsul Fc Rj", "tip": "Draw", "odds": "3.10" } ],
+    [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" } ],
     
     "odds2": 
     [ { "teamA": "Como", "teamB": "Man Utd", "tip": "OVER 2.5", "odds": "1.58" }, 
