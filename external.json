@@ -208,8 +208,8 @@
     "draw1": [ { "teamA": "Delta United Fc", "teamB": "Tanta Fc", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "Delta United Fc", "teamB": "Tanta Fc", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "Wolaita DichaSC", "teamB": "Bahir Dar Kenema", "tip": "Draw", "odds": "2.70" } ],
+    [ { "teamA": "We Sc", "teamB": "Al Mehalla", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "El Zayiat", "teamB": " Kahrabaa Ismailia", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": "Union Saint-gilloise", "teamB": "Hapoel Beer Sheva Fc", "tip": "OVER 2.5", "odds": "1.60" }, 
