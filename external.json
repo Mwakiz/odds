@@ -205,11 +205,11 @@
   ],
   
   "tips": {
-    "draw1": [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "Delta United Fc", "teamB": "Tanta Fc", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" } ],
+    [ { "teamA": "Delta United Fc", "teamB": "Tanta Fc", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "Wolaita DichaSC", "teamB": "Bahir Dar Kenema", "tip": "Draw", "odds": "2.70" } ],
     
     "odds2": 
     [ { "teamA": "Union Saint-gilloise", "teamB": "Hapoel Beer Sheva Fc", "tip": "OVER 2.5", "odds": "1.60" }, 
