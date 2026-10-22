@@ -216,8 +216,8 @@
       { "teamA": "Crvena Zvezda", "teamB": "Fc Copenhagen", "tip": "OVER 2.5", "odds": "1.75" } ],
     
     "odds3": 
-    [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "2", "odds": "2.50" }, 
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "HT1 - OVER1.5", "odds": "1.95" } ],
+    [ { "teamA": "Fc Bihor Oradea", "teamB": "Csm Resita", "tip": "2", "odds": "3.50" }, 
+      { "teamA": "Getafe", "teamB": "Fc Lugano", "tip": "OVER1.5", "odds": "1.40" } ],
     
     "odds4": 
     [ { "teamA": "Besiktas", "teamB": "Crystal Palace", "tip": "GG", "odds": "1.55" }, 
