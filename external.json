@@ -212,8 +212,8 @@
       { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "Draw", "odds": "3.10" } ],
     
     "odds2": 
-    [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "OVER 2.5", "odds": "1.58" }, 
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "1", "odds": "2.30" } ],
+    [ { "teamA": "Union Saint-gilloise", "teamB": "Hapoel Beer Sheva Fc", "tip": "OVER 2.5", "odds": "1.60" }, 
+      { "teamA": "Crvena Zvezda", "teamB": "Fc Copenhagen", "tip": "OVER 2.5", "odds": "1.75" } ],
     
     "odds3": 
     [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "2", "odds": "2.50" }, 
@@ -225,9 +225,9 @@
       { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "1", "odds": "2.05" } ],
     
     "odds5": 
-    [ { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "1", "odds": "1.75" }, 
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "OVER2.5", "odds": "1.70" },
-      { "teamA": "COMING UP", "teamB": "COMING UP", "tip": "over2.5", "odds": "1.75" } ],
+    [ { "teamA": "Ajax", "teamB": "Atalanta Bc", "tip": "OVER 2.5", "odds": "1.55" }, 
+      { "teamA": "Nk Celje", "teamB": "Fc Salzburg", "tip": "OVER2.5", "odds": "1.70" },
+      { "teamA": "Ofi Crete", "teamB": "Leverkusen", "tip": "over2.5", "odds": "1.40" } ],
     
     "vip1000": 
     [ { "teamA": "Fk Jablonec", "teamB": "Brighton", "tip": "2", "odds": "1.25" }, 
