@@ -239,12 +239,12 @@
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# 1,1,X,X,X,X,1,X,1,2,X,1,1"] },
     "jackpot-sportpesa-jackpot-2-slips": 
-    { "slips": ["1X21X2X1212X1", "JP# 1,1,X,X,X,X,1,X,1,2,X,1,1"] },
+    { "slips": ["Jp# 2,1,2,1,2,2,2,X,X,X,2,1,X", "JP# 1,1,X,X,X,X,1,X,1,2,X,1,1"] },
     
     "jackpot-mega-jackpot-1-slip": 
-    { "slips": ["1211122121X122221"] },
+    { "slips": ["COMING UP..."] },
     "jackpot-mega-jackpot-2-slips": 
-    { "slips": ["1211122121X122221", "222112212X121212X"] }
+    { "slips": ["COMING UP...", "COMING UP..."] }
     
   },
   
