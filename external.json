@@ -212,8 +212,8 @@
       { "teamA": "Al Zawraa", "teamB": "Al Shorta", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.60" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.75" } ],
+    [ { "teamA": "Gateshead", "teamB": "Tamworth", "tip": "OVER 2.5", "odds": "1.60" }, 
+      { "teamA": "Stade Lausanne Ouchy", "teamB": "Neuchatel Xamax", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds3": 
     [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "3.50" }, 
