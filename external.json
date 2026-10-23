@@ -225,9 +225,9 @@
       { "teamA": "Torino Fc", "teamB": "Monza", "tip": "1", "odds": "2.40" } ],
     
     "odds5": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.55" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER2.5", "odds": "1.70" },
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "over2.5", "odds": "1.40" } ],
+    [ { "teamA": "Ipswich", "teamB": "Nottm Forest", "tip": "GG", "odds": "1." }, 
+      { "teamA": "Alanyaspor", "teamB": "Kocaelispor", "tip": "1", "odds": "2.15" },
+      { "teamA": "Go Ahead Eagles", "teamB": "Sc Telstar", "tip": "GG", "odds": "1.55" } ],
     
     "vip1000": 
     [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.25" }, 
