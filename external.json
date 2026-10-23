@@ -230,11 +230,13 @@
       { "teamA": "Go Ahead Eagles", "teamB": "Sc Telstar", "tip": "GG", "odds": "1.55" } ],
     
     "vip1000": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.25" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.30" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.45" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.55" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.80" } ],
+    [ { "teamA": "Alaves", "teamB": "Malaga", "tip": "1", "odds": "1.70" }, 
+      { "teamA": Stade Lausanne Ouchy", "teamB": "Neuchatel Xamax", "tip": "OVER 2.5", "odds": "1.55" }, 
+      { "teamA": "Gateshead", "teamB": "Tamworth", "tip": "OVER 2.5", "odds": "1.58" }, 
+      { "teamA": "Ipswich", "teamB": "Nottm Forest", "tip": "GG", "odds": "1.70" }, 
+      { "teamA": "Torino Fc", "teamB": "Torino Fc", "tip": "1", "odds": "2.30" }, 
+      { "teamA": "Winterthur", "teamB": "Stade Nyonnais", "tip": "OVER 2.5", "odds": "1.40" }, 
+      { "teamA": "Darmstadt 98", "teamB": " St. Pauli", "tip": "OVER 2.5", "odds": "1.80" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# 1,1,X,X,X,X,1,X,1,2,X,1,1"] },
