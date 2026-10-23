@@ -231,7 +231,7 @@
     
     "vip1000": 
     [ { "teamA": "Alaves", "teamB": "Malaga", "tip": "1", "odds": "1.70" }, 
-      { "teamA": Stade Lausanne Ouchy", "teamB": "Neuchatel Xamax", "tip": "OVER 2.5", "odds": "1.55" }, 
+      { "teamA": "Stade Lausanne Ouchy", "teamB": "Neuchatel Xamax", "tip": "OVER 2.5", "odds": "1.55" }, 
       { "teamA": "Gateshead", "teamB": "Tamworth", "tip": "OVER 2.5", "odds": "1.58" }, 
       { "teamA": "Ipswich", "teamB": "Nottm Forest", "tip": "GG", "odds": "1.70" }, 
       { "teamA": "Torino Fc", "teamB": "Torino Fc", "tip": "1", "odds": "2.30" }, 
