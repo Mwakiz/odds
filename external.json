@@ -205,11 +205,11 @@
   ],
   
   "tips": {
-    "draw1": [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "Aluminium Arak", "teamB": "Zob Ahan Isfahan Fc", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": "El-entag", "teamB": "El Mansurah", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "Al Zawraa", "teamB": "Al Shorta", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.60" }, 
