@@ -208,8 +208,8 @@
     "draw1": [ { "teamA": "Aluminium Arak", "teamB": "Zob Ahan Isfahan Fc", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "El-entag", "teamB": "El Mansurah", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "Al Zawraa", "teamB": "Al Shorta", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": "Gimnasia Y Esgrima Mendoza", "teamB": "Ca Platense", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "Perugia Calcio Spa", "teamB": "Delfino Pescara", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": "Gateshead", "teamB": "Tamworth", "tip": "OVER 2.5", "odds": "1.60" }, 
