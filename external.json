@@ -237,9 +237,9 @@
       { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.80" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
-    { "slips": ["Jp#12221X12X2212"] },
+    { "slips": ["Jp# 1,1,X,X,X,X,1,X,1,2,X,1,1"] },
     "jackpot-sportpesa-jackpot-2-slips": 
-    { "slips": ["1X21X2X1212X1", "Jp#12221X12X2212"] },
+    { "slips": ["1X21X2X1212X1", "JP# 1,1,X,X,X,X,1,X,1,2,X,1,1"] },
     
     "jackpot-mega-jackpot-1-slip": 
     { "slips": ["1211122121X122221"] },
