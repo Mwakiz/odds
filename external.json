@@ -205,36 +205,36 @@
   ],
   
   "tips": {
-    "draw1": [ { "teamA": "Delta United Fc", "teamB": "Tanta Fc", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "We Sc", "teamB": "Al Mehalla", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "El Zayiat", "teamB": " Kahrabaa Ismailia", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": "Union Saint-gilloise", "teamB": "Hapoel Beer Sheva Fc", "tip": "OVER 2.5", "odds": "1.60" }, 
-      { "teamA": "Crvena Zvezda", "teamB": "Fc Copenhagen", "tip": "OVER 2.5", "odds": "1.75" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.60" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.75" } ],
     
     "odds3": 
-    [ { "teamA": "Fc Bihor Oradea", "teamB": "Csm Resita", "tip": "2", "odds": "3.50" }, 
+    [ { "teamA": "COMING UP...", "teamB": "Csm Resita", "tip": "2", "odds": "3.50" }, 
       { "teamA": "Getafe", "teamB": "Fc Lugano", "tip": "OVER1.5", "odds": "1.40" } ],
     
     "odds4": 
-    [ { "teamA": "Besiktas", "teamB": "Crystal Palace", "tip": "GG", "odds": "1.55" }, 
-      { "teamA": "Hoffenheim", "teamB": "Lyon", "tip": "GG", "odds": "1.50" }, 
-      { "teamA": "Fc Nordsjaelland", "teamB": "Pfc Cska Sofia", "tip": "OVER 2.5", "odds": "1.60" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "GG", "odds": "1.55" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "GG", "odds": "1.50" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.60" } ],
     
     "odds5": 
-    [ { "teamA": "Ajax", "teamB": "Atalanta Bc", "tip": "OVER 2.5", "odds": "1.55" }, 
-      { "teamA": "Nk Celje", "teamB": "Fc Salzburg", "tip": "OVER2.5", "odds": "1.70" },
-      { "teamA": "Ofi Crete", "teamB": "Leverkusen", "tip": "over2.5", "odds": "1.40" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.55" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER2.5", "odds": "1.70" },
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "over2.5", "odds": "1.40" } ],
     
     "vip1000": 
-    [ { "teamA": "Fk Jablonec", "teamB": "Brighton", "tip": "2", "odds": "1.25" }, 
-      { "teamA": "Ofi Crete", "teamB": "Leverkusen", "tip": "2", "odds": "1.30" }, 
-      { "teamA": "Omonia Nicosi", "teamB": "Benfica", "tip": "2", "odds": "1.45" }, 
-      { "teamA": "Juventus", "teamB": "Rennes", "tip": "1", "odds": "1.55" }, 
-      { "teamA": "Lech Poznan", "teamB": "Sunderland", "tip": "2", "odds": "1.80" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.25" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.30" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.45" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.55" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.80" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp#12221X12X2212"] },
