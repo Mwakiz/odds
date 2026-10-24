@@ -233,7 +233,6 @@
     [ { "teamA": "Chelsea", "teamB": "Tottenham", "tip": "1", "odds": "2.15" }, 
       { "teamA": "Arsenal", "teamB": "Everton", "tip": "1", "odds": "1.55" }, 
       { "teamA": "Wolves", "teamB": "Watford", "tip": "OVER 2.5", "odds": "1.70" }, 
-      { "teamA": "Aston Villa", "teamB": "Man City", "tip": "2", "odds": "1.70" },
       { "teamA": "Atletico Madrid", "teamB": "Deportivo A Coruna", "tip": "OVER 2.5", "odds": "1.60" }, 
       { "teamA": "Bromley", "teamB": "Peterborough", "tip": "OVER 2.5", "odds": "1.55" } ],
     
