@@ -230,10 +230,12 @@
       { "teamA": "Barnet", "teamB": "Oldham", "tip": "OVER 2.5", "odds": "1.65" } ],
     
     "vip1000": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": " FT DRAW", "odds": "2.95" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.55" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.40" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.80" } ],
+    [ { "teamA": "Chelsea", "teamB": "Tottenham", "tip": "1", "odds": "2.15" }, 
+      { "teamA": "Arsenal", "teamB": "Everton", "tip": "1", "odds": "1.55" }, 
+      { "teamA": "Wolves", "teamB": "Watford", "tip": "OVER 2.5", "odds": "1.70" }, 
+      { "teamA": "Aston Villa", "teamB": "Man City", "tip": "2", "odds": "1.70" },
+      { "teamA": "Atletico Madrid", "teamB": "Deportivo A Coruna", "tip": "OVER 2.5", "odds": "1.60" }, 
+      { "teamA": "Bromley", "teamB": "Peterborough", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# 1,1,X,X,X,X,1,X,1,2,X,1,1"] },
