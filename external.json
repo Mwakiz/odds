@@ -216,8 +216,8 @@
       { "teamA": "Wolves", "teamB": "Watford", "tip": "OVER 2.5", "odds": "1.75" } ],
     
     "odds3": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.10" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "2.10" } ],
+    [ { "teamA": "Chicken Inn Fc", "teamB": "Zpc Kariba", "tip": "DRAW", "odds": "2.90" }, 
+      { "teamA": "Sk Slovan Bratislava", "teamB": "Dukla Banska Bystrica", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds4": 
     [ { "teamA": "Hamarkameratene", "teamB": "Rosenborg Bk", "tip": "OVER 2.5", "odds": "1.55" }, 
