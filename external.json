@@ -216,8 +216,8 @@
       { "teamA": "Goztepe Izmir", "teamB": "Corum", "tip": "GG", "odds": "1.75" } ],
     
     "odds3": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "DRAW", "odds": "2.90" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "Genoa", "teamB": "Venezia", "tip": "1", "odds": "2.50" }, 
+      { "teamA": "Viking Fk", "teamB": "Tromsoe Il", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds4": 
     [ { "teamA": "COMING UP...", "teamB": "COMING UP... ", "tip": "OVER 2.5", "odds": "1.55" }, 
