@@ -261,7 +261,7 @@
         ],
         
         "Silver Plan": [ 
-          { "country": "england", "teamA": "Chelsea", "teamB": "Tottenham", "prediction": "2", "score": "0-2", "odds": "5.56", "result": "PPND" },
+          { "country": "england", "teamA": "Chelsea", "teamB": "Tottenham", "prediction": "2", "score": "0-2", "odds": "5.56", "result": "WON" },
           { "country": "germany", "teamA": "Wolves", "teamB": "Watford", "prediction": "1", "score": "1-0", "odds": "1.55", "result": "WON" }
         ],
         
