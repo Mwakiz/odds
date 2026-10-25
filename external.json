@@ -225,9 +225,9 @@
       { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.65" } ],
     
     "odds5": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.55" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.58" },
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.65" } ],
+    [ { "teamA": "Freiburg", "teamB": "Bayern Munich", "tip": "GG", "odds": "1.55" }, 
+      { "teamA": "Fc Thun V", "teamB": "Lugano", "tip": "OVER 3.5", "odds": "2.10" },
+      { "teamA": "Viking Fk", "teamB": "Tromsoe Il", "tip": "1", "odds": "1.65" } ],
     
     "vip1000": 
     [ { "teamA": "Hibernian", "teamB": "Celtic", "tip": "2", "odds": "1.60" }, 
