@@ -230,11 +230,11 @@
       { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.65" } ],
     
     "vip1000": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.15" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.55" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.70" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.60" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "Hibernian", "teamB": "Celtic", "tip": "2", "odds": "1.60" }, 
+      { "teamA": "Oriente Petrolero", "teamB": "The Strongest", "tip": "2", "odds": "3.55" }, 
+      { "teamA": "Inter Milan", "teamB": "Fiorentina", "tip": "1", "odds": "1.40" }, 
+      { "teamA": "Sion", "teamB": "Lausanne-sport", "tip": "GG", "odds": "1.65" }, 
+      { "teamA": "Hull City", "teamB": "Brentford", "tip": "2", "odds": "1.90" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1"] },
