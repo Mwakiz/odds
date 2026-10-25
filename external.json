@@ -208,8 +208,8 @@
     "draw1": [ { "teamA": "Shenzhen", "teamB": "Dalian Kewei", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": "Esteghlal Khuzestan Fc", "teamB": "Shams Azar Qazvin", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "Mufulira Wanderers", "teamB": "Chirundu", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": "Fc Thun", "teamB": "Lugano", "tip": "2", "odds": "1.90" }, 
@@ -234,7 +234,7 @@
       { "teamA": "Oriente Petrolero", "teamB": "The Strongest", "tip": "2", "odds": "3.55" }, 
       { "teamA": "Inter Milan", "teamB": "Fiorentina", "tip": "1", "odds": "1.40" }, 
       { "teamA": "Sion", "teamB": "Lausanne-sport", "tip": "GG", "odds": "1.65" }, 
-      { "teamA": "Hull City", "teamB": "Brentford", "tip": "2", "odds": "1.90" } ],
+      { "teamA": "Hull City", "teamB": "Brentford", "tip": "GG", "odds": "1.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1"] },
