@@ -230,7 +230,7 @@
       { "teamA": "Santa Clara", "teamB": "Benfica", "tip": "GG", "odds": "2.50" } ],
     
     "vip1000": 
-    [ { "teamA": "VVIP", "teamB": "10+ ODDS" },
+    [ { "teamA": "VVIP", "10+ ODDS" },
       { "teamA": "Psg", "teamB": "Lyon", "tip": "1", "odds": "1.50" }, 
       { "teamA": "Rizespor", "teamB": "Trabzonspor", "tip": "2", "odds": "2.15" }, 
       { "teamA": "Santa Clara", "teamB": "Benfica", "tip": "2", "odds": "1.40" }, 
