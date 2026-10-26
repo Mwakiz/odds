@@ -212,18 +212,17 @@
       { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.90" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "GG", "odds": "1.75" } ],
+    [ { "teamA": "Rizespor", "teamB": "Trabzonspor", "tip": "2", "odds": "2.30" }, 
+      { "teamA": "Galatasaray", "teamB": "Fenerbahce", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds3": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.50" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "Sevilla", "teamB": "Osasuna", "tip": "1", "odds": "2.10" }, 
+      { "teamA": "St Patrick", "teamB": "Floriana", "tip": "OVER 2.5", "odds": "1.85" } ],
     
     "odds4": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 1.5", "odds": "1.35" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "66", "odds": "1.55" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.55" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.60" } ],
+    [ { "teamA": "Santa Clara", "teamB": "Benfica", "tip": "OVER 2.5", "odds": "1.95" }, 
+      { "teamA": "Fc Copenhagen", "teamB": "Odense Boldklub", "tip": "over 2.5", "odds": "1.60" }, 
+      { "teamA": "Besiktas", "teamB": "Istanbul Basaksehir", "tip": "OVER 2.5", "odds": "1.60" } ],
     
     "odds5": 
     [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "GG", "odds": "1.55" }, 
