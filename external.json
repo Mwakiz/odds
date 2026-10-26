@@ -58,7 +58,7 @@
       "name": "Tanzania",
       "flag": "🇹🇿",
       "currency": "TZS",
-      "rate_to_kes": 20.0,
+      "rate_to_kes": 68.0,
       "type": "manual",
       "methods": [
         {
