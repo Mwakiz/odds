@@ -23,7 +23,7 @@
       "name": "Uganda",
       "flag": "🇺🇬",
       "currency": "UGX",
-      "rate_to_kes": 90.5,
+      "rate_to_kes": 78.5,
       "type": "manual",
       "methods": [
         {
