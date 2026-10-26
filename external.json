@@ -30,7 +30,7 @@
           "provider": "MTN Uganda (to Safaricom M-Pesa)",
           "phone": "254728832598",
           "steps": [
-            "Dial *165# on your mobile line.",
+            "Dial *165*1*2# on your mobile line.",
             "Select 1: Send Money.",
             "Choose 3: International Transfer.",
             "Select 1: Safaricom M-Pesa.",
@@ -63,7 +63,7 @@
       "methods": [
         {
           "provider": "Vodacom M-Pesa Tanzania",
-          "phone": "254713804279",
+          "phone": "254728832598",
           "steps": [
             "Dial *150*00#.",
             "Select Send Money, then select International Transfers.",
@@ -97,7 +97,7 @@
       "methods": [
         {
           "provider": "MTN Rwanda",
-          "phone": "254713804279",
+          "phone": "254728832598",
           "steps": [
             "Dial *182#.",
             "Select Send Money, then select International Remittance / Cross Border.",
@@ -108,7 +108,7 @@
         },
         {
           "provider": "Airtel Rwanda",
-          "phone": "254713804279",
+          "phone": "254754066101",
           "steps": [
             "Dial *182# or open MyAirtel App.",
             "Choose Airtel Money, then select Send Money.",
@@ -128,7 +128,7 @@
       "methods": [
         {
           "provider": "Airtel Zambia",
-          "phone": "254713804279",
+          "phone": "254754066101",
           "steps": [
             "Dial *115#.",
             "Navigate to Airtel Money, select Send Money, and choose International Transfer.",
@@ -149,7 +149,7 @@
       "methods": [
         {
           "provider": "Airtel Malawi",
-          "phone": "254713804279",
+          "phone": "254754066101",
           "steps": [
             "Dial *211#.",
             "Navigate to Airtel Money, select Send Money, and choose International Transfer.",
