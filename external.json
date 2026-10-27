@@ -205,36 +205,36 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "Al Bukiryah", "teamB": "Hajer Fc", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "Nueva Chicago", "teamB": "San Martin De San Juan", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "Defensores De Belgrano", "teamB": "Ca San Miguel", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": "Rizespor", "teamB": "Trabzonspor", "tip": "2", "odds": "2.30" }, 
-      { "teamA": "Galatasaray", "teamB": "Fenerbahce", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "2.30" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds3": 
-    [ { "teamA": "Sevilla", "teamB": "Osasuna", "tip": "1", "odds": "2.10" }, 
-      { "teamA": "St Patrick", "teamB": "Floriana", "tip": "OVER 2.5", "odds": "1.85" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "2.10" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.85" } ],
     
     "odds4": 
-    [ { "teamA": "Santa Clara", "teamB": "Benfica", "tip": "OVER 2.5", "odds": "1.95" }, 
-      { "teamA": "Fc Copenhagen", "teamB": "Odense Boldklub", "tip": "over 2.5", "odds": "1.60" }, 
-      { "teamA": "Besiktas", "teamB": "Istanbul Basaksehir", "tip": "OVER 2.5", "odds": "1.60" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.95" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "over 2.5", "odds": "1.60" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.60" } ],
     
     "odds5": 
-    [ { "teamA": "Istra 1961", "teamB": "Hajduk Split", "tip": "2", "odds": "1.95" }, 
-      { "teamA": "Fc Copenhagen", "teamB": "Odense Boldklub", "tip": "1", "odds": "1.65" },
-      { "teamA": "Santa Clara", "teamB": "Benfica", "tip": "GG", "odds": "2.50" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.95" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.65" },
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "GG", "odds": "2.50" } ],
     
     "vip1000": 
-    [ { "teamA": "Psg", "teamB": "Lyon", "tip": "1", "odds": "1.50" }, 
-      { "teamA": "Rizespor", "teamB": "Trabzonspor", "tip": "2", "odds": "2.15" }, 
-      { "teamA": "Santa Clara", "teamB": "Benfica", "tip": "2", "odds": "1.40" }, 
-      { "teamA": "Istra 1961", "teamB": "Hajduk Split", "tip": "2", "odds": "1.80" }, 
-      { "teamA": "Nea Salamina", "teamB": "Pafos", "tip": "2", "odds": "1.65" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.50" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "2.15" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.40" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.80" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.65" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1"] },
@@ -253,43 +253,42 @@
       "date": "Yesterday",
       "categories": {
 
-         "1 Draw": [ { "country": "spain", "teamA": "Shenzhen", "teamB": "Dalian Kewei", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" } ],
+         "1 Draw": [ { "country": "spain", "teamA": "Boulogne", "teamB": "Reims", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": "Atalanta", "teamB": "Fiorentina", "prediction": "Draw", "score": "4-4", "odds": "5.20", "result": "WON" },
-            { "country": "france", "teamA": "Hull City", "teamB": "Brentford", "prediction": "Draw", "score": "0-0", "odds": "3.10", "result": "WON" }
+            { "country": "italy", "teamA": "Nueva Chicago", "teamB": "San Martin De San Juan", "prediction": "Draw", "score": "1-1", "odds": "3.20", "result": "WON" },
+            { "country": "france", "teamA": "Defensores De Belgrano", "teamB": "Ca San Miguel", "prediction": "Draw", "score": "0-0", "odds": "3.10", "result": "WON" }
         ],
         
         "Silver Plan": [ 
-          { "country": "england", "teamA": "Fc Thun", "teamB": "Lugano", "prediction": "2", "score": "2-3", "odds": "2.10", "result": "WON" },
-          { "country": "germany", "teamA": "Goztepe Izmir", "teamB": "Corum", "prediction": "1", "score": "2-0", "odds": "2.55", "result": "WON" }
+          { "country": "england", "teamA": "Rizespor", "teamB": "Trabzonspor", "prediction": "2", "score": "3-4", "odds": "2.30", "result": "WON" },
+          { "country": "germany", "teamA": "Galatasaray", "teamB": "Fenerbahce", "prediction": "OVER 2.5", "score": "2-1", "odds": "1.70", "result": "WON" }
         ],
         
 
         "Gold Plan": [ 
-            { "country": "spain", "teamA": "Genoa", "teamB": "Venezia", "prediction": "1", "score": "1-0", "odds": "2.60", "result": "WON" },
-            { "country": "germany", "teamA": "Viking Fk", "teamB": "Tromsoe Il", "prediction": "OVER 2.5", "score": "3-1", "odds": "1.60", "result": "WON" }
+            { "country": "spain", "teamA": "Sevilla", "teamB": "Osasuna", "prediction": "1", "score": "2-0", "odds": "2.30", "result": "WON" },
+            { "country": "germany", "teamA": "St Patrick", "teamB": "Floriana", "prediction": "OVER 2.5", "score": "2-1", "odds": "1.60", "result": "WON" }
         ],
         
         
         "Platinum Plan": [ 
-            { "country": "spain", "teamA": "Goztepe Izmir", "teamB": "Corum", "prediction": "OVER 1.5", "score": "2-0", "odds": "1.40", "result": "WON" },
-            { "country": "spain", "teamA": "Az Alkmaar", "teamB": "Twente", "prediction": "2", "score": "0-2", "odds": "3.55", "result": "WON" },
-            { "country": "italy", "teamA": "Bjarg", "teamB": "Jerv", "prediction": "OVER 2.5", "score": "4-0", "odds": "1.55", "result": "WON" },
-            { "country": "italy", "teamA": "Hibernian Fc", "teamB": "Tromsoe Il", "prediction": "OVER 2.5", "score": "1-2", "odds": "1.65", "result": "WON" }
+            { "country": "spain", "teamA": "Santa Clara", "teamB": "Benfica", "prediction": "OVER 2.5", "score": "1-2", "odds": "1.80", "result": "WON" },
+            { "country": "spain", "teamA": "Fc Copenhagen", "teamB": "Odense Boldklub", "prediction": "DRAW", "score": "1-1", "odds": "4.55", "result": "WON" },
+            { "country": "italy", "teamA": "Besiktas", "teamB": "Istanbul Basaksehir", "prediction": "1", "score": "2-0", "odds": "1.65", "result": "WON" }
         ],
         
         "LONGBET PLAN": [ 
-           { "country": "france", "teamA": "Freiburg", "teamB": "Bayern Munich", "prediction": "GG&OVER3.4", "score": "1-3", "odds": "3.65", "result": "WON" },
-           { "country": "france", "teamA": "Fc Thun", "teamB": "Lugano", "prediction": "OVER 3.5", "score": "2-3", "odds": "2.65", "result": "WON" },
-           { "country": "spain", "teamA": "Viking Fk", "teamB": "Tromsoe Il", "prediction": "1", "score": "3-1", "odds": "1.65", "result": "WON" }
+           { "country": "france", "teamA": "Istra 1961", "teamB": "Hajduk Split", "prediction": "OVER 3.5", "score": "2-2", "odds": "2.65", "result": "WON" },
+           { "country": "france", "teamA": "Fc Copenhagen", "teamB": "Odense Boldklub", "prediction": "GG", "score": "1-1", "odds": "1.55", "result": "WON" },
+           { "country": "spain", "teamA": "Santa Clara", "teamB": "Benfica", "prediction": "GG", "score": "1-2", "odds": "2.25", "result": "WON" }
         ],
         
         "VIP Tips": [ 
-            { "country": "italy", "teamA": "Hibernian", "teamB": "Celtic", "prediction": "2", "score": "1-2", "odds": "1.65", "result": "WON" },
-            { "country": "italy", "teamA": "Hoffenheim", "teamB": "Leverkusen", "prediction": "1", "score": "3-0", "odds": "4.60", "result": "WON" },
-           { "country": "italy", "teamA": "Inter Milan", "teamB": "Fiorentina", "prediction": "1", "score": "2-1", "odds": "1.60", "result": "WON" },
-            { "country": "germany", "teamA": "Sion", "teamB": "Lausanne-sport", "prediction": "1", "score": "1-0", "odds": "1.70", "result": "WON" },
-           { "country": "germany", "teamA": "Hull City", "teamB": "Brentford", "prediction": "DRAW", "score": "1-1", "odds": "5.42", "result": "WON" }
+            { "country": "italy", "teamA": "Psg", "teamB": "Lyon", "prediction": "1", "score": "2-0", "odds": "1.65", "result": "WON" },
+            { "country": "italy", "teamA": "Rizespor", "teamB": "Trabzonspor", "prediction": "2", "score": "3-4", "odds": "2.60", "result": "WON" },
+           { "country": "italy", "teamA": "Santa Clara", "teamB": "Benfica", "prediction": "2", "score": "1-2", "odds": "1.50", "result": "WON" },
+            { "country": "germany", "teamA": "Nea Salamina", "teamB": "Pafos", "prediction": "DRAW", "score": "0-0", "odds": "5.70", "result": "WON" },
+           { "country": "germany", "teamA": "Istra 1961", "teamB": "Hajduk Split", "prediction": "GG", "score": "2-2", "odds": "1.65", "result": "WON" }
         ]
       }
     },
