@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "Fc Pars Jonoubi Jam", "teamB": "Ario Eslamshahr", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": "Palayesh Naft Bandar Abbas Fc", "teamB": "Mes Rafsanjan Fc", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "Fc Livyi Bereh Kyiv", "teamB": "Veres Rivne", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": "Roma", "teamB": "Cagliari", "tip": "OVER 2.5", "odds": "1.80" }, 
