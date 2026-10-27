@@ -232,8 +232,9 @@
     
     "vip1000": 
     [ { "teamA": "Dinamo Zagreb", "teamB": "Rijeka", "tip": "1", "odds": "1.75" }, 
-      { "teamA": "As Roma", "teamB": "Cagliari", "tip": "OVER 2.5", "odds": "1.80" }, 
+      { "teamA": "Roma", "teamB": "Cagliari", "tip": "OVER 2.5", "odds": "1.80" }, 
       { "teamA": "Torino", "teamB": "Como", "tip": "OVER 2.5", "odds": "1.80" }, 
+      { "teamA": "Sassuolo", "teamB": "Lazio", "tip": "2", "odds": "2.50" }, 
       { "teamA": "Fylde", "teamB": "Hartlepool", "tip": "OVER 2.5", "odds": "1.65" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
@@ -286,7 +287,7 @@
         "VIP Tips": [ 
             { "country": "italy", "teamA": "Psg", "teamB": "Lyon", "prediction": "1", "score": "2-0", "odds": "1.65", "result": "WON" },
             { "country": "italy", "teamA": "Rizespor", "teamB": "Trabzonspor", "prediction": "2", "score": "3-4", "odds": "2.60", "result": "WON" },
-           { "country": "italy", "teamA": "Santa Clara", "teamB": "Benfica", "prediction": "2", "score": "1-2", "odds": "1.50", "result": "WON" },
+            { "country": "italy", "teamA": "Santa Clara", "teamB": "Benfica", "prediction": "2", "score": "1-2", "odds": "1.50", "result": "WON" },
             { "country": "germany", "teamA": "Nea Salamina", "teamB": "Pafos", "prediction": "DRAW", "score": "0-0", "odds": "5.70", "result": "WON" },
            { "country": "germany", "teamA": "Istra 1961", "teamB": "Hajduk Split", "prediction": "GG", "score": "2-2", "odds": "1.65", "result": "WON" }
         ]
