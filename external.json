@@ -268,7 +268,7 @@
 
         "Gold Plan": [ 
             { "country": "spain", "teamA": "Roma", "teamB": "Cagliari", "prediction": "1", "score": "4-2", "odds": "1.60", "result": "WON" },
-            { "country": "germany", "teamA": "Roda Jc", "teamB": "De Graafschap", "prediction": "1", "score": "1-0", "odds": "2.60", "result": "WON" }
+            { "country": "germany", "teamA": "Roda Jc", "teamB": "De Graafschap", "prediction": "1", "score": "1-0", "odds": "2.60", "result": "WON" },
             { "country": "spain", "teamA": "Elversberg", "teamB": "Darmstadt 98", "prediction": "2", "score": "0-2", "odds": "10.60", "result": "WON" },
         ],
         
