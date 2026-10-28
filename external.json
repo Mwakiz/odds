@@ -1,340 +1,811 @@
-{
-  "till_info": {
-    "name": "Quick Call Selections",
-    "number": "5150225",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqwnb9M3yxfriVJzTycEmKf1H9u7sbl6HeUFOMZH_oPA&s=10"
-  },
-  "contact_details": {
-    "whatsapp_url": "https://wa.me/254728832598?text=I'm%20interested%20in%20your%20sure%20tips%20today",
-    "twitter_url": "https://twitter.com/victonic_sports",
-    "telegram_url": "https://t.me/+GEkAL_4kqyJjNDc0"
-  },
-  "countries": [
-    {
-      "code": "ke",
-      "name": "Kenya",
-      "flag": "🇰🇪",
-      "currency": "KSh",
-      "rate_to_kes": 1,
-      "type": "automated"
-    },
-    {
-      "code": "ug",
-      "name": "Uganda",
-      "flag": "🇺🇬",
-      "currency": "UGX",
-      "rate_to_kes": 78.5,
-      "type": "manual",
-      "methods": [
-        {
-          "provider": "MTN Uganda (to Safaricom M-Pesa)",
-          "phone": "254728832598",
-          "steps": [
-            "Dial *165*1*2# on your mobile line.",
-            "Select 1: Send Money.",
-            "Choose 3: International Transfer.",
-            "Select 1: Safaricom M-Pesa.",
-            "Enter recipient phone number: {phone}",
-            "Enter amount in UGX ({amount}) and state reason.",
-            "Enter your MTN MoMo PIN to authorize."
-          ]
-        },
-        {
-          "provider": "Airtel Uganda",
-          "phone": "254754066101",
-          "steps": [
-            "Dial *185#.",
-            "Select 1: Send Money.",
-            "Choose 4: International Transfer.",
-            "Select Kenya.",
-            "Enter recipient phone number: {phone}",
-            "Enter amount ({amount}), input transaction reason, and confirm with Airtel Money PIN."
-          ]
-        }
-      ]
-    },
-    {
-      "code": "tz",
-      "name": "Tanzania",
-      "flag": "🇹🇿",
-      "currency": "TZS",
-      "rate_to_kes": 45.0,
-      "type": "manual",
-      "methods": [
-        {
-          "provider": "Vodacom M-Pesa Tanzania",
-          "phone": "254728832598",
-          "steps": [
-            "Dial *150*00#.",
-            "Select Send Money, then select International Transfers.",
-            "Choose M-Pesa Kenya.",
-            "Enter recipient phone number: {phone}",
-            "Input amount in TZS ({amount}), review automated conversion rates, and enter M-Pesa PIN."
-          ]
-        },
-        {
-          "provider": "Airtel Tanzania",
-          "phone": "254754066101",
-          "steps": [
-            "Dial *150*60#.",
-            "Select 1: Send Money.",
-            "Choose 5: Send Money Abroad.",
-            "Select Kenya.",
-            "Select 1: Mobile Wallet and choose either Airtel Kenya or M-Pesa Kenya.",
-            "Enter recipient mobile number: {phone}",
-            "Enter amount in TZS ({amount}), pick transfer reason, and enter Airtel Money PIN."
-          ]
-        }
-      ]
-    },
-    {
-      "code": "rw",
-      "name": "Rwanda",
-      "flag": "🇷🇼",
-      "currency": "RWF",
-      "rate_to_kes": 10.0,
-      "type": "manual",
-      "methods": [
-        {
-          "provider": "MTN Rwanda",
-          "phone": "254728832598",
-          "steps": [
-            "Dial *182#.",
-            "Select Send Money, then select International Remittance / Cross Border.",
-            "Choose Kenya and select destination wallet (M-Pesa or Airtel Money).",
-            "Enter recipient phone number: {phone}",
-            "Enter amount in RWF ({amount}) and confirm with MTN MoMo PIN."
-          ]
-        },
-        {
-          "provider": "Airtel Rwanda",
-          "phone": "254754066101",
-          "steps": [
-            "Dial *182# or open MyAirtel App.",
-            "Choose Airtel Money, then select Send Money.",
-            "Click International and select Kenya.",
-            "Enter phone number: {phone}, input amount ({amount}), and confirm using Airtel PIN."
-          ]
-        }
-      ]
-    },
-    {
-      "code": "zm",
-      "name": "Zambia",
-      "flag": "🇿🇲",
-      "currency": "ZMW",
-      "rate_to_kes": 0.21,
-      "type": "manual",
-      "methods": [
-        {
-          "provider": "Airtel Zambia",
-          "phone": "254754066101",
-          "steps": [
-            "Dial *115#.",
-            "Navigate to Airtel Money, select Send Money, and choose International Transfer.",
-            "Select Kenya as destination.",
-            "Enter recipient phone number starting with country code 254: {phone}",
-            "Input amount ({amount}), review currency exchange window, and enter Airtel T-PIN."
-          ]
-        }
-      ]
-    },
-    {
-      "code": "mw",
-      "name": "Malawi",
-      "flag": "🇲🇼",
-      "currency": "MWK",
-      "rate_to_kes": 13.5,
-      "type": "manual",
-      "methods": [
-        {
-          "provider": "Airtel Malawi",
-          "phone": "254754066101",
-          "steps": [
-            "Dial *211#.",
-            "Navigate to Airtel Money, select Send Money, and choose International Transfer.",
-            "Select Kenya as destination.",
-            "Enter recipient phone number starting with country code 254: {phone}",
-            "Input amount ({amount}), review currency exchange window, and enter Airtel T-PIN."
-          ]
-        }
-      ]
-    }
-  ],
-  "free_tip": {
-    "country": "Call Us: 0728832598",
-    "league": "Serie A",
-    "time": "Today 9:30 EAT",
-    "teamA": "Roma",
-    "teamB": "Cagliari",
-    "pick": "Pick: OVER 2.5",
-    "confidence": "98"
-  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    
+    <!-- SEO OPTIMIZATION -->
+    <meta name="author" content="Oddspredicts">
+    <meta name="description" content="Oddspredicts provides sure soccer betting tips, daily high odds accumulators, correct score predictions, and winning jackpot picks. Get today's sure bets.">
+    <meta name="keywords" content="soccer predictions, betting tips, sure tips, football odds, correct score, jackpot predictions, Oddspredicts, free tips">
+    <link rel="canonical" href="https://oddspredicts.com/">
+    
+    <!-- OPEN GRAPH / SOCIAL MEDIA -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://oddspredicts.com/">
+    <meta property="og:title" content="Oddspredicts | Sure Soccer Betting Tips & Predictions">
+    <meta property="og:description" content="Get daily sure odds accumulators, correct score predictions and premium jackpot picks. Join Oddspredicts for guaranteed winning tips.">
+    <meta property="og:image" content="https://oddspredicts.com/social-banner.jpg">
 
+    <!-- TWITTER CARDS -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Oddspredicts | Sure Soccer Betting Tips">
+    <meta name="twitter:description" content="Get daily sure odds accumulators, correct score predictions and premium jackpot picks.">
     
-  },
-  "packages": [ 
-    { "id": "draw1", "title": "1 Draw Package", "type": "flat", "price_kes": 200 },
-    { "id": "draw2", "title": "2 Draws Package", "type": "flat", "price_kes": 400 },
-    
-    { "id": "odds2", "title": "Silver Plan", "type": "flat", "price_kes": 100 },
-    { "id": "odds3", "title": "Gold Plan", "type": "flat", "price_kes": 150 },
-    { "id": "odds4", "title": "Platinum Plan", "type": "flat", "price_kes": 200 },
-    { "id": "odds5", "title": "LONGBET PLAN", "type": "flat", "price_kes": 350 },
-    { "id": "vip1000", "title": "VVIP PLAN", "type": "flat", "price_kes": 450, "isMostPopular": true },
-    { 
-      "id": "jackpot", 
-      "title": "SportPesa Jackpot (13/13)", 
-      "type": "jackpot", 
-      "jackpots": [
-        { "bookmaker": "SportPesa Jackpot 1 SLIP", "amount_kes": 500 },
-        { "bookmaker": "SportPesa Jackpot 2 SLIPS", "amount_kes": 850 }
-        
-      ]
-    },
-    { 
-      "id": "mega-jackpot", 
-      "title": "SportPesa Mega Jackpot (17/17)", 
-      "type": "jackpot", 
-      "jackpots": [
-        { "bookmaker": "Mega Jackpot 1 SLIP", "amount_kes": 500 },
-        { "bookmaker": "Mega Jackpot 2 SLIPS", "amount_kes": 850 }
-       
-      ]
-    }
-  ],
-  
-   "tips": {
-    "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
-    
-    "draw2": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
-    
-    "odds2": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.55" } ],
-    
-    "odds3": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.55" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 1.5", "odds": "1.25" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.65" } ],
-    
-    "odds4": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 1.5", "odds": "1.35" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "over 2.5", "odds": "1.75" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.60" } ],
-    
-    "odds5": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.55" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.95" },
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.75" } ],
-    
-    "vip1000": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.75" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "2.50" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.65" } ],
-    
-    "jackpot-sportpesa-jackpot-1-slip": 
-    { "slips": ["MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1"] },
-    "jackpot-sportpesa-jackpot-2-slips": 
-    { "slips": ["MJP#2,2,2,2,2,1,2,1,1,1,2,2,X,2,1,2,1", "MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1"] },
-    
-    "jackpot-mega-jackpot-1-slip": 
-    { "slips": ["MJP: X,2,1,X,2,1,X,2,1,2,1,X,2,1,2,1,2"] },
-    "jackpot-mega-jackpot-2-slips": 
-    { "slips": ["MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1", "MJP#2,2,2,2,2,1,2,1,1,1,2,2,X,2,1,2,1"] }
-    
-  },
-  
-  "history": [
-    {
-      "date": "Yesterday",
-      "categories": {
+    <title>Oddspredicts | Sure Soccer Betting Tips & Daily Predictions</title>
 
-         "1 Draw": [ { "country": "spain", "teamA": "Larne", "teamB": "Limavady", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" } ],
-        "2 Draws": [ 
-            { "country": "italy", "teamA": "Palayesh Naft Bandar Abbas Fc", "teamB": "Mes Rafsanjan Fc", "prediction": "Draw", "score": "0-0", "odds": "3.50", "result": "WON" },
-            { "country": "france", "teamA": "Altamura", "teamB": "Gubbio", "prediction": "Draw", "score": "0-0", "odds": "3.10", "result": "WON" }
-        ],
-        
-        "Silver Plan": [ 
-          { "country": "england", "teamA": "Roma", "teamB": "Cagliari", "prediction": "OVER 2.5", "score": "4-2", "odds": "1.80", "result": "WON" },
-          { "country": "germany", "teamA": "Telstar", "teamB": "Almere City Fc", "prediction": "2", "score": "0-2", "odds": "5.70", "result": "WON" }
-        ],
-        
+    <link rel="icon" type="image/gif" href="/tab.gif"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Paytone+One&display=swap" rel="stylesheet">
 
-        "Gold Plan": [ 
-            { "country": "spain", "teamA": "Roma", "teamB": "Cagliari", "prediction": "1", "score": "4-2", "odds": "1.60", "result": "WON" },
-            { "country": "germany", "teamA": "Roda Jc", "teamB": "De Graafschap", "prediction": "1", "score": "1-0", "odds": "2.60", "result": "WON" },
-            { "country": "spain", "teamA": "Elversberg", "teamB": "Darmstadt 98", "prediction": "2", "score": "0-2", "odds": "10.60", "result": "WON" },
-        ],
-        
-        
-        "Platinum Plan": [ 
-            { "country": "spain", "teamA": "Bradford City", "teamB": "Peterborough", "prediction": "1", "score": "2-0", "odds": "1.90", "result": "WON" },
-            { "country": "spain", "teamA": "Torino", "teamB": "Como", "prediction": "OVER 3.5", "score": "1-3", "odds": "2.55", "result": "WON" },
-            { "country": "italy", "teamA": "Slavia Prague", "teamB": "Zbrojovka Brno", "prediction": "OVER 2.5", "score": "4-0", "odds": "1.75", "result": "WON" }
-        ],
-        
-        "LONGBET PLAN": [ 
-           { "country": "france", "teamA": "Fylde", "teamB": "Hartlepool", "prediction": "OVER 2.5", "score": "3-1", "odds": "1.65", "result": "WON" },
-           { "country": "france", "teamA": "Torino", "teamB": "Como", "prediction": "2", "score": "1-3", "odds": "2.55", "result": "WON" },
-           { "country": "spain", "teamA": "Sassuolo", "teamB": "Lazio", "prediction": "OVER 2.5", "score": "2-6", "odds": "1.85", "result": "WON" }
-        ],
-        
-        "VIP Tips": [ 
-            { "country": "italy", "teamA": "Dinamo Zagreb", "teamB": "Rijeka", "prediction": "1", "score": "2-1", "odds": "1.80", "result": "WON" },
-            { "country": "italy", "teamA": "Roma", "teamB": "Cagliari", "prediction": "OVER 2.5", "score": "4-2", "odds": "1.85", "result": "WON" },
-            { "country": "italy", "teamA": "Torino", "teamB": "Como", "prediction": "OVER 2.5", "score": "1-3", "odds": "1.80", "result": "WON" },
-            { "country": "germany", "teamA": "Sassuolo", "teamB": "Lazio", "prediction": "2", "score": "2-6", "odds": "2.50", "result": "WON" },
-           { "country": "germany", "teamA": "Fylde", "teamB": "Hartlepool", "prediction": "OVER 2.5", "score": "3-1", "odds": "1.75", "result": "WON" }
-        ]
-      }
-    },
-    {
-      "date": "Last Weekend",
-      "categories": {
-        "SportPesa Jackpot (13 Games)": {
-          "bonus": {
-            "title_1": "MIDWEEK",
-            "title_2": "JACKPOT",
-            "title_3": "BONUSES",
-            "tiers": [
-                { "label": "12/13 CORRECT", "amount": "1,069,828" },
-                { "label": "11/13 CORRECT", "amount": "81,398" },
-                { "label": "10/13 CORRECT", "amount": "10,797" }
-            ],
-            "combo_label": "WINNING COMBO",
-            "combo_string": "1,1,2,2,1,X,X,2,2,1,2,2,X"
-          },
-          "matches": [
-            { "prediction": "(JP#1X212X1X21X21)", "result": "12/13 WON (Bonus)" },
-            { "prediction": "(JP#211X221XX1121)", "result": "11/13 WON (Bonus)" }
-          ]
-        },
-        "SportPesa Mega Jackpot (17 Games)": {
-          "bonus": {
-            "title_1": "MEGA",
-            "title_2": "JACKPOT",
-            "title_3": "BONUSES",
-            "tiers": [
-                { "label": "15/17 CORRECT", "amount": "5,069,828" },
-                { "label": "14/17 CORRECT", "amount": "581,398" },
-                { "label": "13/17 CORRECT", "amount": "90,797" },
-                { "label": "12/17 CORRECT", "amount": "15,500" }
-            ],
-            "combo_label": "WINNING COMBO",
-            "combo_string": "1,X,2,1,X,2,1,2,2,1,X,2,1,1,2,X,1"
-          },
-          "matches": [
-            { "prediction": "(JP#112X21X1221X21XX1)", "result": "15/17 WON (Bonus)" },
-            { "prediction": "(JP#X2112X1121221XX21)", "result": "13/17 WON (Bonus)" }
-          ]
+    <style>
+        :root {
+            --bg:          #110b08;
+            --card-bg:     rgba(36, 24, 18, 0.90);
+            --card-border: rgba(217, 160, 102, 0.22);
+            --card-hover:  #332219;
+            --green:       #00E676;
+            --green-glow:  rgba(0, 230, 118, 0.25);
+            --red:         #FF5252;
+            --gold:        #FFD700;
+            --gold-glow:   rgba(255, 215, 0, 0.25);
+            --amber-brown: #D97706;
+            --bronze:      #CD7F32;
+            --copper:      #B85E00;
+            --blue:        #38BDF8;
+            --purple:      #A78BFA;
+            --muted:       #A39489;
+            
+            --draw1:  #2563EB;
+            --draw2:  #4F46E5;
+            --draw3:  #7C3AED;
+            --odds2:  #0284C7;
+            --odds5:  #E11D48;
+            --odds10: #D97706;
         }
-      }
-    }
-  ]
-}
+
+        body {
+            font-family: 'Josefin Sans', sans-serif;
+            background: radial-gradient(circle at top center, #2e1d15 0%, var(--bg) 75%);
+            color: #f7f3ee;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* SPLASH & COUNTRY SELECTOR */
+        #splash-screen {
+            position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+            background: var(--bg); display: flex; flex-direction: column;
+            justify-content: center; align-items: center; z-index: 9999;
+            transition: opacity 0.5s ease-out;
+        }
+        #splash-screen .brand-title { font-family: 'Paytone One', sans-serif; color: var(--gold); text-align: center; animation: pulse 1.5s infinite; }
+        #splash-screen .splash-line1 { font-size: clamp(2rem, 9vw, 3.2rem); letter-spacing: 0.04em; display: block; text-shadow: 0 0 20px var(--gold-glow); }
+        #splash-screen .splash-line2 { font-size: clamp(1.4rem, 6.5vw, 2.2rem); letter-spacing: 0.12em; opacity: 0.95; color: var(--green); display: block; text-shadow: 0 0 15px var(--green-glow); }
+
+        #country-screen {
+            position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+            background: var(--bg); display: none; flex-direction: column;
+            justify-content: center; align-items: center; z-index: 9998; padding: 20px; text-align: center;
+        }
+        #country-screen h2 { font-family: 'Paytone One', sans-serif; color: var(--gold); margin-bottom: 25px; text-shadow: 0 0 15px var(--gold-glow); }
+        #country-buttons-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 15px;
+            width: 100%;
+            max-width: 500px;
+        }
+        .country-btn {
+            background: var(--card-bg);
+            border: 1px solid var(--amber-brown);
+            color: #fff;
+            font-size: 1.2rem;
+            font-family: 'Paytone One', sans-serif;
+            padding: 16px 12px;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        .country-btn:hover {
+            background: linear-gradient(135deg, var(--amber-brown) 0%, var(--copper) 100%);
+            color: #ffffff;
+            transform: translateY(-4px) scale(1.02);
+            box-shadow: 0 8px 25px rgba(217, 119, 6, 0.4);
+        }
+
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+
+        /* APP CARDS & GLASSMORPHISM */
+        #main-app { display: none; }
+        .container { max-width: 900px; padding: 20px 12px; }
+
+        .seo-header { text-align: center; margin-bottom: 30px; padding-top: 20px; }
+        .seo-header h1 {
+            font-family: 'Paytone One', sans-serif; color: var(--gold);
+            font-size: clamp(2rem, 6vw, 2.8rem); text-shadow: 0 0 18px var(--gold-glow);
+            margin-bottom: 5px; letter-spacing: 1px;
+        }
+        .seo-header p { color: #f3d4a0; font-size: 1.1rem; font-weight: 600; }
+
+        .card {
+            background: var(--card-bg); backdrop-filter: blur(12px);
+            border: 1px solid var(--card-border); border-radius: 18px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.65); margin-bottom: 24px;
+            overflow: hidden; transition: transform 0.3s ease, border-color 0.3s ease;
+        }
+        .card:hover { border-color: rgba(255, 215, 0, 0.35); }
+        .card-header { font-family: 'Paytone One', sans-serif; font-size: 1.35rem; text-align: center; padding: 14px 20px; border-bottom: none; letter-spacing: 0.5px; }
+        .card-body { padding: 20px 16px; text-align: center; }
+
+        /* BUTTONS & BADGES */
+        .btn-custom {
+            background: linear-gradient(135deg, #D97706 0%, #B85E00 100%);
+            color: #ffffff; font-weight: 700; border-radius: 10px; padding: 12px 24px;
+            transition: all 0.3s ease; border: none; box-shadow: 0 4px 15px rgba(217, 119, 6, 0.35);
+            text-transform: uppercase; font-size: 0.95rem; letter-spacing: 0.5px; text-decoration: none; display: inline-block;
+        }
+        .btn-custom:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(217, 119, 6, 0.55); color: #ffffff; }
+        .pkg-badge {
+            display: inline-block; font-size: 0.75rem; font-weight: 800; background: linear-gradient(90deg, #FFD700, #D97706);
+            color: #110b08; padding: 4px 14px; border-radius: 20px; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 2px 10px var(--gold-glow);
+        }
+
+        /* TABLES */
+        .table-responsive { border-radius: 12px; overflow: hidden; margin-top: 15px; }
+        .table { background: rgba(17, 11, 8, 0.75); color: #ffffff; margin-bottom: 0; border-color: rgba(255,255,255,0.08); }
+        .table th { background: rgba(255, 255, 255, 0.08); color: var(--gold); font-weight: 700; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; padding: 12px 8px; border-bottom: 1px solid rgba(255,255,255,0.15); }
+        .table td { text-align: center; vertical-align: middle; padding: 14px 8px; font-size: 0.95rem; border-color: rgba(255, 255, 255, 0.05); }
+        .table tbody tr:hover { background: var(--card-hover); }
+
+        /* SLIPS & LOCKED UI */
+        .slip-box {
+            word-break: break-all; white-space: normal;
+            font-family: monospace; letter-spacing: 2px; font-weight: bold;
+        }
+        .locked-container {
+            position: relative; display: inline-flex; align-items: center; justify-content: center; gap: 6px; user-select: none;
+        }
+        .blurred-teaser {
+            filter: blur(4px); opacity: 0.7; pointer-events: none;
+            word-break: break-all; font-family: monospace; letter-spacing: 1px; color: var(--gold);
+        }
+        .lock-pill {
+            display: inline-flex; align-items: center; gap: 4px; background: rgba(255, 215, 0, 0.15);
+            border: 1px solid rgba(255, 215, 0, 0.4); color: var(--gold); font-size: 0.72rem; font-weight: 700;
+            padding: 2px 8px; border-radius: 12px; text-transform: uppercase; letter-spacing: 0.5px; backdrop-filter: blur(4px);
+        }
+
+        /* MODAL STYLING */
+        .modal-content { background: var(--bg); border: 1px solid rgba(217, 160, 102, 0.3); border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.85); }
+        .modal-header { background: linear-gradient(135deg, #D97706 0%, #78350F 100%); color: #ffffff; border-bottom: none; padding: 18px 24px; }
+        .modal-title { font-family: 'Paytone One', sans-serif; font-size: 1.4rem; }
+        .list-group-item { background: rgba(255,255,255,0.04); color: #f0e6df; border-color: rgba(255,255,255,0.08); }
+        .list-group-item strong { color: var(--gold); }
+        .copy-btn { background: var(--gold); border: none; color: #110b08; padding: 3px 10px; border-radius: 6px; margin-left: 8px; font-size: 0.8rem; font-weight: bold; transition: opacity 0.2s; }
+        .copy-btn:hover { opacity: 0.85; }
+
+        .loader { border: 3px solid rgba(255,255,255,0.1); border-top: 3px solid var(--amber-brown); border-radius: 50%; width: 32px; height: 32px; animation: spin 0.8s linear infinite; margin: 20px auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* History Badge Categories */
+        .badge-midweek { background: rgba(217, 119, 6, 0.2); color: #FFB300; border: 1px solid #D97706; }
+        .badge-mega { background: rgba(255, 215, 0, 0.2); color: var(--gold); border: 1px solid var(--gold); }
+    </style>
+</head>
+<body>
+
+    <div id="splash-screen">
+        <div class="brand-title">
+            <span class="splash-line1">ODDS</span>
+            <span class="splash-line2">PREDICTS</span>
+        </div>
+        <p class="mt-2 text-muted">Loading daily sure predictions...</p>
+    </div>
+
+    <div id="country-screen">
+        <h2>Select Your Country</h2>
+        <div id="country-buttons-container">
+            <div class="loader"></div>
+        </div>
+    </div>
+
+    <div id="main-app">
+        <main class="container">
+            
+            <header class="seo-header">
+                <h1>Oddspredicts</h1>
+                <p>Premium Sure Soccer Tips & Daily Accumulators</p>
+            </header>
+
+            <section class="card">
+                <div class="card-header" style="background: linear-gradient(90deg, #D97706, #78350F); color: #ffffff;">
+                    🔥 Free Tip of the Day
+                </div>
+                <div class="card-body">
+                    <p id="free-tip-league" class="card-text mt-1" style="font-weight: bold; color: var(--gold); font-size: 1.05rem;"></p>
+                    <h3 class="card-title my-2" id="free-tip-time" style="color:#fff;">Loading...</h3>
+                    <p class="card-text fs-5" style="color: #ffffff;"><strong id="free-tip-match">...</strong></p>
+                    <div class="p-2 rounded d-inline-block px-4" style="background: rgba(0,230,118,0.12); border: 1px solid var(--green);">
+                        <strong id="free-tip-pick" style="color: var(--green);">...</strong>
+                    </div>
+                </div>
+            </section>
+
+            <div id="packages-container">
+                <div class="loader"></div>
+            </div>
+
+            <section class="past-tips mt-5">
+                <h2 class="text-center mb-4" style="font-family:'Paytone One', sans-serif; color:var(--gold); text-shadow: 0 0 10px var(--gold-glow);">
+                    Past Tips History
+                </h2>
+                <div id="history-container">
+                    <div class="loader"></div>
+                </div>
+            </section>
+
+            <section class="text-center mt-5 mb-5 p-4 card">
+                <h4 class="mb-3" style="color:white; font-family:'Paytone One', sans-serif;">Need Help & Support?</h4>
+                <div>
+                    <a id="btn-whatsapp" href="#" class="btn btn-success m-1 px-4 py-2" style="border-radius: 10px; font-weight: 700;" rel="noopener noreferrer">WhatsApp</a>
+                    <a id="btn-twitter" href="#" class="btn btn-primary m-1 px-4 py-2" style="border-radius: 10px; font-weight: 700;" rel="noopener noreferrer">Twitter</a>
+                    <a id="btn-telegram" href="#" class="btn btn-info text-white m-1 px-4 py-2" style="border-radius: 10px; font-weight: 700;" rel="noopener noreferrer">Telegram</a>
+                </div>
+            </section>
+
+            <!-- PAYMENT MODAL -->
+            <div class="modal fade payment-modal" id="pay-modal" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h3 class="modal-title" id="pay-modal-title">Buy Tips</h3>
+                            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body p-4">
+                            
+                            <!-- KENYA (Automated Instant Verification) -->
+                            <div class="pay-section" id="pay-ke" style="display:none;">
+                                <h5 class="text-warning text-center mb-3">Automatic Instant Access</h5>
+                                <div class="text-center mb-3">
+                                    <img id="till-image" src="" alt="Lipa na M-Pesa Till" style="max-width: 130px; border-radius: 12px; border: 2px solid var(--card-border);">
+                                </div>
+                                <ul class="list-group list-group-flush mb-3 rounded">
+                                    <li class="list-group-item">1. Go to Safaricom -> <strong>Buy Goods & Services</strong></li>
+                                    <li class="list-group-item" style="background: rgba(217, 119, 6, 0.18);">2. Till No: <strong id="till-number-display"></strong> (<span id="till-name-display"></span>) <button class="copy-btn" id="btn-copy-till">Copy</button></li>
+                                    <li class="list-group-item">3. Amount: <strong id="pay-modal-amount-ke" class="text-warning">KSh 0</strong></li>
+                                </ul>
+                                <div class="p-3 rounded" style="background-color: rgba(0,0,0,0.4); border: 1px solid var(--card-border);">
+                                    <h6 class="text-warning mb-2">Verify Confirmation Message</h6>
+                                    <textarea class="form-control mb-2" id="mpesa-message-input" rows="3" style="background:#1a110b; color:#fff; border: 1px solid #3d281a;" placeholder="Paste complete M-Pesa SMS here..."></textarea>
+                                    <button class="btn btn-custom w-100" id="verify-mpesa-btn">Verify Payment & Unlock</button>
+                                    <div id="mpesa-verification-result" class="mt-2 text-center" style="font-weight:bold; font-size: 0.9rem;"></div>
+                                </div>
+                            </div>
+
+                            <!-- DYNAMIC MANUAL PAYMENT -->
+                            <div class="pay-section" id="dynamic-manual-pay" style="display:none;"></div>
+
+                            <!-- GENERIC / FALLBACK -->
+                            <div class="pay-section" id="pay-generic" style="display:none;">
+                                <h5 class="text-warning text-center mb-3">Global Payment Support</h5>
+                                <ul class="list-group list-group-flush mb-3 rounded">
+                                    <li class="list-group-item">1. <strong>Package Price:</strong> <strong id="pay-modal-amount-generic" class="text-warning"></strong></li>
+                                    <li class="list-group-item">2. We accept <strong>Skrill, Binance (Crypto), Chipper Cash, and WorldRemit.</strong></li>
+                                    <li class="list-group-item" style="background: rgba(217, 119, 6, 0.18);">3. Click below to contact our 24/7 support team and request payment instructions.</li>
+                                </ul>
+                                <a id="btn-generic-wa" href="#" class="btn btn-custom w-100 mt-2" target="_blank">Chat with Support to Pay</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        let currentCountry = 'ke';
+        let currentCurrency = 'KSh';
+        let currentRateToKes = 1;
+        
+        let payModal = null;
+        let expectedKesAmount = 0; 
+        let unlockedPackages = []; 
+        let currentPayingPackageId = null; 
+        let appData = null;
+
+        function getTodayEAT() {
+            return new Date().toLocaleDateString("en-CA", {timeZone: "Africa/Nairobi"});
+        }
+
+        function loadUnlockedState() {
+            const todayEAT = getTodayEAT();
+            let stored = JSON.parse(localStorage.getItem('oddspredicts_unlocked') || '{"date":"","packages":[]}');
+            if (stored.date !== todayEAT) {
+                unlockedPackages = [];
+                localStorage.removeItem('oddspredicts_unlocked');
+            } else {
+                unlockedPackages = stored.packages;
+            }
+        }
+
+        function saveUnlockedState(pkgId) {
+            const todayEAT = getTodayEAT();
+            let stored = JSON.parse(localStorage.getItem('oddspredicts_unlocked') || '{"date":"","packages":[]}');
+            if (stored.date !== todayEAT) { stored = { date: todayEAT, packages: [] }; }
+            if (!stored.packages.includes(pkgId)) { stored.packages.push(pkgId); }
+            localStorage.setItem('oddspredicts_unlocked', JSON.stringify(stored));
+            unlockedPackages = stored.packages;
+        }
+
+        if (window.history && window.history.replaceState) {
+            window.history.replaceState({ page: 'country' }, '');
+        }
+
+        window.addEventListener('popstate', function (e) {
+            const state = e.state;
+            if (!state) return;
+
+            if (state.page === 'main') {
+                if (payModal) payModal.hide();
+                else $('#pay-modal').modal('hide');
+                
+                $('#country-screen').hide();
+                $('#main-app').show();
+            } else if (state.page === 'country') {
+                if (payModal) payModal.hide();
+                else $('#pay-modal').modal('hide');
+
+                $('#main-app').hide();
+                $('#country-screen').css('display', 'flex');
+            }
+        });
+
+        $(document).ready(function() {
+            loadUnlockedState();
+            payModal = new bootstrap.Modal(document.getElementById('pay-modal'));
+
+            $('#pay-modal').on('hidden.bs.modal', function () {
+                if (window.history.state && window.history.state.page === 'modal') {
+                    window.history.back();
+                }
+            });
+
+            fetch('external.json')
+                .then(res => res.json())
+                .then(data => { initAppWithData(data); })
+                .catch(err => {
+                    console.warn("External JSON file not found or failed to load.", err);
+                });
+
+            $('#btn-copy-till').click(function() {
+                const tillNumber = appData.till_info.number;
+                navigator.clipboard.writeText(tillNumber).then(() => {
+                    const btn = $(this);
+                    const originalText = btn.text();
+                    btn.text('Copied!');
+                    setTimeout(() => btn.text(originalText), 1500);
+                });
+            });
+
+            $('#verify-mpesa-btn').click(function() {
+                const msg = $('#mpesa-message-input').val().trim();
+                const $result = $('#mpesa-verification-result');
+
+                if (!msg) { $result.text('Please paste your M-Pesa confirmation SMS.').css('color', 'var(--red)'); return; }
+
+                const codeMatch = msg.match(/^[A-Z0-9]{10}/i);
+                if (!codeMatch || !msg.toLowerCase().includes('confirmed')) { 
+                    $result.text('Invalid M-Pesa message format.').css('color', 'var(--red)'); 
+                    return; 
+                }
+                
+                const mpesaCode = codeMatch[0].toUpperCase();
+                let usedCodes = JSON.parse(localStorage.getItem('usedMpesaCodes') || '[]');
+                if (usedCodes.includes(mpesaCode)) { 
+                    $result.text('This M-Pesa receipt code has already been used.').css('color', 'var(--red)'); 
+                    return; 
+                }
+
+                if (!msg.toLowerCase().includes(appData.till_info.name.toLowerCase())) {
+                    $result.text(`Invalid Till Name. Ensure payment was made to ${appData.till_info.name}.`).css('color', 'var(--red)');
+                    return;
+                }
+
+                const amountMatch = msg.match(/Ksh\s*([\d,]+\.\d{2})/i);
+                if (!amountMatch) { 
+                    $result.text('Could not detect amount in message. Ensure message is full.').css('color', 'var(--red)'); 
+                    return; 
+                }
+                
+                const paidAmount = parseFloat(amountMatch[1].replace(/,/g, ''));
+                if (paidAmount < expectedKesAmount) { 
+                    $result.text(`Insufficient amount. Package price is KSh ${expectedKesAmount}.`).css('color', 'var(--red)'); 
+                    return; 
+                }
+
+                const todayEATObj = new Date(new Date().toLocaleString("en-US", {timeZone: "Africa/Nairobi"}));
+                const d = todayEATObj.getDate();
+                const m = todayEATObj.getMonth() + 1;
+                const yy = todayEATObj.getFullYear().toString().slice(-2);
+                
+                const dStr = d < 10 ? `0?${d}` : d;
+                const mStr = m < 10 ? `0?${m}` : m;
+                const dateRegex = new RegExp(`${dStr}/${mStr}/(?:20)?${yy}`, 'i');
+                
+                if (!dateRegex.test(msg)) {
+                    $result.text('Date mismatch. Payment SMS must be from today.').css('color', 'var(--red)');
+                    return;
+                }
+
+                usedCodes.push(mpesaCode);
+                localStorage.setItem('usedMpesaCodes', JSON.stringify(usedCodes));
+                $result.text('Payment Verified Successfully! Unlocking tips...').css('color', 'var(--green)');
+                
+                setTimeout(() => {
+                    if (currentPayingPackageId) saveUnlockedState(currentPayingPackageId);
+                    payModal.hide();
+                    renderTips(); 
+                }, 1400);
+            });
+        });
+
+        function initAppWithData(data) {
+            appData = data;
+            buildCountryScreen(appData.countries);
+            
+            setTimeout(() => {
+                $('#splash-screen').css('opacity', '0');
+                setTimeout(() => {
+                    $('#splash-screen').hide();
+                    $('#country-screen').css('display', 'flex');
+                }, 500);
+            }, 1000);
+        }
+
+        function buildCountryScreen(countries) {
+            const container = $('#country-buttons-container');
+            container.empty();
+            (countries || []).forEach(c => {
+                container.append(`<button class="country-btn" onclick="selectCountry('${c.code}', '${c.currency}', ${c.rate_to_kes})"><span>${c.flag}</span> <span>${c.name}</span></button>`);
+            });
+        }
+
+        window.selectCountry = function(countryCode, currency, rate) {
+            currentCountry = countryCode;
+            currentCurrency = currency;
+            currentRateToKes = rate;
+            
+            if (window.history && window.history.pushState) {
+                window.history.pushState({ page: 'main' }, '');
+            }
+
+            $('#country-screen').hide();
+            $('#main-app').fadeIn();
+            
+            populateContactsAndTill(appData);
+            renderFreeTip(appData.free_tip);
+            renderPackages(appData.packages);
+            renderTips();
+            renderHistory(appData.history);
+        };
+
+        const COUNTRY_FLAGS = { 'england': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'spain': '🇪🇸', 'italy': '🇮🇹', 'germany': '🇩🇪', 'france': '🇫🇷', 'kenya': '🇰🇪', 'uganda': '🇺🇬', 'tanzania': '🇹🇿', 'rwanda': '🇷🇼', 'zambia': '🇿🇲', 'malawi': '🇲🇼' };
+        function flagFor(country) { return COUNTRY_FLAGS[(country || '').toLowerCase()] || '⚽️'; }
+
+        function populateContactsAndTill(data) {
+            $('#btn-whatsapp').attr('href', data.contact_details.whatsapp_url);
+            $('#btn-twitter').attr('href', data.contact_details.twitter_url);
+            $('#btn-telegram').attr('href', data.contact_details.telegram_url);
+            $('#btn-generic-wa').attr('href', data.contact_details.whatsapp_url);
+
+            $('#till-name-display').text(data.till_info.name);
+            $('#till-number-display').text(data.till_info.number);
+            $('#till-image').attr('src', data.till_info.image);
+        }
+
+        function renderFreeTip(tip) {
+            $('#free-tip-league').text(`${flagFor(tip.country)} ${tip.country} - ${tip.league}`);
+            $('#free-tip-time').text(tip.time);
+            $('#free-tip-match').text(`${tip.teamA} VS ${tip.teamB}`);
+            $('#free-tip-pick').text(`${tip.pick} (Confidence: ${tip.confidence}%)`);
+        }
+
+        function formatLocalPrice(kes) {
+            const local = Math.round(kes * currentRateToKes);
+            return `${currentCurrency} ${local.toLocaleString()}`;
+        }
+
+        function accentColorFor(pkgId) {
+            const id = (pkgId || '').toLowerCase();
+            if (id.includes('draw')) return 'linear-gradient(135deg, #1D4ED8 0%, #1E3A8A 100%)';
+            if (id.includes('odds') || id.includes('vip')) return 'linear-gradient(135deg, #9A3412 0%, #7C2D12 100%)';
+            if (id.includes('correct') || id.includes('jackpot') || id.includes('sportpesa')) return 'linear-gradient(135deg, #D97706 0%, #78350F 100%)';
+            return 'linear-gradient(135deg, #059669 0%, #047857 100%)';
+        }
+
+        function renderPackages(packages) {
+            const container = $('#packages-container');
+            container.empty();
+            
+            packages.forEach(pkg => {
+                const accentGrad = accentColorFor(pkg.id);
+                const isJackpot = pkg.type === 'jackpot' || pkg.id.toLowerCase().includes('jackpot');
+                let priceHtml = '', actionHtml = '';
+
+                if (isJackpot) {
+                    if (currentCountry !== 'ke') return; 
+                    let rows = '';
+                    (pkg.jackpots || []).forEach(j => {
+                        const jackpotPkgId = `jackpot-${j.bookmaker.replace(/\s+/g, '-').toLowerCase()}`;
+                        const isJkpUnlocked = unlockedPackages.includes(jackpotPkgId);
+                        
+                        rows += `<div class="d-flex justify-content-between align-items-center mt-3 mb-2 p-3 rounded flex-wrap gap-2" style="background: rgba(255,255,255,0.04); border: 1px solid var(--card-border);">
+                                    <span style="font-weight:700; color:#fff; font-size:1.05rem;">${j.bookmaker}</span>
+                                    ${!isJkpUnlocked ? 
+                                      `<button class="btn btn-sm btn-custom" onclick="openPaymentModal('${jackpotPkgId}', '${j.bookmaker}', ${j.amount_kes})" style="white-space: nowrap;">Unlock ${formatLocalPrice(j.amount_kes)}</button>` :
+                                      `<span class="badge bg-success" style="font-size: 0.85rem; padding: 6px 12px; white-space: nowrap;">UNLOCKED</span>`
+                                    }
+                                 </div>
+                                 <div id="slips-${jackpotPkgId}"></div>`;
+                    });
+                    priceHtml = rows;
+                } else {
+                    priceHtml = `<h3 class="card-title my-1" style="color:#fff;">Price: <span class="text-warning font-weight-bold">${formatLocalPrice(pkg.price_kes)}</span></h3>`;
+                    
+                    if (unlockedPackages.includes(pkg.id) && currentCountry === 'ke') {
+                        actionHtml = `<button class="btn btn-success mt-3 w-100 font-weight-bold" style="border-radius:10px; padding:12px;" disabled>✓ Ticket Unlocked</button>`;
+                    } else {
+                        const btnText = (currentCountry === 'ke') ? 'Buy Ticket Now' : 'Get via WhatsApp';
+                        actionHtml = `<button class="btn btn-custom mt-3 w-100" onclick="openPaymentModal('${pkg.id}', '${pkg.title}', ${pkg.price_kes})">${btnText}</button>`;
+                    }
+                }
+
+                container.append(`
+                    <section class="card" data-pkg-id="${pkg.id}">
+                        <div class="card-header" style="background:${accentGrad}; color:#ffffff; font-weight: bold; text-shadow: 0 1px 3px rgba(0,0,0,0.5);">${pkg.title}</div>
+                        <div class="card-body px-3 py-2">
+                            ${pkg.isMostPopular ? '<div class="pkg-badge mt-2">🔥 MOST POPULAR</div>' : ''}
+                            ${priceHtml}
+                            ${!isJackpot ? `<div class="table-responsive"><table class="table" id="table-${pkg.id}"><thead><tr><th>Match</th><th>Tip</th><th>Odds</th></tr></thead><tbody></tbody></table></div>` : ''}
+                            ${actionHtml}
+                        </div>
+                    </section>`);
+            });
+        }
+
+        function renderTips() {
+            renderPackages(appData.packages);
+            
+            Object.keys(appData.tips).forEach(pkgId => {
+                const data = appData.tips[pkgId];
+                
+                if (pkgId.startsWith('jackpot')) {
+                    const container = $(`#slips-${pkgId}`);
+                    if (!container.length) return;
+                    container.empty();
+                    
+                    const isUnlocked = unlockedPackages.includes(pkgId) && currentCountry === 'ke';
+                    
+                    (data.slips || []).forEach(slipStr => {
+                        if (isUnlocked) {
+                            container.append(`
+                                <div class="p-3 mb-2 rounded text-center shadow-sm slip-box" style="background: rgba(0,230,118,0.12); border: 1px solid var(--green); color: var(--green); font-size: 1.15rem;">
+                                    (JP#${slipStr})
+                                </div>
+                            `);
+                        } else {
+                            const randomSlip = Array.from({length: slipStr.length}, () => ['1','X','2'][Math.floor(Math.random()*3)]).join('');
+                            container.append(`
+                                <div class="locked-container p-3 mb-2 rounded shadow-sm w-100 d-flex justify-content-between align-items-center" style="background: rgba(255,255,255,0.03); border: 1px dashed var(--card-border);">
+                                    <span class="blurred-teaser" style="font-size: 1.15rem; letter-spacing: 2px;">
+                                        (JP#${randomSlip})
+                                    </span> 
+                                    <span class="lock-pill">🔒 Locked</span>
+                                </div>
+                            `);
+                        }
+                    });
+                } else {
+                    const $table =$(`#table-${pkgId}`);
+                    if (!$table.length) return;
+                    
+                    const tbody = $table.find('tbody');
+                    tbody.empty();
+                    
+                    const isUnlocked = unlockedPackages.includes(pkgId) && currentCountry === 'ke';
+                    const isDrawPackage = pkgId.toLowerCase().includes('draw');
+                    
+                    data.forEach(item => {
+                        let teamA, teamB, tipDisplay, oddsDisplay;
+
+                        if (isDrawPackage) {
+                            teamA = isUnlocked ? item.teamA : `<div class="locked-container"><span class="blurred-teaser" style="font-size:1rem;">Team Alpha</span> <span class="lock-pill">🔒 Locked</span></div>`;
+                            teamB = isUnlocked ? item.teamB : `<div class="locked-container"><span class="blurred-teaser" style="font-size:1rem;">Team Beta</span></div>`;
+                            tipDisplay = `<span style="color:var(--green); font-weight:bold;">${item.tip}</span>`;
+                            oddsDisplay = `<span class="badge bg-secondary">${item.odds}</span>`;
+                        } else {
+                            teamA = item.teamA;
+                            teamB = item.teamB;
+                            tipDisplay = isUnlocked ? `<span style="color:var(--green); font-weight:bold;">${item.tip}</span>` : `<div class="locked-container"><span class="blurred-teaser" style="font-size:1rem;">1 & Over 2.5</span> <span class="lock-pill">🔒 Locked</span></div>`;
+                            oddsDisplay = isUnlocked ? `<span class="badge bg-secondary">${item.odds}</span>` : '-';
+                        }
+
+                        tbody.append(`<tr><td>${teamA} ${isUnlocked || !isDrawPackage ? 'VS' : ''} ${teamB}</td><td>${tipDisplay}</td><td>${oddsDisplay}</td></tr>`);
+                    });
+                }
+            });
+        }
+
+        window.openPaymentModal = function(pkgId, title, kes) {
+            currentPayingPackageId = pkgId; 
+            expectedKesAmount = kes;
+
+            if (window.history && window.history.pushState) {
+                window.history.pushState({ page: 'modal' }, '');
+            }
+            
+            $('#pay-modal-title').text(title);
+            $('.pay-section').hide();
+            
+            const countryData = (appData.countries || []).find(c => c.code === currentCountry);
+            const localAmountStr = formatLocalPrice(kes);
+            
+            if (currentCountry === 'ke' || (countryData && countryData.type === 'automated')) {
+                $('#pay-modal-amount-ke').text(`KSh ${kes.toLocaleString()}`);
+                $('#mpesa-message-input').val('');
+                $('#mpesa-verification-result').text('');
+                $('#pay-ke').show();
+            } else if (countryData && countryData.methods) {
+                const container = $('#dynamic-manual-pay');
+                container.empty();
+                
+                let methodsHtml = `<h5 class="text-warning text-center mb-3">${countryData.flag} How to Send Money (${countryData.name})</h5>`;
+                
+                countryData.methods.forEach(m => {
+                    methodsHtml += `
+                        <div class="mb-3 p-3 rounded text-start" style="background: rgba(255,255,255,0.04); border: 1px solid var(--card-border);">
+                            <h6 style="color: var(--gold); font-weight: bold; margin-bottom: 10px;">${m.provider}</h6>
+                            <ol class="ps-3 mb-0" style="font-size: 0.92rem; line-height: 1.6; color: #e0e0e0;">`;
+                    
+                    m.steps.forEach(step => {
+                        let formattedStep = step
+                            .replace('{amount}', `<strong class="text-success">${localAmountStr}</strong>`)
+                            .replace('{phone}', `<strong class="text-warning">${m.phone}</strong>`);
+                        methodsHtml += `<li class="mb-1">${formattedStep}</li>`;
+                    });
+                    
+                    methodsHtml += `</ol></div>`;
+                });
+                
+                const waBase = appData.contact_details.whatsapp_url.split('?')[0];
+                const waMsg = encodeURIComponent(`Hello, I have paid ${localAmountStr} for ${title} from ${countryData.name}. Here is my mobile money payment confirmation:`);
+                const waUrl = `${waBase}?text=${waMsg}`;
+                
+                methodsHtml += `
+                    <div class="p-3 rounded text-center mb-3" style="background: rgba(0, 230, 118, 0.12); border: 1px solid var(--green);">
+                        <p class="mb-2" style="font-size:0.9rem;"><strong>After sending payment:</strong> Copy and forward your payment confirmation SMS to WhatsApp to get access instantly.</p>
+                        <a href="${waUrl}" class="btn btn-custom w-100" target="_blank">Forward SMS to WhatsApp</a>
+                    </div>
+                `;
+                
+                container.html(methodsHtml).show();
+            } else {
+                $('#pay-modal-amount-generic').text(localAmountStr);
+                $('#pay-generic').show();
+            }
+            
+            payModal.show();
+        };
+
+        function renderHistory(data) {
+            const container = $('#history-container');
+            container.empty();
+            if (!data || data.length === 0) { container.html('<p class="text-center text-muted">No historical records available.</p>'); return; }
+
+            data.forEach(day => {
+                for (const catName in day.categories) {
+                    const categoryData = day.categories[catName];
+                    const isAdvancedJackpot = categoryData && !Array.isArray(categoryData) && (categoryData.bonus || categoryData.matches);
+                    
+                    if (isAdvancedJackpot) {
+                        const matches = categoryData.matches || [];
+                        const bonus = categoryData.bonus || null;
+                        
+                        let isMega = catName.toLowerCase().includes('mega');
+                        let headerBadge = isMega 
+                            ? `<span class="badge badge-mega px-3 py-1 rounded-pill" style="font-size: 0.9rem;">🏆 ${catName}</span>` 
+                            : `<span class="badge badge-midweek px-3 py-1 rounded-pill" style="font-size: 0.9rem;">⚽ ${catName}</span>`;
+                        
+                        let bonusHtml = '';
+                        if (bonus) {
+                            let tiersHtml = '';
+                            bonus.tiers.forEach(tier => {
+                                tiersHtml += `
+                                    <div class="text-center px-2">
+                                        <div style="font-size: 0.7rem; color: #f3c299; font-weight: bold; white-space: nowrap;">${tier.label}</div>
+                                        <div style="color: #FFD700; font-family: 'Paytone One', sans-serif; font-size: 1.05rem; white-space: nowrap;">KSH. ${tier.amount}</div>
+                                    </div>
+                                `;
+                            });
+
+                            bonusHtml = `
+                                <div class="m-2 p-3 d-flex flex-column align-items-center rounded" style="background: radial-gradient(circle at center, #3e2415 0%, #170d07 100%); border: 1px solid #8b5a2b; box-shadow: inset 0 0 20px rgba(0,0,0,0.6);">
+                                    <div class="d-flex justify-content-center align-items-baseline w-100 mb-2 gap-2 flex-wrap text-center">
+                                        <span style="color:#f59e0b; font-family:'Paytone One', sans-serif; font-size: 1.1rem; letter-spacing: 1px;">${bonus.title_1}</span>
+                                        <span style="color:#fff; font-family:'Paytone One', sans-serif; font-size: 1.1rem; letter-spacing: 1px;">${bonus.title_2}</span>
+                                        <span style="color:#FFD700; font-family:'Paytone One', sans-serif; font-size: 1.1rem; letter-spacing: 1px;">${bonus.title_3}</span>
+                                    </div>
+                                    <div class="d-flex justify-content-around w-100 flex-wrap gap-2 mb-3">
+                                        ${tiersHtml}
+                                    </div>
+                                    <div class="w-100 text-center p-2 rounded" style="background: rgba(0,230,118,0.12); border: 1px solid #00E676;">
+                                        <div style="color:#00E676; font-size: 0.8rem; font-weight:bold; margin-bottom: 4px;">${bonus.combo_label}</div>
+                                        <div style="color:#fff; font-family:monospace; font-size: 1.1rem; letter-spacing: 3px;">${bonus.combo_string}</div>
+                                    </div>
+                                </div>
+                            `;
+                        }
+
+                        let matchHtml = '';
+                        matches.forEach(m => {
+                            matchHtml += `<div class="d-flex justify-content-between p-2 mb-1" style="background: rgba(255,255,255,0.05); border-radius: 5px;">
+                                <span style="font-family:monospace; color:var(--gold);">${m.prediction}</span>
+                                <span style="color:var(--green); font-weight:bold;">${m.result}</span>
+                            </div>`;
+                        });
+
+                        container.append(`
+                            <div class="card mb-3">
+                                <div class="card-header d-flex justify-content-between align-items-center" style="background: rgba(255,255,255,0.05); border-bottom: 1px solid var(--card-border);">
+                                    <span style="color: var(--gold); font-size: 1.05rem;">📅 ${day.date}</span>
+                                    ${headerBadge}
+                                </div>
+                                <div class="card-body p-0">
+                                    ${bonusHtml}
+                                    <div class="p-3">
+                                        <h6 style="color:#A39489; font-size: 0.85rem; text-transform:uppercase;">Winning Slips</h6>
+                                        ${matchHtml}
+                                    </div>
+                                </div>
+                            </div>
+                        `);
+                    } else {
+                        // Standard Matches Output
+                        let totalOdds = 1.0, tableRows = '';
+                        const matches = Array.isArray(categoryData) ? categoryData : [];
+                        
+                        matches.forEach(m => {
+                            const isWon = m.result === 'WON';
+                            const badgeBg = isWon ? 'rgba(0,230,118,0.2)' : 'rgba(255,82,82,0.2)';
+                            const badgeColor = isWon ? 'var(--green)' : 'var(--red)';
+                            if (m.odds && !isNaN(m.odds)) totalOdds *= parseFloat(m.odds);
+
+                            tableRows += `<tr>
+                                <td>${flagFor(m.country)} ${m.teamA} VS ${m.teamB}</td>
+                                <td><strong>${m.prediction}</strong> (${m.score})</td>
+                                <td><span class="badge bg-dark">${m.odds}</span></td>
+                                <td><span class="badge" style="background:${badgeBg}; color:${badgeColor}; border: 1px solid ${badgeColor};">${m.result}</span></td>
+                            </tr>`;
+                        });
+
+                        container.append(`
+                            <div class="card mb-3">
+                                <div class="card-header text-start" style="background: rgba(255,255,255,0.05); color: var(--gold); border-bottom: 1px solid var(--card-border);">
+                                    📅 ${day.date} — ${catName}
+                                </div>
+                                <div class="card-body p-0">
+                                    <div class="table-responsive m-0"><table class="table mb-0"><thead><tr><th>Match</th><th>Tip (Score)</th><th>Odds</th><th>Status</th></tr></thead><tbody>${tableRows}</tbody></table></div>
+                                    <div class="p-3 text-end" style="color:var(--gold); font-weight:bold;">Accumulated Odds: ${totalOdds.toFixed(2)}</div>
+                                </div>
+                            </div>`);
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>
