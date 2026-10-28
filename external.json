@@ -213,18 +213,18 @@
       { "teamA": "Durban City Fc", "teamB": "Stellenbosch Fc", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "Esbjerg Fb", "teamB": "Fc Nordsjaelland", "tip": "OVER 2.5", "odds": "1.60" }, 
+      { "teamA": "Forest Green", "teamB": "Eastleigh", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds3": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.55" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 1.5", "odds": "1.25" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.65" } ],
+    [ { "teamA": "Wacker Innsbruck", "teamB": "Wsg Tirol", "tip": "OVER 1.5", "odds": "1.40" }, 
+      { "teamA": "Genoa", "teamB": "Juventus", "tip": "2", "odds": "1.90" }, 
+      { "teamA": "Paderborn", "teamB": "Stuttgart", "tip": "OVER 2.5", "odds": "1.58" } ],
     
     "odds4": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 1.5", "odds": "1.35" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "over 2.5", "odds": "1.75" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.60" } ],
+    [ { "teamA": "Fk Vardar Skopje", "teamB": "Gfk Tikvesh 1930", "tip": "OVER 2.5", "odds": "1.80" }, 
+      { "teamA": "Man City", "teamB": "Brighton", "tip": "over 2.5", "odds": "1.55" }, 
+      { "teamA": "Pec Zwolle", "teamB": "Top Oss", "tip": "OVER 2.5", "odds": "1.60" } ],
     
     "odds5": 
     [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.55" }, 
