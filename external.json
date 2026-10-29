@@ -182,7 +182,7 @@
     { "id": "odds4", "title": "Platinum Plan", "type": "flat", "price_kes": 350 },
     { "id": "odds5", "title": "VIP PLAN", "type": "flat", "price_kes": 450 },
     { "id": "odds6", "title": "VVIP PLAN", "type": "flat", "price_kes": 550, "isMostPopular": true },
-    { "id": "Longbet", "title": "LONGBET", "type": "flat", "price_kes": 1000, "10+ Games": true },
+    { "id": "Longbet", "title": "LONGBET 10+ GAMES", "type": "flat", "price_kes": 1000, "10+ Games": true },
     { 
       "id": "jackpot", 
       "title": "SportPesa Jackpot (13/13)", 
@@ -239,10 +239,7 @@
       { "teamA": "Al-nassr Fc", "teamB": "Al-kholood", "tip": "OVER 2.5", "odds": "1.55" } ],
 
       "Longbet": 
-    [ { "teamA": "Shabana Fc", "teamB": "Migori Youth Fc", "tip": "DRAW", "odds": "3.50" }, 
-      { "teamA": "Everton", "teamB": "Newcastle", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "Fc Baltika Kaliningrad", "teamB": "Zenit Saint Petersburg", "tip": "2", "odds": "2.10" }, 
-      { "teamA": "Kalmar Ff", "teamB": "Gais", "tip": "OVER 1.5", "odds": "1.30" }, 
+    [ { "teamA": "Shabana Fc", "teamB": "Migori Youth Fc", "tip": "DRAW", "odds": "3.50" },  
       { "teamA": "Al-nassr Fc", "teamB": "Al-kholood", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
