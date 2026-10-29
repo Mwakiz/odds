@@ -227,9 +227,9 @@
       { "teamA": "Cs Gloria Bistrita", "teamB": "Fotbal Club Fcsb", "tip": "2", "odds": "1.45" } ],
     
     "odds5": 
-    [ { "teamA": "Hearts", "teamB": "Glasgow Rangers", "tip": "GG", "odds": "1.65" }, 
-      { "teamA": "Wacker Innsbruck", "teamB": "Wsg Tirol", "tip": "OVER 2.5", "odds": "1.95" },
-      { "teamA": "Man City", "teamB": "Brighton", "tip": "OVER 2.5", "odds": "1.75" } ],
+    [ { "teamA": "Olympia Yerevan", "teamB": "Fc Ararat Armenia", "tip": "2", "odds": "1.50" }, 
+      { "teamA": "Future Fc", "teamB": "Al Ahly Sc", "tip": "2", "odds": "1.51" },
+      { "teamA": "Kuopion Palloseura", "teamB": "If Gnistan", "tip": "1", "odds": "1.15" } ],
     
     "vip1000": 
     [ { "teamA": "Liverpool", "teamB": "Chelsea", "tip": "1", "odds": "2.50" }, 
