@@ -205,7 +205,7 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "Zamalek Sc", "teamB": "Al Mokawloon", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "Shabana Fc", "teamB": "Migori Youth Fc", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
     [ { "teamA": "Ferroviario De Lichinga", "teamB": "Black Bulls Fc", "tip": "Draw", "odds": "3.10" }, 
@@ -229,14 +229,14 @@
     "odds5": 
     [ { "teamA": "Olympia Yerevan", "teamB": "Fc Ararat Armenia", "tip": "2", "odds": "1.50" }, 
       { "teamA": "Future Fc", "teamB": "Al Ahly Sc", "tip": "2", "odds": "1.51" },
-      { "teamA": "Kuopion Palloseura", "teamB": "If Gnistan", "tip": "1", "odds": "1.15" } ],
+      { "teamA": "Kuopion Palloseura", "teamB": "If Gnistan", "tip": "1", "odds": "1.50" } ],
     
     "vip1000": 
-    [ { "teamA": "Liverpool", "teamB": "Chelsea", "tip": "1", "odds": "2.50" }, 
-      { "teamA": "Genoa", "teamB": "Juventus", "tip": "2", "odds": "2.10" }, 
-      { "teamA": "Forest Green", "teamB": "Eastleigh", "tip": "OVER 2.5", "odds": "1.60" }, 
-      { "teamA": "Esbjerg Fb", "teamB": "Nordsjaelland", "tip": "OVER 2.5", "odds": "1.60" }, 
-      { "teamA": "Pec Zwolle", "teamB": "Top Oss", "tip": "OVER 2.5", "odds": "1.65" } ],
+    [ { "teamA": "Shabana Fc", "teamB": "Migori Youth Fc", "tip": "DRAW", "odds": "3.50" }, 
+      { "teamA": "Everton", "teamB": "Newcastle", "tip": "OVER 2.5", "odds": "1.80" }, 
+      { "teamA": "Fc Baltika Kaliningrad", "teamB": "Zenit Saint Petersburg", "tip": "2", "odds": "2.10" }, 
+      { "teamA": "Kalmar Ff", "teamB": "Gais", "tip": "OVER 1.5", "odds": "1.30" }, 
+      { "teamA": "Al-nassr Fc", "teamB": "Al-kholood", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1"] },
