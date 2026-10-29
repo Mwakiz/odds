@@ -213,18 +213,18 @@
       { "teamA": "Durban City Fc", "teamB": "Stellenbosch Fc", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": "FC Porto", "teamB": "Academico Viseu", "tip": "OVER 2.5", "odds": "1.70" }, 
-      { "teamA": "Forest Green", "teamB": "Eastleigh", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "Aarhus Fremad", "teamB": "Copenhagen", "tip": "OVER 2.5", "odds": "1.70" }, 
+      { "teamA": "De Treffers Groesbeek", "teamB": "Heracles Almelo", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds3": 
-    [ { "teamA": "Wacker Innsbruck", "teamB": "Wsg Tirol", "tip": "OVER 1.5", "odds": "1.40" }, 
-      { "teamA": "Genoa", "teamB": "Juventus", "tip": "2", "odds": "1.90" }, 
-      { "teamA": "Paderborn", "teamB": "Stuttgart", "tip": "OVER 2.5", "odds": "1.58" } ],
+    [ { "teamA": "Everton", "teamB": "Newcastle", "tip": "OVER 2.5", "odds": "1.85" }, 
+      { "teamA": "Pyramids Fc", "teamB": "Wadi Degla Sc", "tip": "1", "odds": "1.50" }, 
+      { "teamA": "Acf Fiorentina", "teamB": "Atalanta Bc", "tip": "OVER 2.5", "odds": "1.68" } ],
     
     "odds4": 
-    [ { "teamA": "Fk Vardar Skopje", "teamB": "Gfk Tikvesh 1930", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "Man City", "teamB": "Brighton", "tip": "over 2.5", "odds": "1.55" }, 
-      { "teamA": "Pec Zwolle", "teamB": "Top Oss", "tip": "OVER 2.5", "odds": "1.60" } ],
+    [ { "teamA": "Sc Austria Lustenau", "teamB": "Sk Sturm Graz", "tip": "2", "odds": "1.50" }, 
+      { "teamA": "Everton", "teamB": "Newcastle", "tip": "GG", "odds": "1.75" }, 
+      { "teamA": "Cs Gloria Bistrita", "teamB": "Fotbal Club Fcsb", "tip": "2", "odds": "1.45" } ],
     
     "odds5": 
     [ { "teamA": "Hearts", "teamB": "Glasgow Rangers", "tip": "GG", "odds": "1.65" }, 
