@@ -255,10 +255,10 @@
       "date": "Yesterday",
       "categories": {
 
-         "1 Draw": [ { "country": "spain", "teamA": "Larne", "teamB": "Limavady", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" } ],
+         "1 Draw": [ { "country": "spain", "teamA": "Parma", "teamB": "Udinese", "prediction": "Draw", "score": "0-0", "odds": "3.50", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": "Palayesh Naft Bandar Abbas Fc", "teamB": "Mes Rafsanjan Fc", "prediction": "Draw", "score": "0-0", "odds": "3.50", "result": "WON" },
-            { "country": "france", "teamA": "Altamura", "teamB": "Gubbio", "prediction": "Draw", "score": "0-0", "odds": "3.10", "result": "WON" }
+            { "country": "italy", "teamA": "Catolica", "teamB": "Audax", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" },
+            { "country": "france", "teamA": "Manchester City", "teamB": "Brighton", "prediction": "Draw", "score": "2-2", "odds": "3.10", "result": "WON" }
         ],
         
         "Silver Plan": [ 
