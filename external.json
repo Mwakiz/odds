@@ -239,16 +239,16 @@
       { "teamA": "Al-nassr Fc", "teamB": "Al-kholood", "tip": "OVER 2.5", "odds": "1.55" } ],
 
       "Longbet": 
-    [ { "teamA": "Al-nassr Fc", "teamB": "Al-kholood", "tip": "OVER 2.5", "odds": "1.55" },  
-       { "teamA": "Baltika Kaliningrad", "teamB": "Zenit", "tip": "2", "odds": "1.95" }, 
+    [ { "teamA": "Al-nassr", "teamB": "Al-kholood", "tip": "OVER 2.5", "odds": "1.55" },  
+       { "teamA": "Baltika", "teamB": "Zenit", "tip": "2", "odds": "1.95" }, 
        { "teamA": "Everton", "teamB": "Newcastle", "tip": "OVER 2.5", "odds": "1.85" }, 
-       { "teamA": "Shabana Fc", "teamB": "Migori Youth Fc", "tip": "DRAW", "odds": "3.30" }, 
-       { "teamA": "De Treffers Groesbeek", "teamB": "Heracles Almelo", "tip": "OVER 2.5", "odds": "1.50" }, 
-       { "teamA": "Kuopion Palloseura", "teamB": "If Gnistan", "tip": "OVER 2.5", "odds": "1.60" }, 
-       { "teamA": "Aarhus Fremad", "teamB": "Fc Copenhagen", "tip": "OVER 2.5", "odds": "1.50" }, 
-       { "teamA": "Acf Fiorentina", "teamB": " Atalanta Bc", "tip": "OVER 2.5", "odds": "1.60" }, 
-       { "teamA": "Pyramids Fc", "teamB": "Wadi Degla Sc", "tip": "1", "odds": "1.50" }, 
-       { "teamA": "Kalmar Ff", "teamB": "Gais", "tip": "OVER 1.5", "odds": "1.30" } ],
+       { "teamA": "Shabana", "teamB": "Migori Youth", "tip": "DRAW", "odds": "3.30" }, 
+       { "teamA": "De Treffers Groesbeek", "teamB": "Almelo", "tip": "OVER 2.5", "odds": "1.50" }, 
+       { "teamA": "Kuopion", "teamB": "If Gnistan", "tip": "OVER 2.5", "odds": "1.60" }, 
+       { "teamA": "Aarhus", "teamB": "Copenhagen", "tip": "OVER 2.5", "odds": "1.50" }, 
+       { "teamA": "Fiorentina", "teamB": "Atalanta", "tip": "OVER 2.5", "odds": "1.60" }, 
+       { "teamA": "Pyramids", "teamB": "Wadi Degla", "tip": "1", "odds": "1.50" }, 
+       { "teamA": "Kalmar", "teamB": "Gais", "tip": "OVER 1.5", "odds": "1.30" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1"] },
