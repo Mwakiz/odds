@@ -231,11 +231,11 @@
       { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.75" } ],
     
     "vip1000": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.75" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "2.50" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.65" } ],
+    [ { "teamA": "Aso Chlef", "teamB": "Es Setif", "tip": "DRAW", "odds": "3.15" }, 
+      { "teamA": "Sheffield Utd", "teamB": "Wrexham", "tip": "OVER 2.5", "odds": "2.10" }, 
+      { "teamA": "Aalborg Bk", "teamB": "Hobro Ik", "tip": "OVER 2.5", "odds": "1.80" }, 
+      { "teamA": "Bielefeld", "teamB": "Braunschweig", "tip": "GG", "odds": "1.70" }, 
+      { "teamA": "Elversberg", "teamB": "Mainz", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["MJP# 1,X,2,1,X,2,X,1,1,X,2,X,1,2,1,2,1"] },
