@@ -212,13 +212,13 @@
       { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "Aalborg Bk", "teamB": "Hobro Ik", "tip": "OVER 2.5", "odds": "1.80" }, 
+      { "teamA": "Elversberg", "teamB": "Mainz", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds3": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.55" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 1.5", "odds": "1.25" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.65" } ],
+    [ { "teamA": "Sheffield Utd", "teamB": "Wrexham", "tip": "GG", "odds": "1.80" }, 
+      { "teamA": "Konyaspor", "teamB": "Galatasaray", "tip": "OVER 2.5", "odds": "1.70" }, 
+      { "teamA": "Bielefeld", "teamB": "Braunschweig", "tip": "OVER 1.5", "odds": "1.35" } ],
     
     "odds4": 
     [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 1.5", "odds": "1.35" }, 
