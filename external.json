@@ -227,9 +227,9 @@
     
     "odds5": 
     [ { "teamA": "Lille", "teamB": "Lens", "tip": "OVER 1.5", "odds": "1.35" }, 
-      { "teamA": "Neuchatel Xamax", "teamB": "Aarau", "tip": "OVER 2.5", "odds": "1.55" },
+      { "teamA": "Xamax", "teamB": "Aarau", "tip": "OVER 2.5", "odds": "1.55" },
        { "teamA": "Nice", "teamB": "Rennes", "tip": "2", "odds": "2.95" },
-      { "teamA": "Gorna Oryahovitsa", "teamB": "Pfk Beroe Stara Zagora", "tip": "OVER 1.5", "odds": "1.45" } ],
+      { "teamA": "Gorna", "teamB": "Beroe Zagora", "tip": "OVER 1.5", "odds": "1.45" } ],
     
     "vip1000": 
     [ { "teamA": "Aso Chlef", "teamB": "Es Setif", "tip": "DRAW", "odds": "3.15" }, 
