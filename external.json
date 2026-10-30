@@ -205,7 +205,7 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "Malavan Bandar Anzali", "teamB": "Chadormalu Ardakan Sc", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
     [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.10" }, 
@@ -221,9 +221,9 @@
       { "teamA": "Bielefeld", "teamB": "Braunschweig", "tip": "OVER 1.5", "odds": "1.35" } ],
     
     "odds4": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 1.5", "odds": "1.35" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "over 2.5", "odds": "1.75" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.60" } ],
+    [ { "teamA": "Bielefeld", "teamB": "Braunschweig", "tip": "GG", "odds": "1.35" }, 
+      { "teamA": "Bodoe/glimt", "teamB": " Viking Fk", "tip": "GG", "odds": "1.50" }, 
+      { "teamA": "Sheffield Utd", "teamB": "Wrexham", "tip": "OVER 2.5", "odds": "2.10" } ],
     
     "odds5": 
     [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.55" }, 
