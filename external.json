@@ -208,8 +208,8 @@
     "draw1": [ { "teamA": "Malavan Bandar Anzali", "teamB": "Chadormalu Ardakan Sc", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": "El Sekka El Hadid", "teamB": "Tanta Fc", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "Rayo Vallecano", "teamB": "Celta Vigo", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
     [ { "teamA": "Aalborg Bk", "teamB": "Hobro Ik", "tip": "OVER 2.5", "odds": "1.80" }, 
