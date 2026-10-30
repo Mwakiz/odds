@@ -167,7 +167,7 @@
     "time": "Today 8:00 EAT",
     "teamA": "COMING UP....",
     "teamB": "COMING UP....",
-    "pick": "Pick: ??",
+    "pick": "Pick: XXX",
     "confidence": "98"
   
 
@@ -206,11 +206,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "Shabana Fc", "teamB": "Migori Youth Fc", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "Caps", "teamB": "Scottland", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "Shabana Fc", "teamB": "Migori Youth Fc", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.70" }, 
