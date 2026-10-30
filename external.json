@@ -226,9 +226,9 @@
       { "teamA": "Sheffield Utd", "teamB": "Wrexham", "tip": "OVER 2.5", "odds": "2.10" } ],
     
     "odds5": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.55" }, 
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.95" },
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.75" } ],
+    [ { "teamA": "Lille", "teamB": "Lens", "tip": "OVER 1.5", "odds": "1.35" }, 
+      { "teamA": "Nice", "teamB": "Rennes", "tip": "2", "odds": "2.95" },
+      { "teamA": "Gorna Oryahovitsa", "teamB": "Pfk Beroe Stara Zagora", "tip": "OVER 1.5", "odds": "1.45" } ],
     
     "vip1000": 
     [ { "teamA": "Aso Chlef", "teamB": "Es Setif", "tip": "DRAW", "odds": "3.15" }, 
