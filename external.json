@@ -177,11 +177,11 @@
     { "id": "draw1", "title": "1 Draw Package", "type": "flat", "price_kes": 200 },
     { "id": "draw2", "title": "2 Draws Package", "type": "flat", "price_kes": 400 },
     
-    { "id": "odds2", "title": "Silver Plan", "type": "flat", "price_kes": 100 },
-    { "id": "odds3", "title": "Gold Plan", "type": "flat", "price_kes": 150 },
-    { "id": "odds4", "title": "Platinum Plan", "type": "flat", "price_kes": 200 },
-    { "id": "odds5", "title": "LONGBET PLAN", "type": "flat", "price_kes": 350 },
-    { "id": "vip1000", "title": "VVIP PLAN", "type": "flat", "price_kes": 450, "isMostPopular": true },
+    { "id": "odds2", "title": "Silver Plan", "type": "flat", "price_kes": 155 },
+    { "id": "odds3", "title": "Gold Plan", "type": "flat", "price_kes": 255 },
+    { "id": "odds4", "title": "Platinum Plan", "type": "flat", "price_kes": 355 },
+    { "id": "odds5", "title": "LONGBET PLAN", "type": "flat", "price_kes": 455 },
+    { "id": "vip1000", "title": "VVIP PLAN", "type": "flat", "price_kes": 655, "isMostPopular": true },
     { 
       "id": "jackpot", 
       "title": "SportPesa Jackpot (13/13)", 
