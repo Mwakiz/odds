@@ -262,7 +262,7 @@
         
         "Silver Plan": [ 
           { "country": "england", "teamA": "Aarhus Fremad", "teamB": "Copenhagen", "prediction": "OVER 2.5", "score": "0-3", "odds": "1.60", "result": "WON" },
-          { "country": "germany", "teamA": "De Treffers Groesbeek", "teamB": "Heracles Almelo", "prediction": "2", "score": "1-0", "odds": "6.70", "result": "WON" }
+          { "country": "germany", "teamA": "De Treffers Groesbeek", "teamB": "Heracles Almelo", "prediction": "1", "score": "1-0", "odds": "6.70", "result": "WON" }
         ],
         
 
