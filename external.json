@@ -205,15 +205,15 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "COMING UP..", "teamB": "COMING UP..", "tip": "Draw", "odds": "3.20" } ],
+    "draw1": [ { "teamA": "Mes Shahr-e Babak", "teamB": "Paykan Fc", "tip": "Draw", "odds": "3.20" } ],
     
     "draw2": 
-    [ { "teamA": "COMING UP..", "teamB": "COMING UP..", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "COMING UP..", "teamB": "COMING UP..", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": "Waf Widad", "teamB": "Chabab Ben Guerir", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "Abo Qair Semads", "teamB": "Ghazl El Mahallah", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": "COMING UP..", "teamB": "COMING UP..", "tip": "OVER 2.5", "odds": "1.80" }, 
-      { "teamA": "COMING UP..", "teamB": "COMING UP..", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "Waf Widad", "teamB": "Chabab Ben Guerir", "tip": "DRAW", "odds": "3.10" }, 
+      { "teamA": "Stockport", "teamB": "Wimbledon", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "odds3": 
     [ { "teamA": "COMING UP..", "teamB": "COMING UP..", "tip": "GG", "odds": "1.80" }, 
