@@ -212,7 +212,7 @@
       { "teamA": "Ario Eslamshahr", "teamB": "Fc Fard Alborz", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": "Newcastle", "teamB": "Everton", "tip": "1", "odds": "2.89" }, 
+    [ { "teamA": "Genclerbirligi", "teamB": "Alanyaspor", "tip": "GG", "odds": "1.89" }, 
       { "teamA": "Kayserispor", "teamB": "Muglaspor", "tip": "OVER 2.5", "odds": "1.75" } ],
     
     "odds3": 
@@ -237,7 +237,7 @@
       { "teamA": "Vardar Skopje", "teamB": "Struga Trim Lum", "tip": "1", "odds": "2.35" }, 
       { "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "tip": "2", "odds": "1.50" }, 
       { "teamA": "Cs Barracas", "teamB": "Leones De Rosario Fc", "tip": "DRAW", "odds": "3.15" }, 
-      { "teamA": "Newcastle", "teamB": "Everton", "tip": "1", "odds": "2.35" } ],
+      { "teamA": "Newcastle", "teamB": "Everton", "tip": "GG", "odds": "1.65" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# X1X211XX1"] },
