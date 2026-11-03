@@ -205,39 +205,39 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "Besat Kermanshah", "teamB": "Saipa Fc", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": "Tusker", "teamB": "Mara Sugar Fc", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "Ario Eslamshahr", "teamB": "Fc Fard Alborz", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": "Genclerbirligi", "teamB": "Alanyaspor", "tip": "GG", "odds": "1.89" }, 
-      { "teamA": "Kayserispor", "teamB": "Muglaspor", "tip": "OVER 2.5", "odds": "1.75" } ],
+    [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "GG", "odds": "1.89" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "OVER 2.5", "odds": "1.75" } ],
     
     "odds3": 
-    [ { "teamA": "Sonderjyske", "teamB": "Copenhagen", "tip": "OVER 2.5", "odds": "1.65" }, 
-      { "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "tip": "2", "odds": "1.55" },
-      { "teamA": "Genclerbirligi", "teamB": "Alanyaspor", "tip": "OVER 1.5", "odds": "1.75" } ],
+    [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "OVER 2.5", "odds": "1.65" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "2", "odds": "1.55" },
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "OVER 1.5", "odds": "1.75" } ],
     
     "odds4": 
-    [ { "teamA": "Sonderjyske", "teamB": "Copenhagen", "tip": "2", "odds": "1.55" }, 
-       { "teamA": "Atalanta Bc", "teamB": "Parma", "tip": "OVER 2.5", "odds": "1.65" },
-      { "teamA": "Krylia Sovetov Samara", "teamB": "Zenit Saint Petersburg", "tip": "2", "odds": "1.65" } ],
+    [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "2", "odds": "1.55" }, 
+       { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "OVER 2.5", "odds": "1.65" },
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "2", "odds": "1.65" } ],
     
     "odds5": 
-    [ { "teamA": "Vardar Skopje", "teamB": "Struga Trim Lum", "tip": "1", "odds": "2.30" }, 
-      { "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "tip": "OVER 2.5", "odds": "1.65" },
-      { "teamA": "Landskrona", "teamB": "Orebro", "tip": "1", "odds": "1.75" },
-      { "teamA": "Trabzonspor", "teamB": "Besiktas", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "1", "odds": "2.30" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "OVER 2.5", "odds": "1.65" },
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "1", "odds": "1.75" },
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "OVER 2.5", "odds": "1.55" } ],
     
     "vip1000": 
-    [ { "teamA": "Kayserispor", "teamB": "Muglaspor", "tip": "OVER 2.5", "odds": "1.75" }, 
-      { "teamA": "Atalanta", "teamB": "Parma", "tip": "OVER 2.5", "odds": "1.75" }, 
-      { "teamA": "Vardar Skopje", "teamB": "Struga Trim Lum", "tip": "1", "odds": "2.35" }, 
-      { "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "tip": "2", "odds": "1.50" }, 
-      { "teamA": "Cs Barracas", "teamB": "Leones De Rosario Fc", "tip": "DRAW", "odds": "3.15" }, 
-      { "teamA": "Newcastle", "teamB": "Everton", "tip": "GG", "odds": "1.65" } ],
+    [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "OVER 2.5", "odds": "1.75" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "OVER 2.5", "odds": "1.75" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "1", "odds": "2.35" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "2", "odds": "1.50" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "DRAW", "odds": "3.15" }, 
+      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "GG", "odds": "1.65" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# X1X211XX1"] },
