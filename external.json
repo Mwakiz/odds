@@ -256,42 +256,43 @@
       "date": "Yesterday",
       "categories": {
 
-         "1 Draw": [ { "country": "spain", "teamA": "Nairobi United Fc", "teamB": "Bandari", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" } ],
+         "1 Draw": [ { "country": "spain", "teamA": "Besat Kermanshah", "teamB": "Saipa Fc", "prediction": "Draw", "score": "0-0", "odds": "3.50", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": "Burgos", "teamB": "Castellon", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" },
-            { "country": "france", "teamA": "Mutondo Stars", "teamB": "Roan United", "prediction": "Draw", "score": "1-1", "odds": "3.10", "result": "WON" }
+            { "country": "italy", "teamA": "Tenerife", "teamB": "Andorra", "prediction": "Draw", "score": "2-2", "odds": "3.50", "result": "WON" },
+            { "country": "france", "teamA": "Kalamata", "teamB": "Iraklis", "prediction": "Draw", "score": "1-1", "odds": "3.10", "result": "WON" }
         ],
         
         "Silver Plan": [ 
-          { "country": "england", "teamA": "Liverpool", "teamB": "Arsenal", "prediction": "2", "score": "0-1", "odds": "2.90", "result": "WON" },
-          { "country": "germany", "teamA": "Trabzonspor", "teamB": "Gaziantep", "prediction": "1", "score": "2-0", "odds": "1.50", "result": "WON" }
+          { "country": "england", "teamA": "Genclerbirligi", "teamB": "Alanyaspor", "prediction": "OVER 2.5", "score": "5-0", "odds": "2.20", "result": "WON" },
+          { "country": "germany", "teamA": "Kayserispor", "teamB": "Muglaspor", "prediction": "OVER 2.5", "score": "6-0", "odds": "2.50", "result": "WON" }
         ],
         
 
         "Gold Plan": [ 
-            { "country": "spain", "teamA": "Amed Sportif Faaliyetler", "teamB": "Eyupspor", "prediction": "OVER 2.5", "score": "5-1", "odds": "1.95", "result": "WON" },
-            { "country": "spain", "teamA": "Fc Dinamo Minsk", "teamB": "Fc Neman Grodno", "prediction": "2", "score": "0-1", "odds": "6.70", "result": "WON" }
+            { "country": "spain", "teamA": "Sonderjyske", "teamB": "Copenhagen", "prediction": "2", "score": "0-2", "odds": "1.55", "result": "WON" },
+            { "country": "italy", "teamA": "Genclerbirligi", "teamB": "Alanyaspor", "prediction": "OVER 3.5", "score": "5-0", "odds": "3.55", "result": "WON" },
+            { "country": "spain", "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "prediction": "2", "score": "2-6", "odds": "1.60", "result": "WON" }
         ],
         
         
         "Platinum Plan": [ 
-            { "country": "spain", "teamA": "Lazio", "teamB": "Cagliari", "prediction": "1", "score": "2-1", "odds": "1.60", "result": "WON" },
-            { "country": "italy", "teamA": "Malmo Ff", "teamB": "Hammarby If", "prediction": "OVER 2.5", "score": "1-2", "odds": "1.65", "result": "WON" },
-            { "country": "italy", "teamA": "Falkirk Fc", "teamB": "Celtic", "prediction": "OVER 2.5", "score": "2-0", "odds": "7.70", "result": "WON" }
+            { "country": "spain", "teamA": "Atalanta Bc", "teamB": "Parma", "prediction": "OVER 2.5", "score": "0-3", "odds": "1.80", "result": "WON" },
+            { "country": "france", "teamA": "Krylia Sovetov Samara", "teamB": "Zenit", "prediction": "2", "score": "0-3", "odds": "1.80", "result": "WON" },
+            { "country": "italy", "teamA": "Sassuolo", "teamB": "Fiorentina", "prediction": "OVER 2.5", "score": "2-4", "odds": "1.70", "result": "WON" }
         ],
         
         "LONGBET PLAN": [ 
-           { "country": "france", "teamA": "Kasimpasa Istanbul", "teamB": "Besiktas", "prediction": "OVER 2.5", "score": "2-2", "odds": "1.75", "result": "WON" },
-           { "country": "france", "teamA": "Excelsior Rotterdam", "teamB": "Twente", "prediction": "OVER 3.5", "score": "0-9", "odds": "2.30", "result": "WON" },
-           { "country": "spain", "teamA": "Vendsyssel Ff", "teamB": "Vejle Bk", "prediction": "GG", "score": "1-1", "odds": "1.55", "result": "WON" }
+           { "country": "france", "teamA": "Vardar Skopje", "teamB": "Struga Trim Lum", "prediction": "2", "score": "0-1", "odds": "3.75", "result": "WON" },
+           { "country": "france", "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "prediction": "OVER 3.5", "score": "2-6", "odds": "2.30", "result": "WON" },
+           { "country": "spain", "teamA": "Landskrona", "teamB": "Orebro", "prediction": "GG", "score": "2-1", "odds": "1.95", "result": "WON" }
         ],
         
         "VIP Tips": [ 
-            { "country": "italy", "teamA": "Fc Lugano", "teamB": "Fc Basel 1893", "prediction": "OVER 2.5", "score": "2-1", "odds": "1.50", "result": "WON" },
-            { "country": "italy", "teamA": "Liverpool", "teamB": "Arsenal", "prediction": "2", "score": "0-1", "odds": "2.85", "result": "WON" },
-            { "country": "italy", "teamA": "Kasimpasa Istanbul", "teamB": "Besiktas", "prediction": "GG", "score": "2-2", "odds": "1.55", "result": "WON" },
-            { "country": "germany", "teamA": "Falkirk Fc", "teamB": "Celtic", "prediction": "OVER 1.5", "score": "2-0", "odds": "1.40", "result": "WON" },
-           { "country": "germany", "teamA": "Fc Dinamo Minsk", "teamB": "Fc Neman Grodno", "prediction": "2", "score": "0-1", "odds": "7.65", "result": "WON" }
+            { "country": "italy", "teamA": "Kayserispor", "teamB": "Muglaspor", "prediction": "OVER 3.5", "score": "6-0", "odds": "3.50", "result": "WON" },
+            { "country": "italy", "teamA": "Atalanta", "teamB": "Parma", "prediction": "OVER 2.5", "score": "0-3", "odds": "1.85", "result": "WON" },
+            { "country": "italy", "teamA": "Cs Barracas", "teamB": "Leones De Rosario Fc", "prediction": "1", "score": "4-1", "odds": "2.55", "result": "WON" },
+            { "country": "germany", "teamA": "Newcastle", "teamB": "Everton", "prediction": "2", "score": "0-1", "odds": "4.40", "result": "WON" },
+           { "country": "germany", "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "prediction": "GG", "score": "2-6", "odds": "1.65", "result": "WON" }
         ]
       }
     },
