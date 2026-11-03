@@ -180,7 +180,7 @@
     { "id": "odds2", "title": "Silver Plan", "type": "flat", "price_kes": 155 },
     { "id": "odds3", "title": "Gold Plan", "type": "flat", "price_kes": 255 },
     { "id": "odds4", "title": "Platinum Plan", "type": "flat", "price_kes": 355 },
-    { "id": "odds5", "title": "LONGBET PLAN", "type": "flat", "price_kes": 455 },
+    { "id": "odds5", "title": "VIP Plan", "type": "flat", "price_kes": 455 },
     { "id": "vip1000", "title": "VVIP PLAN", "type": "flat", "price_kes": 655, "isMostPopular": true },
     { 
       "id": "jackpot", 
@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": "Baia De Pemba Fc", "teamB": "Ferroviario De Maputo", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "Draw", "odds": "3.10" }, 
-      { "teamA": "COMING UP ....", "teamB": "COMING UP ....", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": "Damac Fc", "teamB": "Al-okhdood Club", "tip": "Draw", "odds": "3.10" }, 
+      { "teamA": "West Brom", "teamB": "Southampton", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
     [ { "teamA": "Bodoe/glimt", "teamB": "Lille", "tip": "OVER 2.5", "odds": "1.60" }, 
