@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "Baia De Pemba Fc", "teamB": "Ferroviario De Maputo", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": "Zanaco Fc", "teamB": "Muza", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": "Jezero", "teamB": "Decic", "tip": "Draw", "odds": "3.20" }, 
-      { "teamA": "West Brom", "teamB": "Southampton", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": "Primeiro De Agosto", "teamB": "Wiliete Sc", "tip": "Draw", "odds": "3.20" }, 
+      { "teamA": "Red Arrows", "teamB": "Nkwazi", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
     [ { "teamA": "Lens", "teamB": "Como", "tip": "OVER 2.5", "odds": "1.70" }, 
