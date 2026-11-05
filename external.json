@@ -205,38 +205,38 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "Zanaco Fc", "teamB": "Muza", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": "Primeiro De Agosto", "teamB": "Wiliete Sc", "tip": "Draw", "odds": "3.20" }, 
-      { "teamA": "Red Arrows", "teamB": "Nkwazi", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": "Lens", "teamB": "Como", "tip": "OVER 2.5", "odds": "1.70" }, 
-      { "teamA": "Slavia Prague", "teamB": "Arsenal", "tip": "OVER 2.5", "odds": "1.80" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.70" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.80" } ],
     
     "odds3": 
-    [ { "teamA": "Leipzig", "teamB": "Man City", "tip": "2", "odds": "1.70" }, 
-      { "teamA": "Fc Porto", "teamB": "Napoli", "tip": "OVER 1.5", "odds": "1.30" },
-      { "teamA": "Fenerbahce", "teamB": "Liverpool", "tip": "2", "odds": "1.55" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.70" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 1.5", "odds": "1.30" },
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.55" } ],
     
     "odds4": 
-    [ { "teamA": "Psv", "teamB": "Club Brugge", "tip": "OVER 2.5", "odds": "1.50" }, 
-       { "teamA": "Viking", "teamB": "Sabah Masazir", "tip": "1", "odds": "1.50" },
-      { "teamA": "Slavia Prague", "teamB": "Arsenal", "tip": "First Half - Ov1.5", "odds": "2.55" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.50" }, 
+       { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.50" },
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "First Half - Ov1.5", "odds": "2.55" } ],
     
     "odds5": 
-    [ { "teamA": "Cardiff", "teamB": "West Ham", "tip": "2", "odds": "2.50" }, 
-      { "teamA": "Fenerbahce", "teamB": "Liverpool", "tip": "2", "odds": "1.65" },
-      { "teamA": "Aek Athens", "teamB": "Real Madrid", "tip": "ht1 - OV1.5", "odds": "2.30" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "2.50" }, 
+      { "teamA": "COMING UP....", "teamB": "Liverpool", "tip": "2", "odds": "1.65" },
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "ht1 - OV1.5", "odds": "2.30" } ],
     
     "vip1000": 
-    [ { "teamA": "Aek Athens", "teamB": "Real Madrid", "tip": "2", "odds": "1.35" }, 
-      { "teamA": "Fenerbahce", "teamB": "Liverpool", "tip": "2", "odds": "1.55" }, 
-      { "teamA": "Leipzig", "teamB": "Man City", "tip": "2", "odds": "1.65" }, 
-      { "teamA": "Viking Fk", "teamB": "Sabah Masazir", "tip": "1", "odds": "1.55" }, 
-      { "teamA": "Lens", "teamB": "Como", "tip": "OVER 2.5", "odds": "1.65" }, 
-      { "teamA": "Slavia Prague", "teamB": "Arsenal", "tip": "2", "odds": "1.35" } ],
+    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.35" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.55" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.65" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "1", "odds": "1.55" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "OVER 2.5", "odds": "1.65" }, 
+      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "1.35" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# X1X211XX1"] },
@@ -291,6 +291,7 @@
             { "country": "italy", "teamA": "Viking Fk", "teamB": "Sabah Masazir", "prediction": "OVER 2.5", "score": "4-1", "odds": "1.85", "result": "WON" },
             { "country": "italy", "teamA": "Leipzig", "teamB": "Man city", "prediction": "1", "score": "2-3", "odds": "1.60", "result": "WON" },
             { "country": "germany", "teamA": "Fenerbahce", "teamB": "Liverpool", "prediction": "GG", "score": "1-2", "odds": "1.65", "result": "WON" },
+            { "country": "italy", "teamA": "Slavia Prague", "teamB": "Arsenal", "prediction": "GG", "score": "1-2", "odds": "1.80", "result": "WON" },
            { "country": "germany", "teamA": "Aek Athens", "teamB": "Real Madrid", "prediction": "2", "score": "2-3", "odds": "1.55", "result": "WON" }
         ]
       }
