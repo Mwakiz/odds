@@ -255,43 +255,43 @@
       "date": "Yesterday",
       "categories": {
 
-         "1 Draw": [ { "country": "spain", "teamA": "Baia De Pemba Fc", "teamB": "Ferroviario De Maputo", "prediction": "Draw", "score": "2-2", "odds": "3.50", "result": "WON" } ],
+         "1 Draw": [ { "country": "spain", "teamA": "Zanaco Fc", "teamB": "Muza", "prediction": "Draw", "score": "2-2", "odds": "3.10", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": "Hamilton", "teamB": "Raith", "prediction": "Draw", "score": "1-1", "odds": "3.50", "result": "WON" },
-            { "country": "france", "teamA": "West Brom", "teamB": "Southampton", "prediction": "Draw", "score": "1-1", "odds": "3.10", "result": "WON" }
+            { "country": "italy", "teamA": "Primeiro De Agosto", "teamB": "Wiliete Sc", "prediction": "Draw", "score": "0-0", "odds": "3.50", "result": "WON" },
+            { "country": "france", "teamA": "Cardiff", "teamB": "West Ham", "prediction": "Draw", "score": "3-3", "odds": "4.10", "result": "WON" }
         ],
         
         "Silver Plan": [ 
-          { "country": "england", "teamA": "Genclerbirligi", "teamB": "Alanyaspor", "prediction": "OVER 2.5", "score": "5-0", "odds": "2.20", "result": "WON" },
-          { "country": "germany", "teamA": "Kayserispor", "teamB": "Muglaspor", "prediction": "OVER 2.5", "score": "6-0", "odds": "2.50", "result": "WON" }
+          { "country": "england", "teamA": "Lens", "teamB": "Como", "prediction": "OVER 2.5", "score": "1-9", "odds": "1.70", "result": "WON" },
+          { "country": "germany", "teamA": "Slavia Prague", "teamB": "Arsenal", "prediction": "OVER 2.5", "score": "1-2", "odds": "1.80", "result": "WON" }
         ],
         
 
         "Gold Plan": [ 
-            { "country": "spain", "teamA": "Sonderjyske", "teamB": "Copenhagen", "prediction": "2", "score": "0-2", "odds": "1.55", "result": "WON" },
-            { "country": "italy", "teamA": "Genclerbirligi", "teamB": "Alanyaspor", "prediction": "OVER 3.5", "score": "5-0", "odds": "3.55", "result": "WON" },
-            { "country": "spain", "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "prediction": "2", "score": "2-6", "odds": "1.60", "result": "WON" }
+            { "country": "spain", "teamA": "Leipzig", "teamB": "Man City", "prediction": "2", "score": "2-3", "odds": "1.70", "result": "WON" },
+            { "country": "italy", "teamA": "Fc Porto", "teamB": "Napoli", "prediction": "OVER 3.5", "score": "4-1", "odds": "2.55", "result": "WON" },
+            { "country": "spain", "teamA": "Fenerbahce", "teamB": "Liverpool", "prediction": "OVER 2.5", "score": "3-2", "odds": "1.70", "result": "WON" }
         ],
         
         
         "Platinum Plan": [ 
-            { "country": "spain", "teamA": "Atalanta Bc", "teamB": "Parma", "prediction": "OVER 2.5", "score": "0-3", "odds": "1.80", "result": "WON" },
-            { "country": "france", "teamA": "Krylia Sovetov Samara", "teamB": "Zenit", "prediction": "2", "score": "0-3", "odds": "1.80", "result": "WON" },
-            { "country": "italy", "teamA": "Sassuolo", "teamB": "Fiorentina", "prediction": "OVER 2.5", "score": "2-4", "odds": "1.70", "result": "WON" }
+            { "country": "spain", "teamA": "Psv", "teamB": "Club Brugge", "prediction": "OVER 2.5", "score": "1-2", "odds": "1.60", "result": "WON" },
+            { "country": "france", "teamA": "Viking", "teamB": "Sabah Masazir", "prediction": "OVER 2.5", "score": "4-1", "odds": "1.60", "result": "WON" },
+            { "country": "italy", "teamA": "Slavia Prague", "teamB": "Arsenal", "prediction": "First Half Over 1.5", "score": "1-2", "odds": "2.70", "result": "WON" }
         ],
         
         "LONGBET PLAN": [ 
-           { "country": "france", "teamA": "Vardar Skopje", "teamB": "Struga Trim Lum", "prediction": "2", "score": "0-1", "odds": "3.75", "result": "WON" },
-           { "country": "france", "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "prediction": "OVER 3.5", "score": "2-6", "odds": "2.30", "result": "WON" },
-           { "country": "spain", "teamA": "Landskrona", "teamB": "Orebro", "prediction": "GG", "score": "2-1", "odds": "1.95", "result": "WON" }
+           { "country": "france", "teamA": "Cardiff", "teamB": "West Ham", "prediction": "OVER 3.5", "score": "3-3", "odds": "3.75", "result": "WON" },
+           { "country": "france", "teamA": "Fenerbahce", "teamB": "Liverpool", "prediction": "OVER 3.5", "score": "3-2", "odds": "2.30", "result": "WON" },
+           { "country": "spain", "teamA": "Aek Athens", "teamB": "Real Madrid", "prediction": "First Half Over 1.5", "score": "2-3", "odds": "2.35", "result": "WON" }
         ],
         
         "VIP Tips": [ 
-            { "country": "italy", "teamA": "Kayserispor", "teamB": "Muglaspor", "prediction": "OVER 3.5", "score": "6-0", "odds": "3.50", "result": "WON" },
-            { "country": "italy", "teamA": "Atalanta", "teamB": "Parma", "prediction": "OVER 2.5", "score": "0-3", "odds": "1.85", "result": "WON" },
-            { "country": "italy", "teamA": "Cs Barracas", "teamB": "Leones De Rosario Fc", "prediction": "1", "score": "4-1", "odds": "2.55", "result": "WON" },
-            { "country": "germany", "teamA": "Newcastle", "teamB": "Everton", "prediction": "2", "score": "0-1", "odds": "4.40", "result": "WON" },
-           { "country": "germany", "teamA": "Pakhtakor", "teamB": "Al-nassr Fc", "prediction": "GG", "score": "2-6", "odds": "1.65", "result": "WON" }
+            { "country": "italy", "teamA": "Lens", "teamB": "Como", "prediction": "2", "score": "1-9", "odds": "2.50", "result": "WON" },
+            { "country": "italy", "teamA": "Viking Fk", "teamB": "Sabah Masazir", "prediction": "OVER 2.5", "score": "4-1", "odds": "1.85", "result": "WON" },
+            { "country": "italy", "teamA": "Leipzig", "teamB": "Man city", "prediction": "1", "score": "2-3", "odds": "1.60", "result": "WON" },
+            { "country": "germany", "teamA": "Fenerbahce", "teamB": "Liverpool", "prediction": "GG", "score": "1-2", "odds": "1.65", "result": "WON" },
+           { "country": "germany", "teamA": "Aek Athens", "teamB": "Real Madrid", "prediction": "2", "score": "2-3", "odds": "1.55", "result": "WON" }
         ]
       }
     },
