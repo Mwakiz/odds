@@ -164,9 +164,9 @@
   "free_tip": {
     "country": "Call Us: 0728832598",
     "league": "UEFA Champions League",
-    "time": "Today 11:00 EAT",
-    "teamA": "Lens",
-    "teamB": "Como",
+    "time": "Today 8:45 EAT",
+    "teamA": "Crystal Palace",
+    "teamB": "Hoffenheim",
     "pick": "Pick: OVER 2.5",
     "confidence": "98"
   
@@ -226,9 +226,11 @@
       { "teamA": "Trabzonspor", "teamB": "Freiburg", "tip": "Ov2.5", "odds": "1.75" } ],
     
     "odds5": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "2", "odds": "2.50" }, 
-      { "teamA": "COMING UP....", "teamB": "Liverpool", "tip": "2", "odds": "1.65" },
-      { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "ht1 - OV1.5", "odds": "2.30" } ],
+    [ { "teamA": "Getafe", "teamB": "Brighton", "tip": "OVER 1.5", "odds": "1.35" }, 
+      { "teamA": "Lincoln Red Imps", "teamB": "Hajduk Split", "tip": "2", "odds": "1.55" },
+      { "teamA": "Ac Milan", "teamB": "Ferencvaros", "tip": "1", "odds": "1.45" },
+      { "teamA": "Fc Midtjylland", "teamB": "Ajax", "tip": "GG", "odds": "1.55" },
+      { "teamA": "Sunderland", "teamB": "Dinamo Zagreb", "tip": "1", "odds": "1.50" } ],
     
     "vip1000": 
     [ { "teamA": "Agf Aarhus", "teamB": "Braga", "tip": "2", "odds": "2.35" }, 
