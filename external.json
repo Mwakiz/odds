@@ -205,10 +205,10 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": "Kcb", "teamB": " Aps Bomet Fc", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": "COMING UP....", "teamB": "COMING UP....", "tip": "Draw", "odds": "3.20" }, 
+    [ { "teamA": "Pfc Sogdiana", "teamB": "Pfk Dinamo Samarqand", "tip": "Draw", "odds": "3.20" }, 
       { "teamA": "Fc Obolon Kyiv", "teamB": "Fc Livyi Bereh Kyiv", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
