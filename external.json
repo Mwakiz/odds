@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "Kcb", "teamB": " Aps Bomet Fc", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": "Hubei Istar", "teamB": "Dalian Yingbo B", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": "Pfc Sogdiana", "teamB": "Pfk Dinamo Samarqand", "tip": "Draw", "odds": "3.20" }, 
-      { "teamA": "Fc Obolon Kyiv", "teamB": "Fc Livyi Bereh Kyiv", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": "Mara Sugar Fc", "teamB": "Migori Youth Fc", "tip": "Draw", "odds": "3.20" }, 
+      { "teamA": "Paykan Fc", "teamB": "Nassaji Mazandaran Fc", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
     [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.85" }, 
