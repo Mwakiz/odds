@@ -229,11 +229,10 @@
       { "teamA": "Espanyol", "teamB": "Deportivo A Coruna", "tip": "GG", "odds": "2.20" } ],
     
     "vip1000": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.35" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.85" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.80" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 1.5", "odds": "1.45" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.80" } ],
+    [ { "teamA": "Torino Fc", "teamB": "Us Lecce", "tip": "1", "odds": "1.95" }, 
+      { "teamA": "Montrose Fc", "teamB": "East Fife Fc", "tip": "1", "odds": "2.20" }, 
+      { "teamA": "Blackburn", "teamB": "West Ham", "tip": "OVER 2.5", "odds": "1.70" }, 
+      { "teamA": "Harrogate", "teamB": "Fylde", "tip": "OVER 2.5", "odds": "1.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# X1X211XX1"] },
