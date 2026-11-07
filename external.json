@@ -212,16 +212,16 @@
       { "teamA": "Paykan Fc", "teamB": "Nassaji Mazandaran Fc", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.85" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.95" } ],
+    [ { "teamA": "Harrogate", "teamB": "Fylde", "tip": "OVER 2.5", "odds": "1.50" }, 
+      { "teamA": "Luton", "teamB": "Forest Green", "tip": "1", "odds": "1.55" } ],
     
     "odds3": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.60" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.15" } ],
+    [ { "teamA": "Leeds", "teamB": "Tottenham", "tip": "OVER 2.5", "odds": "2.20" }, 
+      { "teamA": "Cagliari", "teamB": "Frosinone", "tip": "OVER 2.5", "odds": "1.50" } ],
     
     "odds4": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.50" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Ov2.5", "odds": "1.95" } ],
+    [ { "teamA": "Nottm Forest", "teamB": "Man City", "tip": "2", "odds": "1.80" }, 
+      { "teamA": "Valencia", "teamB": "Real Madrid", "tip": "First Half - OVER 1.5", "odds": "2.30" } ],
     
     "odds5": 
     [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.15" }, 
