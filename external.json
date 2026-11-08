@@ -205,34 +205,34 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": "Paykan Fc", "teamB": "Nassaji Mazandaran Fc", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": "Mara Sugar Fc", "teamB": "Migori Youth Fc", "tip": "Draw", "odds": "3.20" }, 
-      { "teamA": "Paykan Fc", "teamB": "Nassaji Mazandaran Fc", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.20" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": "Harrogate", "teamB": "Fylde", "tip": "OVER 2.5", "odds": "1.50" }, 
-      { "teamA": "Luton", "teamB": "Forest Green", "tip": "1", "odds": "1.55" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.50" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.55" } ],
     
     "odds3": 
-    [ { "teamA": "Leeds", "teamB": "Tottenham", "tip": "OVER 2.5", "odds": "2.20" }, 
-      { "teamA": "Cagliari", "teamB": "Frosinone", "tip": "OVER 2.5", "odds": "1.50" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "2.20" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.50" } ],
     
     "odds4": 
-    [ { "teamA": "Nottm Forest", "teamB": "Man City", "tip": "2", "odds": "1.80" }, 
-      { "teamA": "Valencia", "teamB": "Real Madrid", "tip": "First Half - OVER 1.5", "odds": "2.30" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.80" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "First Half - OVER 1.5", "odds": "2.30" } ],
     
     "odds5": 
-    [ { "teamA": "Nottm Forest", "teamB": "Man City", "tip": "2", "odds": "1.80" }, 
-      { "teamA": "Blackburn", "teamB": "West Ham", "tip": "OVER 2.5", "odds": "1.70" },
-      { "teamA": "Espanyol", "teamB": "Deportivo A Coruna", "tip": "GG", "odds": "2.20" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.80" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.70" },
+      { "teamA": "COMING UP...", "teamB": "V", "tip": "GG", "odds": "2.20" } ],
     
     "vip1000": 
-    [ { "teamA": "Torino Fc", "teamB": "Us Lecce", "tip": "1", "odds": "1.95" }, 
-      { "teamA": "Montrose Fc", "teamB": "East Fife Fc", "tip": "1", "odds": "2.20" }, 
-      { "teamA": "Blackburn", "teamB": "West Ham", "tip": "OVER 2.5", "odds": "1.70" }, 
-      { "teamA": "Harrogate", "teamB": "Fylde", "tip": "OVER 2.5", "odds": "1.60" } ],
+    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.95" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.20" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.70" }, 
+      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# X1X211XX1"] },
