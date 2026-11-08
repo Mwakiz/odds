@@ -212,27 +212,31 @@
       { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.50" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.55" } ],
+    [ { "teamA": "Fc St. Gallen 1879", "teamB": "Fc Lugano", "tip": "2", "odds": "2.70" }, 
+      { "teamA": "Sunderland", "teamB": "Chelsea", "tip": "OVER 1.5", "odds": "1.30" } ],
     
     "odds3": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "2.20" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.50" } ],
+    [ { "teamA": "Angers", "teamB": "Nice", "tip": "2", "odds": "2.30" }, 
+      { "teamA": "Celta Vigo", "teamB": "Levante", "tip": "OVER 1.5", "odds": "1.35" } ],
     
     "odds4": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.80" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "First Half - OVER 1.5", "odds": "2.30" } ],
+    [ { "teamA": "Sunderland", "teamB": "Chelsea", "tip": "2", "odds": "2.50" }, 
+      { "teamA": "Fc Twente", "teamB": "Ajax", "tip": "OVER 2.5", "odds": "1.50" }, 
+      { "teamA": "Club Brugge", "teamB": "Anderlecht", "tip": "OVER 2.5", "odds": "1.40" } ],
     
     "odds5": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "2", "odds": "1.80" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.70" },
-      { "teamA": "COMING UP...", "teamB": "V", "tip": "GG", "odds": "2.20" } ],
+    [ { "teamA": "Hoffenheim", "teamB": "Schalke 04", "tip": "1", "odds": "1.70" }, 
+      { "teamA": "Fc Midtjylland", "teamB": "Sonderjyske", "tip": "OVER 2.5", "odds": "1.55" },
+      { "teamA": "Alanyaspor", "teamB": "Trabzonspor", "tip": "2", "odds": "1.70" }, 
+      { "teamA": "Lks Lodz", "teamB": "Zks Stal Rzeszow", "tip": "OVER 2.5", "odds": "1.70" } ],
     
     "vip1000": 
-    [ { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "1.95" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "1", "odds": "2.20" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.70" }, 
-      { "teamA": "COMING UP...", "teamB": "COMING UP...", "tip": "OVER 2.5", "odds": "1.60" } ],
+    [ { "teamA": "Tromsoe Il", "teamB": "Bodoe/glimt", "tip": "OVER 2.5", "odds": "1.55" }, 
+      { "teamA": "Fc Twente", "teamB": "Ajax", "tip": "OVER 2.5", "odds": "1.50" }, 
+      { "teamA": "Servette Geneva", "teamB": " Fc Zurich", "tip": "GG", "odds": "1.55" }, 
+      { "teamA": "Bryne Fk", "teamB": "Kongsvinger Il Fotball", "tip": "OVER 2.5", "odds": "1.45" }, 
+      { "teamA": "Corum", "teamB": "Fenerbahce", "tip": "OVER 2.5", "odds": "1.70" }, 
+      { "teamA": "Fc St. Gallen 1879", "teamB": "Fc Lugano", "tip": "2", "odds": "2.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": ["Jp# X1X211XX1"] },
