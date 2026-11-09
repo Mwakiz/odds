@@ -205,10 +205,10 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Az Picerno ", "teamB": " Ssc Bari ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.20" }, 
+    [ { "teamA": " Fc Botosani ", "teamB": " Asc Otelul Galati ", "tip": "Draw", "odds": "3.60" }, 
       { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
@@ -239,14 +239,14 @@
       { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "2", "odds": "2.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
-    { "slips": ["Jp# X1X211XX1"] },
+    { "slips": [" COMING UP..... "] },
     "jackpot-sportpesa-jackpot-2-slips": 
-    { "slips": ["Jp# X1X211XX1", "Jp# X1X211XX1"] },
+    { "slips": [" COMING UP..... ", " COMING UP..... "] },
     
     "jackpot-mega-jackpot-1-slip": 
-    { "slips": ["MJP #2,X,1,2,1,1,2,1,2,1,2,2,X,2,X,1,2"] },
+    { "slips": [" COMING UP..... "] },
     "jackpot-mega-jackpot-2-slips": 
-    { "slips": ["MJP# 1,2,1,2,1,1,1,X,2,1,X,2,2,2,1,2,2", "MJP #2,X,1,2,1,1,2,1,2,1,2,2,X,2,X,1,2"] }
+    { "slips": [" COMING UP..... ", " COMING UP..... "] }
     
   },
   
