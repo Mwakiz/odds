@@ -163,10 +163,10 @@
   ],
   "free_tip": {
     "country": "Call Us: 0728832598",
-    "league": "Erovnuli Liga",
-    "time": "Today 7:00 EAT",
-    "teamA": "Fc Iberia 1999",
-    "teamB": "Fc Gagra",
+    "league": " EFL Trophy ",
+    "time": " Today 22:30 EAT ",
+    "teamA": " Bromley ",
+    "teamB": " Mk Dons ",
     "pick": "Pick: OVER 2.5",
     "confidence": "98"
   
@@ -205,36 +205,36 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Calcio Foggia  ", "teamB": " Barletta Calcio ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " COMING UP....  ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " Botosani ", "teamB": " Asc Otelul Galati ", "tip": "Draw", "odds": "3.60" }, 
-      { "teamA": " Sportivo Luqueno ", "teamB": "Cs 2 De Mayo ", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.60" }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": " Iberia ", "teamB": " Gagra ", "tip": " OVER 2.5 ", "odds": "1.85" }, 
-      { "teamA": " Hvidovre If ", "teamB": " Aarhus Fremad ", "tip": "OVER 1.5", "odds": "1.30" } ],
+    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": "1.85" }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "OVER 1.5", "odds": "1.30" } ],
     
     "odds3": 
-    [ { "teamA": " Kristiansund Bk ", "teamB": " Vaalerenga If ", "tip": "2", "odds": "2.50" }, 
-      { "teamA": " Fk Napredak Krusevac ", "teamB": " Fk Bor 1919 ", "tip": "1", "odds": "1.55" } ],
+    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "2", "odds": "2.50" }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "1", "odds": "1.55" } ],
     
     "odds4": 
-    [ { "teamA": " Coventry City ", "teamB": " Queens Park Rangers ", "tip": "1", "odds": "1.70" }, 
-      { "teamA": " Cska Sofia Ii ", "teamB": " Pfc Rilski Sportist Samokov ", "tip": " 1 ", "odds": "1.70" }, 
-      { "teamA": " Wadi Degla ", "teamB": " Kahrabaa Ismailia ", "tip": "OVER 1.5", "odds": "1.50" } ],
+    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "1", "odds": "1.70" }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " 1 ", "odds": "1.70" }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "OVER 1.5", "odds": "1.50" } ],
     
     "odds5": 
-    [ { "teamA": " Hvidovre If ", "teamB": " Aarhus Fremad ", "tip": "1", "odds": "1.70" }, 
-      { "teamA": " Kristiansund Bk ", "teamB": " Vaalerenga If ", "tip": "OVER 2.5", "odds": "1.45" },
-      { "teamA": " Fc Iberia 1999 Vs. ", "teamB": " Gagra ", "tip": " 1 ", "odds": "1.56" } ],
+    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "1", "odds": "1.70" }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "OVER 2.5", "odds": "1.45" },
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " 1 ", "odds": "1.56" } ],
     
     "vip1000": 
-    [ { "teamA": " Panaitolikos ", "teamB": " Volos Np ", "tip": "OVER 1.5", "odds": " 1.35 " }, 
-      { "teamA": " Kristiansund Bk ", "teamB": " Vaalerenga If ", "tip": "2", "odds": " 2.50 " }, 
-      { "teamA": " Fk Veles Moscow ", "teamB": " Fc Kamaz Naberezhnye Chelny ", "tip": " OVER 1.5 ", "odds": " 1.45 " }, 
-      { "teamA": " Napredak Krusevac  ", "teamB": " Fk Bor 1919 ", "tip": " 1 ", "odds": " 1.60 " }, 
-      { "teamA": " Iberia ", "teamB": " Gagra ", "tip": " OVER 2.5 ", "odds": "1.60" } ],
+    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "OVER 1.5", "odds": " 1.35 " }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "2", "odds": " 2.50 " }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 1.5 ", "odds": " 1.45 " }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " 1 ", "odds": " 1.60 " }, 
+      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": "1.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": [" COMING UP..... "] },
