@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " COMING UP....  ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Atletico Tucuman II  ", "teamB": " Ca Union Santa Fe Reserve ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.60" }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": " Afc Metalul Buzau ", "teamB": " Csa Steaua Bucuresti ", "tip": "Draw", "odds": "3.60" }, 
+      { "teamA": " Internacional De Bogota  ", "teamB": " America De Cali ", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
     [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": "1.85" }, 
