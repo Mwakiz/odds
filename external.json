@@ -205,39 +205,39 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " COMING UP....  ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Instituto Ac Cordoba II  ", "teamB": " San Lorenzo De Almagro II ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.60" }, 
-      { "teamA": " COMING UP....  ", "teamB": " COMING UP.... ", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": " Instituto Ac Cordoba II ", "teamB": " San Lorenzo De Almagro II ", "tip": "Draw", "odds": "3.60" }, 
+      { "teamA": " Real Soacha Cundinamarca ", "teamB": " Real Cartagena ", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
-    [ { "teamA": " COMING UP....  ", "teamB": " COMING UP.... ", "tip": " 1 ", "odds": "1.75" }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " 2 ", "odds": "2.20" } ],
+    [ { "teamA": " Zamora Fc Barinas II  ", "teamB": " Dep. Lara ", "tip": " 2 ", "odds": "2.25" }, 
+      { "teamA": " Czech Republic U19 ", "teamB": " Netherlands U19 ", "tip": " OVER 2.5 ", "odds": "1.60" } ],
     
     "odds3": 
-    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "2", "odds": "2.20" }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "OVER 2.5", "odds": "1.55" } ],
+    [ { "teamA": " Lisen Brno ", "teamB": " Jablonec ", "tip": "2", "odds": "2.20" }, 
+      { "teamA": " Colombe Fc ", "teamB": " Victoria United ", "tip": "OVER 2.5", "odds": "2.10" } ],
     
     "odds4": 
-    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": " 1.40 " }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP....  ", "tip": " GG&OVER2.5 ", "odds": " 2.15 " } ],
+    [ { "teamA": " Colombe Fc ", "teamB": " Victoria United ", "tip": " OVER 2.5 ", "odds": " 2.40 " }, 
+      { "teamA": " Lisen Brno  ", "teamB": " Fk Jablonec ", "tip": " OVER 2.5 ", "odds": " 1.90 " }, 
+      { "teamA": " Liverpool Women  ", "teamB": " Aston Villa Women  ", "tip": " OVER2.5 ", "odds": " 1.60 " } ],
     
     "odds5": 
-    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " 1 ", "odds": " 1.30 " }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " 1 ", "odds": " 1.45 " },
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " 1 ", "odds": " 1.55 " },
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": " 1.60 " },
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": "1.86" } ],
+    [ { "teamA": " Malmo W", "teamB": " Afc Ajax W  ", "tip": " 1 ", "odds": " 2.30 " }, 
+      { "teamA": " Barnsley  ", "teamB": " Oldham ", "tip": " 1 ", "odds": " 1.80 " },
+      { "teamA": " Juventus Turin W ", "teamB": " Olympique Lyon W ", "tip": " GG ", "odds": " 2.15 " },
+      { "teamA": " Sheffield Wed  ", "teamB": " Accrington ", "tip": " 1 ", "odds": " 1.60 " },
+      { "teamA": " Frankfurt Women  ", "teamB": " Psv W  ", "tip": " 1 ", "odds": "1.60" } ],
     
     "vip1000": 
-    [ { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": "OVER 2.5", "odds": " 1.65 " }, 
-      { "teamA": " COMING UP....  ", "teamB": " COMING UP.... ", "tip": "1", "odds": " 1.75 " }, 
-      { "teamA": " COMING UP....  ", "teamB": " COMING UP.... ", "tip": "OVER 2.5", "odds": " 1.65 " }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " 2 ", "odds": " 2.15 " }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": " 1.85 " }, 
-      { "teamA": " COMING UP.... ", "teamB": " COMING UP.... ", "tip": " OVER 2.5 ", "odds": "1.60" } ],
+    [ { "teamA": " Cd Cieza  ", "teamB": " Valencia Cf Mestalla ", "tip": " OVER 2.5 ", "odds": " 1.85 " }, 
+      { "teamA": " Colombe Fc  ", "teamB": " Victoria United ", "tip": " OVER 2.5 ", "odds": " 2.25 " }, 
+      { "teamA": " Lisen Brno   ", "teamB": " Jablonec ", "tip": "OVER 2.5", "odds": " 1.90 " }, 
+      { "teamA": " Czech Republic U19  ", "teamB": " Netherlands U19  ", "tip": " OVER 2.5 ", "odds": " 1.60 " }, 
+      { "teamA": " Instituto Ac Cordoba II ", "teamB": "  San Lorenzo De Almagro II ", "tip": " DRAW ", "odds": " 3.85 " }, 
+      { "teamA": " Liverpool Women  ", "teamB": " Aston Villa Women ", "tip": " OVER 2.5 ", "odds": "1.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": [" COMING UP..... "] },
