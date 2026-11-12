@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Dayrout ", "teamB": " Proxy Sc  ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Plaza Colonia ", "teamB": " Club Atletico Rentistas  ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " El-entag  ", "teamB": " Al Mehalla ", "tip": "Draw", "odds": "3.60" }, 
-      { "teamA": " Al Nasr Cairo ", "teamB": " Pharco Fc  ", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": " Ca Barracas Central II  ", "teamB": " Argentinos Juniors II ", "tip": "Draw", "odds": "3.60" }, 
+      { "teamA": " Mount Pleasant  ", "teamB": " Portmore Utd  ", "tip": "Draw", "odds": "3.50" } ],
     
     "odds2": 
     [ { "teamA": " England  ", "teamB": " Croatia ", "tip": " OVER 2.5 ", "odds": " 1.50 " }, 
