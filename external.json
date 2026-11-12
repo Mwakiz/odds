@@ -232,12 +232,12 @@
       { "teamA": " San Marino  ", "teamB": " Belarus  ", "tip": " OVER 1.5 ", "odds": "1.30" } ],
     
     "vip1000": 
-    [ { "teamA": " Cd Cieza  ", "teamB": " Valencia Cf Mestalla ", "tip": " OVER 2.5 ", "odds": " 1.85 " }, 
-      { "teamA": " Colombe Fc  ", "teamB": " Victoria United ", "tip": " OVER 2.5 ", "odds": " 2.25 " }, 
-      { "teamA": " Lisen Brno   ", "teamB": " Jablonec ", "tip": "OVER 2.5", "odds": " 1.90 " }, 
-      { "teamA": " Czech Republic U19  ", "teamB": " Netherlands U19  ", "tip": " OVER 2.5 ", "odds": " 1.60 " }, 
-      { "teamA": " Instituto Ac Cordoba II ", "teamB": "  San Lorenzo De Almagro II ", "tip": " DRAW ", "odds": " 3.85 " }, 
-      { "teamA": " Liverpool Women  ", "teamB": " Aston Villa Women ", "tip": " OVER 2.5 ", "odds": "1.60" } ],
+    [ { "teamA": " Al Ahli   ", "teamB": " Amman Fc ", "tip": " DRAW ", "odds": " 3.55 " }, 
+      { "teamA": " San Marino   ", "teamB": " Belarus ", "tip": " OVER 2.5 ", "odds": " 1.80 " }, 
+      { "teamA": " Montenegro    ", "teamB": " Latvia ", "tip": "OVER 2.5", "odds": " 1.90 " }, 
+      { "teamA": " Turkey   ", "teamB": " Belgium  ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
+      { "teamA": " England  ", "teamB": "  Croatia ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
+      { "teamA": " Czech Republic   ", "teamB": " Spain ", "tip": " OVER 2.5 ", "odds": "1.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": [" COMING UP..... "] },
