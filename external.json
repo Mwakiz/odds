@@ -164,9 +164,9 @@
   "free_tip": {
     "country": "Call Us: 0728832598",
     "league": " International ",
-    "time": " Today 22:45 EAT ",
-    "teamA": " Italy   ",
-    "teamB": " France ",
+    "time": " Today 7:00 EAT ",
+    "teamA": " Nigeria   ",
+    "teamB": " Tanzania ",
     "pick": "Pick: OVER 2.5",
     "confidence": "98"
   
@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Plaza Colonia ", "teamB": " Club Atletico Rentistas  ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Tanta Fc ", "teamB": "  La Viena Fc  ", "tip": "Draw", "odds": "3.30" } ],
     
     "draw2": 
-    [ { "teamA": " Ca Barracas Central II  ", "teamB": " Argentinos Juniors II ", "tip": "Draw", "odds": "3.60" }, 
-      { "teamA": " Mount Pleasant  ", "teamB": " Portmore Utd  ", "tip": "Draw", "odds": "3.50" } ],
+    [ { "teamA": " Moldova  ", "teamB": "  Kazakhstan ", "tip": "Draw", "odds": "3.50" }, 
+      { "teamA": " Shillong Lajong Fc  ", "teamB": "  Sreenidi Deccan  ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": " England  ", "teamB": " Croatia ", "tip": " OVER 2.5 ", "odds": " 1.50 " }, 
