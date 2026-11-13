@@ -251,50 +251,56 @@
     
   },
   
-  "history": [
+ "history": [
     {
       "date": "Yesterday",
       "categories": {
 
-         "1 Draw": [ { "country": "spain", "teamA": " Atletico Tucuman II ", "teamB": " Ca Union Santa Fe II ", "prediction": " Draw ", "score": " 0-0 ", "odds": " 3.50 ", "result": "WON" } ],
+        "1 Draw": [ { "country": "spain", "teamA": " Al Ahli ", "teamB": " Amman Fc ", "prediction": " Draw ", "score": " 0-0 ", "odds": " 3.50 ", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": " Lokeren ", "teamB": " Dender ", "prediction": " Draw ", "score": " 2-2 ", "odds": " 3.50 ", "result": "WON" },
-            { "country": "france", "teamA": "Celta ", "teamB": " Levante ", "prediction": " Draw ", "score": " 0-0 ", "odds": " 4.10 ", "result": "WON" }
+            { "country": "italy", "teamA": " Armenia ", "teamB": " Cyprus ", "prediction": " Draw ", "score": " 1-1 ", "odds": " 3.50 ", "result": "WON" },
+            { "country": "france", "teamA": " Equatorial Guinea ", "teamB": " Zimbabwe ", "prediction": " DRAW ", "score": " 0-0 ", "odds": " 3.60 ", "result": "WON" }
         ],
         
         "Silver Plan": [ 
-          { "country": "england", "teamA": " Bradford City ", "teamB": " York ", "prediction": " 1 ", "score": " 4-0 ", "odds": " 1.75 ", "result": "WON" },
-          { "country": "germany", "teamA": " Santa Clara U21 ", "teamB": " Torreense U21 ", "prediction": " 2 ", "score": " 2-3 ", "odds": " 2.55 ", "result": "WON" }
+          { "country": "england", "teamA": " England ", "teamB": " Croatia ", "prediction": " OVER 2.5 ", "score": " 2-1 ", "odds": " 1.50 ", "result": "WON" },
+          { "country": "germany", "teamA": " San Marino ", "teamB": " Belarus ", "prediction": " HT1 - OV1.5 ", "score": " 0-2 ", "odds": " 2.30 ", "result": "WON" }
         ],
         
 
         "Gold Plan": [ 
-            { "country": "spain", "teamA": " Bury ", "teamB": " Cleethorpes Town ", "prediction": " 1 ", "score": " 1-0 ", "odds": " 2.20 ", "result": "WON" },
-            { "country": "spain", "teamA": " Bromley ", "teamB": " Mk Dons ", "prediction": " OVER 2.5 ", "score": " 1-2 ", "odds": " 1.60 ", "result": "WON" }
+            { "country": "spain", "teamA": " England ", "teamB": " Croatia ", "prediction": " HT1 - 1 ", "score": " 2-1 ", "odds": " 2.20 ", "result": "WON" },
+            { "country": "spain", "teamA": " Italy ", "teamB": " France ", "prediction": " OVER 2.5 ", "score": " 3-1 ", "odds": " 1.89 ", "result": "WON" }
+        ],
+               
+
+        "Gold Plan": [ 
+            { "country": "spain", "teamA": " Turkey ", "teamB": " Belgium ", "prediction": " GG ", "score": " 1-2 ", "odds": " 1.70 ", "result": "WON" },
+            { "country": "spain", "teamA": " New Zealand ", "teamB": " India ", "prediction": " OVER 3.5 ", "score": " 5-0 ", "odds": " 2.20 ", "result": "WON" }
         ],
         
         
         "Platinum Plan": [ 
-            { "country": "spain", "teamA": " Stockport County ", "teamB": " Tranmere ", "prediction": " DRAW ", "score": " 0-0 ", "odds": "4.65", "result": "WON" },
-            { "country": "france", "teamA": " Burton ", "teamB": " Notts County ", "prediction": " OVER 2.5 ", "score": " 0-3 ", "odds": " 1.65 ", "result": "WON" },
-            { "country": "italy", "teamA": " Real Madrid W ", "teamB": " Paris Fc W ", "prediction": " OVER 3.5 ", "score": " 0-4 ", "odds": "2.75", "result": "WON" }
+            { "country": "spain", "teamA": " France U20 ", "teamB": " Denmark U20 ", "prediction": " 2 ", "score": " 0-1 ", "odds": "1.65", "result": "WON" },
+            { "country": "france", "teamA": " Al Ahli ", "teamB": " Amman Fc ", "prediction": " HT1 - DRAW ", "score": " 0-0 ", "odds": " 2.10 ", "result": "WON" },
+            { "country": "italy", "teamA": " England ", "teamB": "Croatia ", "prediction": " OVER 2.5 ", "score": " 2-1 ", "odds": "1.65", "result": "WON" }
         ],
         
         "LONGBET PLAN": [ 
-           { "country": "france", "teamA": " Leicester ", "teamB": " Walsall ", "prediction": " 1 ", "score": " 2-1 ", "odds": " 1.45 ", "result": "WON" },
-           { "country": "france", "teamA": " Plymouth ", "teamB": " Swindon Town ", "prediction": " 1 ", "score": " 2-1 ", "odds": " 1.55 ", "result": "WON" },
-           { "country": "france", "teamA": " Cray ", "teamB": " Three Bridges ", "prediction": " 1 ", "score": " 2-0 ", "odds": " 1.55 ", "result": "WON" },
-           { "country": "france", "teamA": " Pamplona ", "teamB": " Eibar ", "prediction": " OVER 2.5 ", "score": " 0-3 ", "odds": " 1.65 ", "result": "WON" },
-           { "country": "spain", "teamA": " Northampton ", "teamB": " Gillingham ", "prediction": " OVER 2.5 ", "score": " 1-2 ", "odds": " 1.95 ", "result": "WON" }
+           { "country": "france", "teamA": " Turkey ", "teamB": " Belgium ", "prediction": " 2 ", "score": " 1-2 ", "odds": " 1.95 ", "result": "WON" },
+           { "country": "france", "teamA": " Czech Republic ", "teamB": " Spain ", "prediction": " 2 ", "score": " 0-2 ", "odds": " 1.40 ", "result": "WON" },
+           { "country": "france", "teamA": " Montenegro ", "teamB": " Latvia ", "prediction": " OVER 2.5 ", "score": " 2-1 ", "odds": " 1.55 ", "result": "WON" },
+           { "country": "france", "teamA": " Italy ", "teamB": " France ", "prediction": " OVER 1.5 ", "score": " 3-1 ", "odds": " 1.35 ", "result": "WON" },
+           { "country": "spain", "teamA": " San Marino ", "teamB": " Belarus  ", "prediction": " OVER 1.5 ", "score": " 0-2 ", "odds": " 1.35 ", "result": "WON" }
         ],
         
         "VIP Tips": [ 
-            { "country": "italy", "teamA": " Burton ", "teamB": " Notts County ", "prediction": " OVER 2.5 ", "score": " 0-2 ", "odds": " 1.65 ", "result": "WON" },
-            { "country": "italy", "teamA": " Bradford City ", "teamB": " York ", "prediction": " 1 ", "score": " 4-1 ", "odds": " 1.75 ", "result": "WON" },
-            { "country": "italy", "teamA": " Bromley ", "teamB": " Mk Dons ", "prediction": " OVER 2.5 ", "score": " 1-2 ", "odds": " 1.70 ", "result": "WON" },
-            { "country": "germany", "teamA": " Hemel Hempstead ", "teamB": " Torquay ", "prediction": " 2 ", "score": " 0-2 ", "odds": " 2.50 ", "result": "WON" },
-            { "country": "germany", "teamA": " Northampton ", "teamB": " Gillingham ", "prediction": " OVER 2.5 ", "score": " 1-2 ", "odds": " 1.90 ", "result": "WON" },
-            { "country": "germany", "teamA": " Morecambe ", "teamB": " Hereford ", "prediction": " DRAW ", "score": " 2-2 ", "odds": " 4.60 ", "result": "WON" }
+            { "country": "italy", "teamA": " Al Ahli ", "teamB": " Amman Fc ", "prediction": " DRAW ", "score": " 0-0 ", "odds": " 3.65 ", "result": "WON" },
+            { "country": "italy", "teamA": " San Marino ", "teamB": " Belarus ", "prediction": " HT1 - 2 ", "score": " 0-2 ", "odds": " 1.75 ", "result": "WON" },
+            { "country": "italy", "teamA": " Montenegro ", "teamB": " Latvia ", "prediction": " OVER 2.5 ", "score": " 2-1 ", "odds": " 1.60 ", "result": "WON" },
+            { "country": "germany", "teamA": " Turkey ", "teamB": " Belgium ", "prediction": " OVER 2.5 ", "score": " 1-2 ", "odds": " 1.65 ", "result": "WON" },
+            { "country": "germany", "teamA": " England ", "teamB": " Croatia ", "prediction": " OVER 2.5 ", "score": " 2-1 ", "odds": " 1.55 ", "result": "WON" },
+            { "country": "germany", "teamA": " Czech Republic ", "teamB": " Spain ", "prediction": " 2 ", "score": " 0-2 ", "odds": " 1.40 ", "result": "WON" }
         ]
       }
     },
