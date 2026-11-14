@@ -163,10 +163,10 @@
   ],
   "free_tip": {
     "country": "Call Us: 0728832598",
-    "league": " International ",
-    "time": " Today 7:00 EAT ",
-    "teamA": " Nigeria   ",
-    "teamB": " Tanzania ",
+    "league": " Scotland ",
+    "time": " Today 6:00 EAT ",
+    "teamA": " Livingston Fc    ",
+    "teamB": " Greenock Morton Fc ",
     "pick": "Pick: OVER 2.5",
     "confidence": "98"
   
@@ -205,39 +205,39 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Moldova ", "teamB": "  Kazakhstan  ", "tip": "Draw", "odds": "3.30" } ],
+    "draw1": [ { "teamA": " Aps Bomet Fc  ", "teamB": "  Bandari  ", "tip": "Draw", "odds": "3.30" } ],
     
     "draw2": 
-    [ { "teamA": " Moldova  ", "teamB": "  Kazakhstan ", "tip": "Draw", "odds": "3.50" }, 
-      { "teamA": " Shillong Lajong Fc  ", "teamB": "  Sreenidi Deccan  ", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": " Fc Versailles 78   ", "teamB": "  Rodez ", "tip": "Draw", "odds": "3.50" }, 
+      { "teamA": " Caerau Ely Fc   ", "teamB": "  Brickfield ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": " Nigeria  ", "teamB": " Tanzania  ", "tip": " OVER 2.5 ", "odds": " 1.75 " }, 
-      { "teamA": " Limavady Utd ", "teamB": " Cliftonville Fc  ", "tip": " 2 ", "odds": "1.65" } ],
+    [ { "teamA": " Almeria   ", "teamB": " Andorra  ", "tip": " 1 ", "odds": " 1.85 " }, 
+      { "teamA": " Livingston  ", "teamB": " Greenock Morton  ", "tip": " OVER 2.5 ", "odds": "1.65" } ],
     
     "odds3": 
-    [ { "teamA": " Austria Vienna (Am) ", "teamB": " Donaufeld Wien  ", "tip": " OVER 3.5 ", "odds": "2.20" }, 
-      { "teamA": " Rijeka  ", "teamB": " Orijent Rijeka ", "tip": "OVER 2.5", "odds": "1.80" } ],
+    [ { "teamA": " Nac Breda ", "teamB": "  Emmen   ", "tip": " OVER 2.5 ", "odds": "1.65" }, 
+      { "teamA": " Northern Ireland  ", "teamB": " Ukraine ", "tip": " GG ", "odds": "2.50" } ],
     
     "odds4": 
-    [ { "teamA": " Netherlands   ", "teamB": " Greece ", "tip": " 1 ", "odds": " 1.65 " }, 
-      { "teamA": " Scotland  ", "teamB": " North Macedonia  ", "tip": " OVER 2.5 ", "odds": " 1.70 " }, 
-      { "teamA": " Mali  ", "teamB": " Rwanda  ", "tip": " OVER1.5 ", "odds": " 1.40 " } ],
+    [ { "teamA": " Georgia   ", "teamB": " Hungary ", "tip": " GG ", "odds": " 2.20 " }, 
+      { "teamA": " Shrewsbury  ", "teamB": " Oldham  ", "tip": " OVER 2.5 ", "odds": " 2.20 " }, 
+      { "teamA": " Norway  ", "teamB": " Wales  ", "tip": " 1 ", "odds": " 1.40 " } ],
     
     "odds5": 
-    [ { "teamA": " Rijeka  ", "teamB": " Orijent Rijeka  ", "tip": " OVER 2.5 ", "odds": " 1.80 " }, 
-      { "teamA": " Nd Dravinja  ", "teamB": " Krka Novo Mesto ", "tip": "  OVER 2.5 ", "odds": " 1.78 " },
-      { "teamA": " Netherlands   ", "teamB": " Greece ", "tip": " 1 ", "odds": " 1.70 " },
-      { "teamA": " Scotland   ", "teamB": " North Macedonia ", "tip": " OVER 1.5 ", "odds": " 1.30 " },
-      { "teamA": " Serbia   ", "teamB": " Germany  ", "tip": " 2 ", "odds": "1.35" } ],
+    [ { "teamA": " Rochdale  ", "teamB": " York  ", "tip": " OVER 2.5 ", "odds": " 1.70 " }, 
+      { "teamA": " Norway  ", "teamB": " Wales ", "tip": "  OVER 2.5 ", "odds": " 1.50 " },
+      { "teamA": " Sweden    ", "teamB": " Bosnia & Herzegovina ", "tip": " 1 ", "odds": " 1.50 " },
+      { "teamA": " Georgia    ", "teamB": " Hungary ", "tip": " OVER 1.5 ", "odds": " 1.40 " },
+      { "teamA": " Colchester   ", "teamB": " Gillingham  ", "tip": " OVER 1.5 ", "odds": "1.35" } ],
     
     "vip1000": 
-    [ { "teamA": " Nigeria    ", "teamB": " Tanzania ", "tip": " OVER 2.5 ", "odds": " 1.70 " }, 
-      { "teamA": " Scotland   ", "teamB": " North Macedonia ", "tip": " OVER 2.5 ", "odds": " 1.70 " }, 
-      { "teamA": " Limavady Utd   ", "teamB": " Cliftonville ", "tip": " 2 ", "odds": " 1.67 " }, 
-      { "teamA": " Leganes   ", "teamB": " Burgos  ", "tip": " 2 ", "odds": " 3.15 " }, 
-      { "teamA": " Liechtenstein  ", "teamB": "  Azerbaijan ", "tip": " OVER 2.5 ", "odds": " 2.25 " }, 
-      { "teamA": " Moldova   ", "teamB": " Kazakhstan ", "tip": " DRAW ", "odds": "3.60" } ],
+    [ { "teamA": " Almeria   ", "teamB": " Andorra ", "tip": " 1 ", "odds": " 1.85 " }, 
+      { "teamA": " Livingston Fc   ", "teamB": " Greenock Morton Fc ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
+      { "teamA": " Shrewsbury  ", "teamB": " Oldham ", "tip": " OVER 2.5 ", "odds": " 2.05 " }, 
+      { "teamA": " Norway    ", "teamB": " Wales  ", "tip": " OVER 2.5 ", "odds": " 1.45 " }, 
+      { "teamA": " Ulinzi Stars   ", "teamB": "  Migori Youth Fc ", "tip": " DRAW ", "odds": " 3.25 " }, 
+      { "teamA": " Sk Unicov   ", "teamB": "  Fc Zlin B ", "tip": " 1 ", "odds": "1.70" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": [" COMING UP..... "] },
