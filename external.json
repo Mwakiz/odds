@@ -163,11 +163,11 @@
   ],
   "free_tip": {
     "country": "Call Us: 0728832598",
-    "league": " International  ",
-    "time": " Today 8:00 EAT ",
-    "teamA": " Belarus  ",
-    "teamB": " Albania  ",
-    "pick": "Pick: 2",
+    "league": " Ukraine  ",
+    "time": " Today 12:00 EAT ",
+    "teamA": " Ingulets Petrove ",
+    "teamB": " Probiy Gorodenka   ",
+    "pick": "Pick: 1 ",
     "confidence": "98"
   
 
@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " COMING UP...  ", "teamB": "  COMING UP...  ", "tip": "Draw", "odds": "3.30" } ],
+    "draw1": [ { "teamA": " Ario Eslamshahr  ", "teamB": "  Saipa Fc  ", "tip": "Draw", "odds": "3.30" } ],
     
     "draw2": 
-    [ { "teamA": " COMING UP...   ", "teamB": "  COMING UP... ", "tip": "Draw", "odds": "3.50" }, 
-      { "teamA": "  COMING UP...  ", "teamB": "  COMING UP... ", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": " Zimbabwe   ", "teamB": "  Equatorial Guinea ", "tip": "Draw", "odds": "3.50" }, 
+      { "teamA": "  Leones De Rosario Fc  ", "teamB": "  Cs Barracas  ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": " COMING UP...  ", "teamB": " COMING UP...  ", "tip": " 1 ", "odds": " 1.85 " }, 
