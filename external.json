@@ -226,7 +226,7 @@
     
     "odds5": 
     [ { "teamA": " Germany  ", "teamB": " Netherlands  ", "tip": " OVER 2.5 ", "odds": " 1.45 " }, 
-      { "teamA": " England U21  ", "KcbteamB": " France U21 ", "tip": " GG ", "odds": " 1.65 " },
+      { "teamA": " England U21  ", "teamB": " France U21 ", "tip": " GG ", "odds": " 1.65 " },
       { "teamA": " Sudan   ", "teamB": " Senegal ", "tip": " OVER 2.5 ", "odds": " 1.90 " },
       { "teamA": " Switzerland  ", "teamB": " Scotland ", "tip": " 1 ", "odds": "1.80" } ],
     
