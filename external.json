@@ -225,10 +225,10 @@
       { "teamA": "  Real Madrid W  ", "teamB": " Inter Milano W ", "tip": " OVER 2.5 ", "odds": " 1.45 " } ],
     
     "odds5": 
-    [ { "teamA": " Luton   ", "teamB": " Peterborough  ", "tip": " 1 ", "odds": " 1.55 " }, 
-      { "teamA": " Wales  ", "teamB": " Portugal ", "tip": " OVER 2.5 ", "odds": " 1.65 " },
-      { "teamA": " Denmark  ", "teamB": " Norway ", "tip": " GG ", "odds": " 1.45 " },
-      { "teamA": " Kenya  ", "teamB": " South Africa ", "tip": " OVER 1.5 ", "odds": "1.50" } ],
+    [ { "teamA": " Serik  ", "teamB": " Erzincan Futbol Yatirimlari As   ", "tip": " 2 ", "odds": " 2.15 " }, 
+      { "teamA": " Utebo ", "teamB": " Sabadell Fc  ", "tip": " 2 ", "odds": " 1.65 " },
+      { "teamA": " Hacken W ", "teamB": " Manchester City W ", "tip": " 1 ", "odds": " 1.45 " },
+      { "teamA": " London City Lionesses  ", "teamB": " Brighton And Hove Albion Wfc ", "tip": " OVER 2.5 ", "odds": "1.55" } ],
     
     "vip1000": 
     [ { "teamA": " Scotland U19  ", "teamB": " Belgium U19 ", "tip": " 2 ", "odds": " 1.95 " }, 
