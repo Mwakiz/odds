@@ -205,10 +205,10 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Havadar Sc  ", "teamB": " Sanat Mes Kerman Fc  ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Atletico Mansilles ", "teamB": " Guijuelo  ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " Roan United    ", "teamB": "  Chirundu United ", "tip": "Draw", "odds": "3.50" }, 
+    [ { "teamA": " Roan United  ", "teamB": "  Chirundu United ", "tip": "Draw", "odds": "3.50" }, 
       { "teamA": "  Cs Constantine ", "teamB": "  Ben Aknoun ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
@@ -255,7 +255,7 @@
       "date": "Yesterday",
       "categories": {
 
-        "1 Draw": [ { "country": "spain", "teamA": " Havadar Sc ", "teamB": " Sanat Mes Kerman Fc ", "prediction": " Draw ", "score": " 0-0 ", "odds": " 3.50 ", "result": "WON" } ],
+        "1 Draw": [ { "country": "spain", "teamA": " Havadar ", "teamB": " Sanat Mes Kerman ", "prediction": " Draw ", "score": " 0-0 ", "odds": " 3.50 ", "result": "WON" } ],
         "2 Draws": [ 
             { "country": "italy", "teamA": " Burundi ", "teamB": " Zambia ", "prediction": " Draw ", "score": " 1-1 ", "odds": " 3.50 ", "result": "WON" },
             { "country": "france", "teamA": " Lebanon ", "teamB": " Palestine ", "prediction": " DRAW ", "score": " 0-0 ", "odds": " 3.60 ", "result": "WON" }
