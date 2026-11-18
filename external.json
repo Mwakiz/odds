@@ -255,10 +255,10 @@
       "date": "Yesterday",
       "categories": {
 
-        "1 Draw": [ { "country": "spain", "teamA": " Havadar Sc ", "teamB": " Sanat Mes Kerman Fc ", "prediction": " Draw ", "score": " 1-1 ", "odds": " 3.50 ", "result": "WON" } ],
+        "1 Draw": [ { "country": "spain", "teamA": " Havadar Sc ", "teamB": " Sanat Mes Kerman Fc ", "prediction": " Draw ", "score": " 0-0 ", "odds": " 3.50 ", "result": "WON" } ],
         "2 Draws": [ 
-            { "country": "italy", "teamA": " Burundi ", "teamB": " Zambia ", "prediction": " Draw ", "score": " 3-3 ", "odds": " 3.50 ", "result": "WON" },
-            { "country": "france", "teamA": " Lebanon ", "teamB": " Palestine ", "prediction": " DRAW ", "score": " 1-1 ", "odds": " 3.60 ", "result": "WON" }
+            { "country": "italy", "teamA": " Burundi ", "teamB": " Zambia ", "prediction": " Draw ", "score": " 1-1 ", "odds": " 3.50 ", "result": "WON" },
+            { "country": "france", "teamA": " Lebanon ", "teamB": " Palestine ", "prediction": " DRAW ", "score": " 0-0 ", "odds": " 3.60 ", "result": "WON" }
         ],
         
         "Silver Plan": [ 
