@@ -239,9 +239,9 @@
       { "teamA": "  Cr Temouchent   ", "teamB": " Js El Biar ", "tip": " DRAW ", "odds": "3.10" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
-    { "slips": [" COMING UP..... "] },
+    { "slips": [" JP# X,1,2,2,1,X,2,1,1,2,1,1,2 "] },
     "jackpot-sportpesa-jackpot-2-slips": 
-    { "slips": [" COMING UP..... ", " COMING UP..... "] },
+    { "slips": [" JP# X,1,2,2,1,X,2,1,1,2,1,1,2 ", " JP# 1,1,2,2,1,X,2,1,1,2,1,2,2 "] },
     
     "jackpot-mega-jackpot-1-slip": 
     { "slips": [" JP # 211X1121221211X1X "] },
