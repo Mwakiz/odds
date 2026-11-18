@@ -231,12 +231,12 @@
       { "teamA": " London City Lionesses  ", "teamB": " Brighton And Hove Albion Wfc ", "tip": " OVER 2.5 ", "odds": "1.55" } ],
     
     "vip1000": 
-    [ { "teamA": " Scotland U19  ", "teamB": " Belgium U19 ", "tip": " 2 ", "odds": " 1.95 " }, 
-      { "teamA": " Oxford City  ", "teamB": "  Macclesfield Fc  ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
-      { "teamA": " Gambia   ", "teamB": " Ivory Coast ", "tip": " OVER 1.5 ", "odds": " 1.45 " }, 
-      { "teamA": " Luton  ", "teamB": " Peterborough  ", "tip": " 1 ", "odds": " 1.55 " }, 
-      { "teamA": " Serbia U21   ", "teamB": "  Poland U21 ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
-      { "teamA": "  Havadar Sc   ", "teamB": " Sanat Mes Kerman Fc ", "tip": " DRAW ", "odds": "3.10" } ],
+    [ { "teamA": " Utebo  ", "teamB": " Sabadell Fc ", "tip": " 2 ", "odds": " 1.65 " }, 
+      { "teamA": " London City Lionesses ", "teamB": " Brighton And Hove Albion Wfc   ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
+      { "teamA": " Real Madrid   ", "teamB": " Inter Milano ", "tip": " OVER 2.5 ", "odds": " 1.45 " }, 
+      { "teamA": " Coritiba  ", "teamB": " Santos Sp  ", "tip": " OVER 1.5 ", "odds": " 1.35 " }, 
+      { "teamA": " Cd Alcoyano ", "teamB": "  Mallorca ", "tip": " OVER 2.5 ", "odds": " 2.25 " }, 
+      { "teamA": "  Cr Temouchent   ", "teamB": " Js El Biar ", "tip": " DRAW ", "odds": "3.10" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": [" COMING UP..... "] },
