@@ -163,10 +163,10 @@
   ],
   "free_tip": {
     "country": "Call Us: 0728832598",
-    "league": " Slovenia ",
-    "time": " Today 03:30 EAT ",
-    "teamA": " Roltek Dob  ",
-    "teamB": "  Nk Bistrica   ",
+    "league": " International Clubs, ",
+    "time": " Today 23:00 EAT ",
+    "teamA": " Benfica Lisbon W  ",
+    "teamB": "  As Roma W   ",
     "pick": "Pick: 2 ",
     "confidence": "98"
   
@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Malavan Bandar Anzali Fc ", "teamB": " Gol Gohar Sirjan Fc  ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Zed Fc ", "teamB": " Smouha Sc ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " Mufulira Wanderers ", "teamB": "  Kabwe Warriors  ", "tip": "Draw", "odds": "3.50" }, 
-      { "teamA": "  La Viena Fc ", "teamB": "  El Sekka El Hadid ", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": " Zed Fc ", "teamB": "  Smouha  ", "tip": "Draw", "odds": "3.50" }, 
+      { "teamA": "  Ca Sarmiento De Junin II ", "teamB": "  Ca Barracas Central II ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": " Badajoz  ", "teamB": " Tenerife  ", "tip": " OVER 1.5 ", "odds": " 1.35 " }, 
