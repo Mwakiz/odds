@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Atletico Mansilles ", "teamB": " Guijuelo  ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Malavan Bandar Anzali Fc ", "teamB": " Gol Gohar Sirjan Fc  ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " Roan United  ", "teamB": "  Chirundu United ", "tip": "Draw", "odds": "3.50" }, 
-      { "teamA": "  Cs Constantine ", "teamB": "  Ben Aknoun ", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": " Mufulira Wanderers ", "teamB": "  Kabwe Warriors  ", "tip": "Draw", "odds": "3.50" }, 
+      { "teamA": "  La Viena Fc ", "teamB": "  El Sekka El Hadid ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": " Badajoz  ", "teamB": " Tenerife  ", "tip": " OVER 1.5 ", "odds": " 1.35 " }, 
