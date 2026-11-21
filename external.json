@@ -228,14 +228,14 @@
     [ { "teamA": " Chelsea  ", "teamB": " Leeds  ", "tip": " GG ", "odds": " 1.75 " }, 
       { "teamA": " Oxford United ", "teamB": " Wycombe  ", "tip": " GG ", "odds": " 1.75 " },
       { "teamA": " Sevilla ", "teamB": " Betis ", "tip": " 2 ", "odds": " 2.65 " },
-      { "teamA": " SSchalke 04  ", "teamB": " Stuttgart ", "tip": " OVER 2.5 ", "odds": "1.50" } ],
+      { "teamA": " Schalke 04  ", "teamB": " Stuttgart ", "tip": " OVER 2.5 ", "odds": "1.50" } ],
     
     "vip1000": 
-    [ { "teamA": " Tromsoe Il   ", "teamB": " Viking Fk ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
+    [ { "teamA": " Schalke 04    ", "teamB": " Stuttgart ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
       { "teamA": " Stade Lavallois Mfc ", "teamB": " Montpellier  ", "tip": " 2 ", "odds": " 2.15 " }, 
       { "teamA": " Buxton   ", "teamB": " Hednesford  ", "tip": " OVER 2.5 ", "odds": " 1.90 " }, 
-      { "teamA": " Vejle Bk ", "teamB": " Hb Koege ", "tip": " OVER 2.5 ", "odds": " 1.50 " }, 
-      { "teamA": " Dunfermline Athletic Fc ", "teamB": "  Greenock Morton Fc ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
+      { "teamA": " Newcastle  ", "teamB": " Arsenal ", "tip": " 2 ", "odds": " 1.75 " }, 
+      { "teamA": " Sevilla  ", "teamB": " Betis ", "tip": " 2 ", "odds": " 2.65 " }, 
       { "teamA": "  Wolves  ", "teamB": " Charlton  ", "tip": " OVER 2.5 ", "odds": "1.60" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
