@@ -205,11 +205,11 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " COMING UP... ", "teamB": " COMING UP...  ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Green Eagles ", "teamB": " Red Arrows  ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " COMING UP...   ", "teamB": " COMING UP... ", "tip": "Draw", "odds": "3.50" }, 
-      { "teamA": " COMING UP... ", "teamB": " COMING UP... ", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": " Nk Celik Zenica  ", "teamB": " Fk Sloga Doboj  ", "tip": "Draw", "odds": "3.50" }, 
+      { "teamA": " Us Musulmane Oujda ", "teamB": " Massira  ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
     [ { "teamA": " Paris FC  ", "teamB": " Angers ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
