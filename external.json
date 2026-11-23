@@ -217,7 +217,7 @@
     
     "odds3": 
     [ { "teamA": " Istanbul Basaksehir   ", "teamB": "  Corum ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
-      { "teamA": " Shkendija Tetovo  ", "teamB": " Fk Sileks Kratovo ", "tip": " 1 ", "odds": " 1.85 " } ],
+      { "teamA": " Podbeskidzie Bielsko-biala ", "teamB": " Bruk-bet Termalica Nieciecza  ", "tip": " OVER 2.5 ", "odds": " 1.65 " } ],
     
     "odds4": 
     [ { "teamA": " Brentford  ", "teamB": " Everton ", "tip": " 1 ", "odds": " 2.55 " }, 
@@ -225,18 +225,18 @@
       { "teamA": "  Nantes  ", "teamB": " Grenoble  ", "tip": " OVER 2.5 ", "odds": " 1.35 " } ],
     
     "odds5": 
-    [ { "teamA": " Hammarby If   ", "teamB": " Ifk Goteborg  ", "tip": " OVER 2.5 ", "odds": " 1.40 " }, 
-      { "teamA": " Monza  ", "teamB": " Acf Fiorentina  ", "tip": " GG ", "odds": " 1.55 " },
-      { "teamA": " Broendby If  ", "teamB": " Fc Midtjylland ", "tip": "  OVER 2.5 ", "odds": " 1.65 " },
+    [ { "teamA": " Hammarby   ", "teamB": "  Goteborg  ", "tip": " OVER 2.5 ", "odds": " 1.40 " }, 
+      { "teamA": " Monza  ", "teamB": "  Fiorentina  ", "tip": " GG ", "odds": " 1.55 " },
+      { "teamA": " Broendby  ", "teamB": " Midtjylland ", "tip": "  OVER 2.5 ", "odds": " 1.65 " },
       { "teamA": " Brentford  ", "teamB": " Everton  ", "tip": " GG ", "odds": "1.70" } ],
     
     "vip1000": 
-    [ { "teamA": " Monza ", "teamB": " Acf Fiorentina  ", "tip": " GG ", "odds": " 1.55 " }, 
-      { "teamA": " Broendby If  ", "teamB": " Fc Midtjylland   ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
+    [ { "teamA": " Monza ", "teamB": " Acf Fiorentina  ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
+      { "teamA": " Broendby If  ", "teamB": "  Midtjylland   ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
       { "teamA": " Vitesse Arnhem   ", "teamB": " De Graafschap  ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
       { "teamA": " Nantes   ", "teamB": " Grenoble", "tip": " OVER 2.5 ", "odds": " 1.95 " }, 
       { "teamA": " Istanbul Basaksehir   ", "teamB": " Corum ", "tip": " OVER 2.5 ", "odds": " 1.60 " }, 
-      { "teamA": "  Shkendija Tetovo  ", "teamB": " Fk Sileks Kratovo  ", "tip": " 1 ", "odds": "1.85" } ],
+      { "teamA": " Podbeskidzie Bielsko-biala ", "teamB": " Bruk-bet Termalica Nieciecza  ", "tip": " OVER 2.5 ", "odds": "1.65" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": [" JP# X,1,2,2,1,X,2,1,1,2,1,1,2 "] },
