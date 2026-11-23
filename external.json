@@ -205,10 +205,10 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Saham  ", "teamB": " Oman Club  ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Cs Barracas  ", "teamB": " Berazategui  ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " Black Stars  ", "teamB": " Naivas  ", "tip": "Draw", "odds": "3.50" }, 
+    [ { "teamA": " Ca Juventud De Las Piedras  ", "teamB": " Defensor Sporting ", "tip": "Draw", "odds": "3.50" }, 
       { "teamA": " Wadi Degla  ", "teamB": " Al Ittihad Alex  ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
