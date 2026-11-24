@@ -232,12 +232,13 @@
       { "teamA": " Brentford  ", "teamB": " Everton  ", "tip": " GG ", "odds": "1.70" } ],
     
     "vip1000": 
-    [ { "teamA": " Monza ", "teamB": " Acf Fiorentina  ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
-      { "teamA": " Broendby If  ", "teamB": "  Midtjylland   ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
-      { "teamA": " Vitesse Arnhem   ", "teamB": " De Graafschap  ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
-      { "teamA": " Nantes   ", "teamB": " Grenoble", "tip": " OVER 2.5 ", "odds": " 1.95 " }, 
-      { "teamA": " Istanbul Basaksehir   ", "teamB": " Corum ", "tip": " OVER 2.5 ", "odds": " 1.60 " }, 
-      { "teamA": " Podbeskidzie Bielsko-biala ", "teamB": " Bruk-bet Termalica Nieciecza  ", "tip": " OVER 2.5 ", "odds": "1.65" } ],
+    [ { "teamA": " Dag & Red  ", "teamB": " Tonbridge ", "tip": " OVER 2.5 ", "odds": " 1.95 " }, 
+      { "teamA": " Man City  ", "teamB": "  Napoli   ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
+      { "teamA": " Feyenoord    ", "teamB": "  Fc Porto  ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
+      { "teamA": " Livingston Fc   ", "teamB": " Peterhead Fc", "tip": " OVER 2.5 ", "odds": " 1.50 " }, 
+      { "teamA": " Galatasaray    ", "teamB": " Aston Villa ", "tip": " 2 ", "odds": " 2.50 " },
+      { "teamA": " Smouha Sc    ", "teamB": " National Bank Egypt ", "tip": " DRAW ", "odds": " 2.90 " }, 
+      { "teamA": " Bodoe/glimt  ", "teamB": " Lask  ", "tip": " 1 ", "odds": "1.55" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": [" JP# X,1,2,2,1,X,2,1,1,2,1,1,2 "] },
