@@ -205,20 +205,20 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Smouha  ", "teamB": " National Bank Egypt ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Smouha ", "teamB": " National Bank Egypt ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " Sheffield Utd  ", "teamB": " Southampton ", "tip": "Draw", "odds": "3.50" }, 
+    [ { "teamA": " Sheffield ", "teamB": " Southampton ", "tip": "Draw", "odds": "3.50" }, 
       { "teamA": " America De Cali ", "teamB": " Ad Cali  ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": " Hornchurch   ", "teamB": " Sutton ", "tip": " OVER 2.5 ", "odds": " 1.95 " }, 
-      { "teamA": " Feyenoord  ", "teamB": "  Fc Porto  ", "tip": " GG ", "odds": " 1.55" } ],
+    [ { "teamA": " Hornchurch  ", "teamB": " Sutton ", "tip": " OVER 2.5 ", "odds": " 1.95 " }, 
+      { "teamA": " Feyenoord ", "teamB": "  Porto  ", "tip": " GG ", "odds": " 1.55" } ],
     
     "odds3": 
     [ { "teamA": " Man City  ", "teamB": "  Napoli ", "tip": " GG ", "odds": " 1.65 " }, 
       { "teamA": " Middlesbrough  ", "teamB": " Swansea    ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
-      { "teamA": " Livingston Fc ", "teamB": " Peterhead Fc  ", "tip": " OVER 2.5 ", "odds": " 1.65 " } ],
+      { "teamA": " Livingston Fc ", "teamB": " Peterhead  ", "tip": " OVER 2.5 ", "odds": " 1.65 " } ],
     
     "odds4": 
     [ { "teamA": " Bodoe/glimt  ", "teamB": " Lask ", "tip": " 1 ", "odds": " 1.55 " }, 
@@ -226,10 +226,11 @@
       { "teamA": "  Wolves  ", "teamB": " Derby  ", "tip": " OVER 2.5 ", "odds": " 1.65 " } ],
     
     "odds5": 
-    [ { "teamA": " Hammarby   ", "teamB": "  Goteborg  ", "tip": " OVER 2.5 ", "odds": " 1.40 " }, 
-      { "teamA": " Monza  ", "teamB": "  Fiorentina  ", "tip": " GG ", "odds": " 1.55 " },
-      { "teamA": " Broendby  ", "teamB": " Midtjylland ", "tip": "  OVER 2.5 ", "odds": " 1.65 " },
-      { "teamA": " Brentford  ", "teamB": " Everton  ", "tip": " GG ", "odds": "1.70" } ],
+    [ { "teamA": " Bodoe/glimt   ", "teamB": "  Lask  ", "tip": " GG ", "odds": " 1.45 " }, 
+      { "teamA": " Arsena  ", "teamB": "  Dortmund  ", "tip": " 1 ", "odds": " 1.55 " },
+      { "teamA": " Feyenoord  ", "teamB": " Porto ", "tip": "  2 ", "odds": " 2.30 " },
+      { "teamA": " Smouha  ", "teamB": " National Bank Egypt ", "tip": "  OVER 1.5 ", "odds": " 1.50 " },
+      { "teamA": " Como ", "teamB": " Aek Athens  ", "tip": " OVER 2.5 ", "odds": "1.40" } ],
     
     "vip1000": 
     [ { "teamA": " Dag & Red  ", "teamB": " Tonbridge ", "tip": " OVER 2.5 ", "odds": " 1.95 " }, 
