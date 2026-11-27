@@ -163,10 +163,10 @@
   ],
   "free_tip": {
     "country": "Call Us: 0728832598",
-    "league": " UEFA Champions League ",
-    "time": " Today 08:45 EAT ",
-    "teamA": " Union Saint-gilloise  ",
-    "teamB": " Lech Poznan  ",
+    "league": " Netherlands ",
+    "time": " Today 22:00 EAT ",
+    "teamA": " Fc Groningen ",
+    "teamB": " Willem Ii Tilburg ",
     "pick": "Pick: OVER 2.5 ",
     "confidence": "98"
   
@@ -205,40 +205,41 @@
   ],
   
    "tips": {
-    "draw1": [ { "teamA": " Dayrout  ", "teamB": " El Daklyeh  ", "tip": "Draw", "odds": "3.50" } ],
+    "draw1": [ { "teamA": " Tanta Fc  ", "teamB": " El Mansurah  ", "tip": "Draw", "odds": "3.50" } ],
     
     "draw2": 
-    [ { "teamA": " Fc Nordsjaelland  ", "teamB": " Panathinaikos ", "tip": "Draw", "odds": "3.50" }, 
-      { "teamA": " Dayrout ", "teamB": " El Daklyeh  ", "tip": "Draw", "odds": "3.20" } ],
+    [ { "teamA": " Shams Azar Qazvin ", "teamB": " Kheybar Khorramabad Fc  ", "tip": "Draw", "odds": "3.50" }, 
+      { "teamA": " Kf Tirana ", "teamB": " Skenderbeu Korce ", "tip": "Draw", "odds": "3.20" } ],
     
     "odds2": 
-    [ { "teamA": " Celta Vigo ", "teamB": " Bournemouth ", "tip": " 2 ", "odds": " 2.15 " }, 
-      { "teamA": " Besiktas ", "teamB": "  Hapoel Beer Sheva Fc   ", "tip": " OVER 2.5 ", "odds": " 1.55" } ],
+    [ { "teamA": " Gornik Zabrze  ", "teamB": " Wisla Plock ", "tip": " OVER 2.5 ", "odds": " 1.85 " }, 
+      { "teamA": " Fc Groningen  ", "teamB": "  Willem Ii Tilburg  ", "tip": " OVER 2.5 ", "odds": " 1.55" } ],
     
     "odds3": 
-    [ { "teamA": " Hearts ", "teamB": "  Monaco ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
-      { "teamA": " Hoffenheim ", "teamB": " Sk Sturm Graz     ", "tip": " GG ", "odds": " 1.75 " }, 
-      { "teamA": " Lyon  ", "teamB": " Lillestrom Sk  ", "tip": " OVER 2.5 ", "odds": " 1.45 " } ],
+    [ { "teamA": " Sonderjyske ", "teamB": "  Broendby If ", "tip": " 1 ", "odds": " 1.75 " }, 
+      { "teamA": " Ael Limassol ", "teamB": " Olympiakos Nicosia  ", "tip": " 1 ", "odds": " 1.85 " }, 
+      { "teamA": " Werder Bremen ", "teamB": " Borussia (Mg)  ", "tip": " OVER 2.5 ", "odds": " 1.45 " } ],
     
     "odds4": 
-    [ { "teamA": " Doncaster   ", "teamB": " Huddersfield ", "tip": " 1 ", "odds": " 1.75 " }, 
-      { "teamA": " Braga  ", "teamB": " Kuopion Palloseura   ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
-      { "teamA": " Jablonec   ", "teamB": " Lugano  ", "tip": " 2 ", "odds": " 2.25 " } ],
+    [ { "teamA": " Jong Fc Utrecht  ", "teamB": " Almere City Fc   ", "tip": " 2 ", "odds": " 1.95 " }, 
+      { "teamA": " Fc Zeirey Tamra  ", "teamB": " Ms Tira   ", "tip": " 2 ", "odds": " 1.55 " }, 
+      { "teamA": " Jong Ajax Amsterdam  ", "teamB": " Heracles Almelo   ", "tip": " OVER 2.5 ", "odds": " 1.42 " } ],
     
     "odds5": 
-    [ { "teamA": " Sk Brann   ", "teamB": "  Agf Aarhus  ", "tip": " 1 ", "odds": " 2.45 " }, 
-      { "teamA": " Pafos  ", "teamB": "  Midtjylland  ", "tip": " OVER 2.5 ", "odds": " 1.65 " },
-      { "teamA": " Torreense  ", "teamB": " Celtic ", "tip": "  OVER 2.5 ", "odds": " 1.55 " },
-      { "teamA": " Kaa Gent ", "teamB": "  Crvena Zvezda  ", "tip": " OVER 2.5 ", "odds": "1.30" } ],
+    [ { "teamA": " Brest ", "teamB": "  Paris ", "tip": " 1 ", "odds": " 2.15 " }, 
+      { "teamA": " Levante  ", "teamB": "  Racing Santander  ", "tip": " OVER 2.5 ", "odds": " 1.55 " },
+      { "teamA": " Dukla Prague ", "teamB": " Mas Taborsko  ", "tip": "  OVER 2.5 ", "odds": " 1.45 " },
+       { "teamA": " Coleraine Fc ", "teamB": " Dungannon Swifts ", "tip": "  1 ", "odds": " 1.45 " },
+      { "teamA": " Nk Brezice 1919 ", "teamB": "  Triglav Kranj  ", "tip": " 2 ", "odds": "1.45" } ],
     
     "vip1000": 
-    [ { "teamA": " Kaa Gent  ", "teamB": " Crvena Zvezda ", "tip": " OVER 2.5 ", "odds": " 1.85 " }, 
-      { "teamA": " Marseille ", "teamB": "  Levski Sofia    ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
-      { "teamA": " Torreense    ", "teamB": "  Celtic ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
-      { "teamA": " Union Saint-gilloise  ", "teamB": " Lech Poznan  ", "tip": " OVER 2.5 ", "odds": " 1.50 " }, 
-      { "teamA": "  Brann   ", "teamB": " Aarhus ", "tip": " 1 ", "odds": " 2.50 " },
-      { "teamA": " Celta Vigo   ", "teamB": " Bournemouth ", "tip": " 2 ", "odds": " 2.12 " }, 
-      { "teamA": " Besiktas ", "teamB": "  Hapoel Beer Sheva  ", "tip": " OVER 2.5 ", "odds": "1.55" } ],
+    [ { "teamA": " Levante ", "teamB": " Racing Santander ", "tip": " OVER 2.5 ", "odds": " 1.55 " }, 
+      { "teamA": " Sonderjyske ", "teamB": "  Broendby If    ", "tip": " 2 ", "odds": " 1.75 " }, 
+      { "teamA": " Brest    ", "teamB": "  Paris ", "tip": " OVER 2.5 ", "odds": " 2.15 " }, 
+      { "teamA": " Werder Bremen ", "teamB": " Borussia (Mg)  ", "tip": " OVER 2.5 ", "odds": " 1.65 " }, 
+      { "teamA": "  Ael Limassol  ", "teamB": " Olympiakos Nicosia  ", "tip": " 1 ", "odds": " 1.85 " },
+      { "teamA": " Gornik Zabrze ", "teamB": " Wisla Plock  ", "tip": " OVER 2.5 ", "odds": " 1.75 " }, 
+      { "teamA": " Fc Groningen ", "teamB": "  Willem Ii Tilburg  ", "tip": " OVER 2.5 ", "odds": "1.55" } ],
     
     "jackpot-sportpesa-jackpot-1-slip": 
     { "slips": [" JP# X,1,2,2,1,X,2,1,1,2,1,1,2 "] },
